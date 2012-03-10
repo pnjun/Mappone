@@ -1,0 +1,52 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 0 -156 80 ) ( 0 -156 0 ) ( 0 20 0 ) uni_mosconi_1 -20 20 0 0 0 0 lightmap_gray 16384 16384 0 20 90 0
+ ( 0.21852508 20.028147 -1 ) ( 0.21852508 -155.97185 -1 ) ( 0.21852508 -155.97185 79 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 20 90 0
+ ( 16 20 0 ) ( 16 20 80 ) ( 0 20 80 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 0 0 0 0 lightmap_gray 16384 -16384 0 0 90 0
+ ( 16 14 20 ) ( 16 -162 20 ) ( 0 -162 20 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 0 0 0 0 lightmap_gray 16384 16384 -20 0 -90 0
+ ( 16 0 64 ) ( 16 0 -16 ) ( 0 0 -16 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 0 0 0 0 lightmap_gray 16384 -16384 0 0 90 0
+ ( 16 -156 0 ) ( 16 20 0 ) ( 0 20 0 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 0 0 0 0 lightmap_gray 16384 16384 -20 0 -90 0
+}
+// brush 1
+{
+ ( 0.5 20.5 -0.5 ) ( 0 20.5 -0.5 ) ( 0 20 0 ) ap_wood_tile_brown 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 20.5 20.5 ) ( 0.5 20.5 20.5 ) ( 0.5 20 20 ) ap_wood_tile_brown 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -3 20 20 ) ( 0.5 20 20 ) ( 0.5 20 0 ) ap_wood_tile_brown 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0.5 20 20 ) ( 0.5 24 20 ) ( 0.5 24 0 ) ap_wood_tile_brown 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 21 -0.5 ) ( 0.5 21 -0.5 ) ( 0.5 21 20.5 ) ap_wood_tile_brown 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 20.5 20 ) ( 0 16.5 20 ) ( 0 16.5 0 ) ap_wood_tile_brown 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 2
+{
+ ( 0 -0.5 -0.5 ) ( 0.5 -0.5 -0.5 ) ( 0.5 0 0 ) ap_wood_tile_brown 128 128 0 20.5 0 0 lightmap_gray 16384 16384 0 20.5 0 0
+ ( 0.5 -0.5 20.5 ) ( 0 -0.5 20.5 ) ( 0 0 20 ) ap_wood_tile_brown 128 128 0 20.5 0 0 lightmap_gray 16384 16384 0 20.5 0 0
+ ( 0 -1 20.5 ) ( 0.5 -1 20.5 ) ( 0.5 -1 -0.5 ) ap_wood_tile_brown 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0.5 -0.5 20 ) ( 0.5 3.5 20 ) ( 0.5 3.5 0 ) ap_wood_tile_brown 128 128 -20.5 0 0 0 lightmap_gray 16384 16384 -20.5 0 0 0
+ ( 3.5 0 20 ) ( 0 0 20 ) ( 0 0 0 ) ap_wood_tile_brown 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 0 20 ) ( 0 -4 20 ) ( 0 -4 0 ) ap_wood_tile_brown 128 128 -20.5 0 0 0 lightmap_gray 16384 16384 -20.5 0 0 0
+}
+// brush 3
+{
+ ( 0 0 20 ) ( 0.5 0 20 ) ( 0.5 20 20 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 -0.5 21 ) ( 0 17.5 21 ) ( 0.5 17.5 21 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0.5 0 20 ) ( 0 0 20 ) ( 0 -0.5 20.5 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0.5 -0.5 20.5 ) ( 0.5 17.5 20.5 ) ( 0.5 17.5 20 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 20 20 ) ( 0.5 20 20 ) ( 0.5 20.5 20.5 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 17.5 20.5 ) ( 0 -0.5 20.5 ) ( 0 -0.5 20 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 4
+{
+ ( 0.5 17.5 -1 ) ( 0 17.5 -1 ) ( 0 -0.5 -1 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0.5 0 0 ) ( 0 0 0 ) ( 0 20 0 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 0 0 ) ( 0.5 0 0 ) ( 0.5 -0.5 -0.5 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 20.5 0 0
+ ( 0.5 -0.5 0 ) ( 0.5 17.5 0 ) ( 0.5 17.5 -0.5 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 20.5 0 0
+ ( 0.5 20 0 ) ( 0 20 0 ) ( 0 20.5 -0.5 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 20.5 0 0
+ ( 0 17.5 0 ) ( 0 -0.5 0 ) ( 0 -0.5 -0.5 ) ap_wood_tile_brown 128 128 0 0 90 0 lightmap_gray 16384 16384 0 20.5 0 0
+}
+}
