@@ -99,21 +99,21 @@ iwmap 4
  ( 51 -7.5 176 ) ( 51 -3.5 176 ) ( 52 -3.5 176 ) uni_metal_1 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 50.5 -6.5 0 ) ( 50.5 -6.5 176 ) ( 52.5 -6.5 176 ) uni_metal_1 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 52.5 -6.5 0 ) ( 52.5 -6.5 176 ) ( 52 -3.5 176 ) uni_metal_1 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 51 -3.5 0 ) ( 52 -3.5 0 ) ( 52 -3.5 176 ) uni_metal_1 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51.05764 -3.2578866 0 ) ( 52.05764 -3.2578866 0 ) ( 52.05764 -3.2578866 176 ) uni_metal_1 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 50.5 -6.5 176 ) ( 50.5 -6.5 0 ) ( 51 -3.5 0 ) uni_metal_1 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
 // entity 1
 {
-"origin" "51.4 -1.7 58.5"
-"angles" "0 0 90"
-"model" "portavetri"
+"origin" "51.4 -1.7 58.4"
+"angles" "270 360 90.0001"
+"model" "uni_portavetri"
 "classname" "misc_model"
 }
 // entity 2
 {
-"origin" "51.4 -1.7 117.5"
-"angles" "0 0 90"
-"model" "portavetri"
+"origin" "51.4 -1.7 117.4"
+"angles" "270 360 90.0001"
+"model" "uni_portavetri"
 "classname" "misc_model"
 }
