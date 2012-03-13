@@ -1,6 +1,6 @@
 // XMODEL_EXPORT file in CoD model v6 format created with Blender v2.58 (sub 1)
 // Source file: /Users/fabianolever/Progetti/Mappone/Call of Duty 4 - Modern Warfare/model_export/uni_modelli/Libro/bibbia.blend
-// Export time: 13-Mar-2012 17:24:59
+// Export time: 13-Mar-2012 17:30:02
 
 MODEL
 VERSION 6
@@ -14740,7 +14740,7 @@ OBJECT 0 "BOOK_OPENE"
 OBJECT 1 "BOOK_OPENE"
 
 NUMMATERIALS 5
-MATERIAL 0 "None" "Lambert" "no color diffuse map found"
+MATERIAL 0 "uni_bibbia_mat" "Lambert" "no color diffuse map found"
 COLOR 0.000000 0.000000 0.000000 1.000000
 TRANSPARENCY 0.000000 0.000000 0.000000 1.000000
 AMBIENTCOLOR 0.000000 0.000000 0.000000 1.000000
