@@ -105,15 +105,15 @@ iwmap 4
 }
 // entity 1
 {
-"origin" "51.4 -1.7 58.4"
-"angles" "270 360 90.0001"
+"origin" "51.5 -1.7 58.4"
+"angles" "270 180 -90"
 "model" "uni_portavetri"
 "classname" "misc_model"
 }
 // entity 2
 {
-"origin" "51.4 -1.7 117.4"
-"angles" "270 360 90.0001"
+"origin" "51.5 -1.7 117.4"
+"angles" "270 180 -90"
 "model" "uni_portavetri"
 "classname" "misc_model"
 }
