@@ -670,6 +670,15 @@ iwmap 4
  ( 1581 526 392 ) ( 1579 526 392 ) ( 1579 526 217 ) office_whitewall_01 128 128 -2 -232 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1581 243 344 ) ( 1581 239 344 ) ( 1581 239 169 ) office_whitewall_01 128 128 -82 -232 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 74
+{
+ ( 354 112.5 216 ) ( 341 112.5 216 ) ( 341 107.5 216 ) office_whitewall_01 128 128 -143 43.5 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 340 107.5 338 ) ( 340 112.5 338 ) ( 353 112.5 338 ) office_whitewall_01 128 128 -143 43.5 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 325 55.5 233 ) ( 338 55.5 233 ) ( 338 55.5 217 ) office_whitewall_01 128 128 -143 -955 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 343 -300.5 233 ) ( 343 -295.5 233 ) ( 343 -295.5 217 ) office_whitewall_01 128 128 -43.5 -955 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 355 109.5 226 ) ( 342 109.5 226 ) ( 342 109.5 210 ) office_whitewall_01 128 128 -143 -955 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 341 195.5 233 ) ( 341 190.5 233 ) ( 341 190.5 217 ) office_whitewall_01 128 128 -43.5 -955 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
 // entity 1
 {
@@ -1367,4 +1376,11 @@ iwmap 4
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/vetrata_1x.map"
 "origin" "482.0 542.0 16.0"
+}
+// entity 111
+{
+"origin" "339.0 129.0 216.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/cornice_porta_media.map"
+"classname" "misc_prefab"
 }
