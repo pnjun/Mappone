@@ -1,5 +1,5 @@
-We are developing the Cod4 map of the "polo Ferrari", where is located the department of science of Trento University.
-The files uploaded here are a subset of the ones needed to compile the map using cod4 radiant and are to be added to the default directory tree of the game for the map to copile corectly. It may be necessary to re-import the models and the texture via asset manager too.
+We are developing the Cod4 map of the "polo Ferrari" in Povo, a.k.a. the department of science of Trento University.
+The files uploaded here are a subset of the ones needed to compile the map using cod4 radiant and are to be added to the default directory tree of the game for the map to compile corectly. It may be necessary to re-import the models and the texture via asset manager too.
 
 The script found in the Cod4 install directory "cod_update.sh" is used to add to git the files we need to share, and can be used to check which files need to be downloaded to compile the map.
 
