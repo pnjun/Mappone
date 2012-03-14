@@ -1730,7 +1730,7 @@ iwmap 4
  ( 264 121 16 ) ( 200 121 16 ) ( 200 -44 16 ) office_whitewall_01 128 128 -142 165 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 200 -42 138 ) ( 200 123 138 ) ( 264 123 138 ) office_whitewall_01 128 128 -142 165 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 200 115 121 ) ( 264 115 121 ) ( 264 115 14 ) office_whitewall_01 128 128 -142 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 519 -44 129 ) ( 519 121 129 ) ( 519 121 22 ) office_whitewall_01 128 128 -165 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 524 -43 129 ) ( 524 122 129 ) ( 524 122 22 ) office_whitewall_01 128 128 -165 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 264 121 123 ) ( 200 121 123 ) ( 200 121 16 ) office_whitewall_01 128 128 -142 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 200 121 123 ) ( 200 -44 123 ) ( 200 -44 16 ) office_whitewall_01 128 128 -165 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
@@ -1756,16 +1756,16 @@ iwmap 4
 {
  ( 618 -69 17 ) ( 483 -69 17 ) ( 483 -75 17 ) office_whitewall_01 128 128 38 17 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 483 -75 138 ) ( 483 -69 138 ) ( 618 -69 138 ) office_whitewall_01 128 128 38 17 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 318 -75 138 ) ( 453 -75 138 ) ( 453 -75 17 ) office_whitewall_01 128 128 38 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 624 -75 138 ) ( 624 -69 138 ) ( 624 -69 17 ) office_whitewall_01 128 128 -17 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 618 -69 138 ) ( 483 -69 138 ) ( 483 -69 17 ) office_whitewall_01 128 128 38 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 331 -73 138 ) ( 331 -79 138 ) ( 331 -79 17 ) office_whitewall_01 128 128 -17 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -14 -75 138 ) ( 121 -75 138 ) ( 121 -75 17 ) office_whitewall_01 128 128 38 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2214 -57 138 ) ( 2214 -51 138 ) ( 2214 -51 17 ) office_whitewall_01 128 128 -17 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1601 -69 138 ) ( 1466 -69 138 ) ( 1466 -69 17 ) office_whitewall_01 128 128 38 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 -75 138 ) ( 1 -81 138 ) ( 1 -81 17 ) office_whitewall_01 128 128 -17 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 198
 {
  ( 331 0 17 ) ( 325 0 17 ) ( 325 -63 17 ) office_whitewall_01 128 128 8 -7 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 325 -63 138 ) ( 325 0 138 ) ( 331 0 138 ) office_whitewall_01 128 128 8 -7 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 326 -75 138 ) ( 332 -75 138 ) ( 332 -75 17 ) office_whitewall_01 128 128 8 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 326 -69 138 ) ( 332 -69 138 ) ( 332 -69 17 ) office_whitewall_01 128 128 8 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 331 -63 138 ) ( 331 0 138 ) ( 331 0 17 ) office_whitewall_01 128 128 7 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 337 17 138 ) ( 331 17 138 ) ( 331 17 17 ) office_whitewall_01 128 128 8 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 325 0 138 ) ( 325 -63 138 ) ( 325 -63 17 ) office_whitewall_01 128 128 7 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -1792,7 +1792,7 @@ iwmap 4
 {
  ( 625 15 16 ) ( 624 15 16 ) ( 624 -70 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 624 -70 138 ) ( 624 15 138 ) ( 625 15 138 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 624 -75 138 ) ( 625 -75 138 ) ( 625 -75 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 625 -69 138 ) ( 626 -69 138 ) ( 626 -69 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 630 -72 137 ) ( 630 13 137 ) ( 630 13 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 625 17 138 ) ( 624 17 138 ) ( 624 17 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 624 15 138 ) ( 624 -70 138 ) ( 624 -70 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -1803,8 +1803,8 @@ iwmap 4
  ( 534.5 286 138 ) ( -0.5 286 138 ) ( -0.5 292.5 138 ) office_whitewall_01 128 128 -910.22815 -212.6214 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1 285.5 17 ) ( 1 292 17 ) ( 1 292 138 ) office_whitewall_01 128 -128 -910.23669 -0.20399475 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( -0.5 286 138 ) ( 534.5 286 138 ) ( 534.5 286 17 ) office_whitewall_01 128 128 212.6214 0.20399475 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 534.5 294.5 155 ) ( 534.5 328 155 ) ( 534.5 328 139 ) office_whitewall_01 128 -128 -910.23663 -0.20399475 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( 557.5 292.5 174.5 ) ( 256.5 292.5 174.5 ) ( 256.5 292.5 158.5 ) office_whitewall_01 128 128 212.62122 0.20399475 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 524 294.5 155 ) ( 524 328 155 ) ( 524 328 139 ) office_whitewall_01 128 -128 -910.23663 -0.20399475 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 558.5 292 174.5 ) ( 257.5 292 174.5 ) ( 257.5 292 158.5 ) office_whitewall_01 128 128 212.62122 0.20399475 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 203
 {
@@ -1835,12 +1835,12 @@ iwmap 4
 }
 // brush 206
 {
- ( 630 54 16 ) ( 624 54 16 ) ( 624 46 16 ) white_gr 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 624 46 138 ) ( 624 54 138 ) ( 630 54 138 ) white_gr 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 624 46 108 ) ( 630 46 108 ) ( 630 46 16 ) white_gr 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 630 46 108 ) ( 630 54 108 ) ( 630 54 16 ) white_gr 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 630 54 108 ) ( 624 54 108 ) ( 624 54 16 ) white_gr 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 624 54 108 ) ( 624 46 108 ) ( 624 46 16 ) white_gr 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 630 54 16 ) ( 624 54 16 ) ( 624 46 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 624 46 138 ) ( 624 54 138 ) ( 630 54 138 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 624 46 108 ) ( 630 46 108 ) ( 630 46 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 630 46 108 ) ( 630 54 108 ) ( 630 54 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 630 54 108 ) ( 624 54 108 ) ( 624 54 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 624 54 108 ) ( 624 46 108 ) ( 624 46 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 207
 {
@@ -1850,6 +1850,33 @@ iwmap 4
  ( 624 468 33 ) ( 624 463 33 ) ( 624 463 17 ) office_whitewall_01 128 -128 -183 -200 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 614 54 26.5 ) ( 627 54 26.5 ) ( 627 54 10.5 ) office_whitewall_01 128 -128 -971 -200 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 630 -28 33 ) ( 630 -23 33 ) ( 630 -23 17 ) office_whitewall_01 128 -128 -183 -200 180 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 208
+{
+ ( 530 292 16 ) ( 524 292 16 ) ( 524 270 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 524 270 138 ) ( 524 292 138 ) ( 530 292 138 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 524 204 138 ) ( 530 204 138 ) ( 530 204 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 530 270 138 ) ( 530 292 138 ) ( 530 292 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 530 292 138 ) ( 524 292 138 ) ( 524 292 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 524 292 138 ) ( 524 270 138 ) ( 524 270 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 209
+{
+ ( 529 142 16 ) ( 523 142 16 ) ( 523 136 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 524 136 138 ) ( 524 142 138 ) ( 530 142 138 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 523 115 113 ) ( 529 115 113 ) ( 529 115 21 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 530 136 138 ) ( 530 142 138 ) ( 530 142 46 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 530 146 113 ) ( 524 146 113 ) ( 524 146 21 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 524 142 113 ) ( 524 136 113 ) ( 524 136 21 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 210
+{
+ ( 539 202.5 108 ) ( 526 202.5 108 ) ( 526 197.5 108 ) office_whitewall_01 128 128 183 -75 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 525 198 138 ) ( 525 203 138 ) ( 538 203 138 ) office_whitewall_01 128 128 183 -75 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 510 146 34 ) ( 523 146 34 ) ( 523 146 18 ) office_whitewall_01 128 128 183 199 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 530 -210 34 ) ( 530 -205 34 ) ( 530 -205 18 ) office_whitewall_01 128 128 75 199 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 540 204 27.5 ) ( 527 204 27.5 ) ( 527 204 11.5 ) office_whitewall_01 128 128 183 199 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 524 286 34 ) ( 524 281 34 ) ( 524 281 18 ) office_whitewall_01 128 128 75 199 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
 // entity 1
@@ -2587,6 +2614,13 @@ iwmap 4
 {
 "angles" "0 270 0"
 "origin" "624.0 112.0 16.0"
+"model" "prefabs/aa_mappa_cod/cornice_porta_media.map"
+"classname" "misc_prefab"
+}
+// entity 117
+{
+"angles" "0 270 0"
+"origin" "524.0 204.0 16.0"
 "model" "prefabs/aa_mappa_cod/cornice_porta_media.map"
 "classname" "misc_prefab"
 }
