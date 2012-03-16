@@ -2183,6 +2183,15 @@ iwmap 4
    )
   }
  }
+// brush 244
+{
+ ( 964 526 16 ) ( 948 526 16 ) ( 948 462 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 953 462 138 ) ( 953 526 138 ) ( 969 526 138 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 947 376 32 ) ( 963 376 32 ) ( 963 376 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 954 462 33 ) ( 954 526 33 ) ( 954 526 17 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 964 497 32 ) ( 948 497 32 ) ( 948 497 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 948 526 32 ) ( 948 462 32 ) ( 948 462 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
 // entity 1
 {
