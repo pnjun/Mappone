@@ -86,3 +86,10 @@ iwmap 4
  ( 1 -0.5 91 ) ( 1 0 91 ) ( -0.5 0 92.5 ) uni_metal_1 8 64 0 6.5 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
+// entity 1
+{
+"origin" "4.0 3.0 -70.0"
+"angles" "0 270 0"
+"model" "uni_portachiusa"
+"classname" "misc_model"
+}
