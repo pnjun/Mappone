@@ -88,7 +88,7 @@ iwmap 4
 }
 // entity 1
 {
-"origin" "-39.0 3.0 0.0"
+"origin" "4.0 3.0 -70.0"
 "angles" "0 270 0"
 "model" "uni_portachiusa"
 "classname" "misc_model"
