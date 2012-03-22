@@ -1,0 +1,169 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 17 483 0 ) ( 17 489 0 ) ( 16 489 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 489 386 ) ( 17 489 386 ) ( 17 483 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15 479 1410 ) ( 15 473 1410 ) ( 15 473 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 472 386 ) ( 17 472 386 ) ( 17 472 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 472 1410 ) ( 16 478 1410 ) ( 16 478 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 17 484 386 ) ( 16 484 386 ) ( 16 484 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 1
+{
+ ( 7 478 0 ) ( 1 478 0 ) ( 1 477 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 477 386 ) ( 1 478 386 ) ( 7 478 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 12 477 386 ) ( 18 477 386 ) ( 18 477 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15 477 1410 ) ( 15 478 1410 ) ( 15 478 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 7 479 386 ) ( 1 479 386 ) ( 1 479 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 478 1410 ) ( 1 477 1410 ) ( 1 477 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 2
+{
+ ( 2 483 0 ) ( 2 489 0 ) ( 1 489 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 489 386 ) ( 2 489 386 ) ( 2 483 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 479 386 ) ( 0 473 386 ) ( 0 473 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 472 386 ) ( 2 472 386 ) ( 2 472 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 472 1410 ) ( 1 478 1410 ) ( 1 478 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 484 386 ) ( 1 484 386 ) ( 1 484 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 3
+{
+ ( 198 483 0 ) ( 198 489 0 ) ( 197 489 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 489 386 ) ( 198 489 386 ) ( 198 483 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 196 479 1410 ) ( 196 473 1410 ) ( 196 473 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 472 386 ) ( 198 472 386 ) ( 198 472 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 472 386 ) ( 197 478 386 ) ( 197 478 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 198 484 386 ) ( 197 484 386 ) ( 197 484 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 4
+{
+ ( 188 478 0 ) ( 182 478 0 ) ( 182 477 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 477 386 ) ( 182 478 386 ) ( 188 478 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 193 477 386 ) ( 199 477 386 ) ( 199 477 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 196 477 1410 ) ( 196 478 1410 ) ( 196 478 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 188 479 386 ) ( 182 479 386 ) ( 182 479 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 478 1410 ) ( 182 477 1410 ) ( 182 477 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 5
+{
+ ( 183 483 0 ) ( 183 489 0 ) ( 182 489 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 489 386 ) ( 183 489 386 ) ( 183 483 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 181 479 1410 ) ( 181 473 1410 ) ( 181 473 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 472 386 ) ( 183 472 386 ) ( 183 472 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 472 1410 ) ( 182 478 1410 ) ( 182 478 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 183 484 386 ) ( 182 484 386 ) ( 182 484 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 6
+{
+ ( 198 243 0 ) ( 198 249 0 ) ( 197 249 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 249 386 ) ( 198 249 386 ) ( 198 243 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 196 239 1410 ) ( 196 233 1410 ) ( 196 233 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 232 386 ) ( 198 232 386 ) ( 198 232 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 232 386 ) ( 197 238 386 ) ( 197 238 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 198 244 386 ) ( 197 244 386 ) ( 197 244 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 7
+{
+ ( 188 238 0 ) ( 182 238 0 ) ( 182 237 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 237 386 ) ( 182 238 386 ) ( 188 238 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 193 237 386 ) ( 199 237 386 ) ( 199 237 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 196 237 1410 ) ( 196 238 1410 ) ( 196 238 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 188 239 386 ) ( 182 239 386 ) ( 182 239 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 238 1410 ) ( 182 237 1410 ) ( 182 237 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 8
+{
+ ( 183 243 0 ) ( 183 249 0 ) ( 182 249 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 249 386 ) ( 183 249 386 ) ( 183 243 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 181 239 1410 ) ( 181 233 1410 ) ( 181 233 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 232 386 ) ( 183 232 386 ) ( 183 232 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 232 1410 ) ( 182 238 1410 ) ( 182 238 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 183 244 386 ) ( 182 244 386 ) ( 182 244 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 9
+{
+ ( 198 11 0 ) ( 198 17 0 ) ( 197 17 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 17 386 ) ( 198 17 386 ) ( 198 11 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 196 7 1410 ) ( 196 1 1410 ) ( 196 1 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 0 386 ) ( 198 0 386 ) ( 198 0 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 197 0 386 ) ( 197 6 386 ) ( 197 6 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 198 12 386 ) ( 197 12 386 ) ( 197 12 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 10
+{
+ ( 188 6 0 ) ( 182 6 0 ) ( 182 5 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 5 386 ) ( 182 6 386 ) ( 188 6 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 193 5 386 ) ( 199 5 386 ) ( 199 5 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 196 5 1410 ) ( 196 6 1410 ) ( 196 6 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 188 7 386 ) ( 182 7 386 ) ( 182 7 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 6 1410 ) ( 182 5 1410 ) ( 182 5 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 11
+{
+ ( 183 11 0 ) ( 183 17 0 ) ( 182 17 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 17 386 ) ( 183 17 386 ) ( 183 11 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 181 7 1410 ) ( 181 1 1410 ) ( 181 1 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 0 386 ) ( 183 0 386 ) ( 183 0 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 182 0 1410 ) ( 182 6 1410 ) ( 182 6 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 183 12 386 ) ( 182 12 386 ) ( 182 12 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 12
+{
+ ( 17 11 0 ) ( 17 17 0 ) ( 16 17 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 17 386 ) ( 17 17 386 ) ( 17 11 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15 7 1410 ) ( 15 1 1410 ) ( 15 1 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 0 386 ) ( 17 0 386 ) ( 17 0 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 0 1410 ) ( 16 6 1410 ) ( 16 6 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 17 12 386 ) ( 16 12 386 ) ( 16 12 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 13
+{
+ ( 7 6 0 ) ( 1 6 0 ) ( 1 5 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 5 386 ) ( 1 6 386 ) ( 7 6 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 12 5 386 ) ( 18 5 386 ) ( 18 5 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15 5 1410 ) ( 15 6 1410 ) ( 15 6 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 7 7 386 ) ( 1 7 386 ) ( 1 7 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 6 1410 ) ( 1 5 1410 ) ( 1 5 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 14
+{
+ ( 2 11 0 ) ( 2 17 0 ) ( 1 17 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 17 386 ) ( 2 17 386 ) ( 2 11 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 7 386 ) ( 0 1 386 ) ( 0 1 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 386 ) ( 2 0 386 ) ( 2 0 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 1410 ) ( 1 6 1410 ) ( 1 6 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 12 386 ) ( 1 12 386 ) ( 1 12 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 15
+{
+ ( 17 243 0 ) ( 17 249 0 ) ( 16 249 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 249 386 ) ( 17 249 386 ) ( 17 243 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15 239 1410 ) ( 15 233 1410 ) ( 15 233 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 232 386 ) ( 17 232 386 ) ( 17 232 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 232 1410 ) ( 16 238 1410 ) ( 16 238 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 17 244 386 ) ( 16 244 386 ) ( 16 244 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 16
+{
+ ( 7 238 0 ) ( 1 238 0 ) ( 1 237 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 237 386 ) ( 1 238 386 ) ( 7 238 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 12 237 386 ) ( 18 237 386 ) ( 18 237 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 15 237 1410 ) ( 15 238 1410 ) ( 15 238 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 7 239 386 ) ( 1 239 386 ) ( 1 239 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 238 1410 ) ( 1 237 1410 ) ( 1 237 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 17
+{
+ ( 2 243 0 ) ( 2 249 0 ) ( 1 249 0 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 249 386 ) ( 2 249 386 ) ( 2 243 386 ) icbm_missilebody 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 239 386 ) ( 0 233 386 ) ( 0 233 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 232 386 ) ( 2 232 386 ) ( 2 232 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 232 1410 ) ( 1 238 1410 ) ( 1 238 1024 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 244 386 ) ( 1 244 386 ) ( 1 244 0 ) icbm_missilebody 128 128 0 -802 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}

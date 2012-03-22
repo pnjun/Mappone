@@ -1,0 +1,119 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 51 1 58 ) ( 1 1 58 ) ( 1 0 58 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 59 ) ( 1 1 59 ) ( 51 1 59 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 59 ) ( 51 0 59 ) ( 51 0 58 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 0 59 ) ( 51 1 59 ) ( 51 1 58 ) ship_plaster01 -1 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 1 59 ) ( 1 1 59 ) ( 1 1 58 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 1 59 ) ( 0 0 59 ) ( 0 0 58 ) ship_plaster01 -1 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 1
+{
+ ( 51 1 117 ) ( 1 1 117 ) ( 1 0 117 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 118 ) ( 1 1 118 ) ( 51 1 118 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 118 ) ( 51 0 118 ) ( 51 0 117 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 0 118 ) ( 51 1 118 ) ( 51 1 117 ) ship_plaster01 -1 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 1 118 ) ( 1 1 118 ) ( 1 1 117 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 1 118 ) ( 0 0 118 ) ( 0 0 117 ) ship_plaster01 -1 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 2
+{
+ ( 51 1 0 ) ( 1 1 0 ) ( 1 0 0 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 1 ) ( 1 1 1 ) ( 51 1 1 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 1 ) ( 51 0 1 ) ( 51 0 0 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 0 1 ) ( 51 1 1 ) ( 51 1 0 ) ship_plaster01 -1 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 1 1 ) ( 1 1 1 ) ( 1 1 0 ) ship_plaster01 -51 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 1 1 ) ( 0 0 1 ) ( 0 0 0 ) ship_plaster01 -1 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 3
+{
+ ( 55 1 0 ) ( 54 1 0 ) ( 54 0 0 ) ship_plaster01 -1 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 0 176 ) ( 51 1 176 ) ( 52 1 176 ) ship_plaster01 -1 1 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 0 176 ) ( 52 0 176 ) ( 52 0 162 ) ship_plaster01 -1 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52 0 193 ) ( 52 1 193 ) ( 52 1 179 ) ship_plaster01 -1 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52 1 176 ) ( 51 1 176 ) ( 51 1 162 ) ship_plaster01 -1 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 1 176 ) ( 51 0 176 ) ( 51 0 162 ) ship_plaster01 -1 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 4
+{
+ ( 51 1 1 ) ( 1 1 1 ) ( 1 0 1 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 58 ) ( 1 1 58 ) ( 51 1 58 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 59 ) ( 51 0 59 ) ( 51 0 1 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 0 59 ) ( 51 1 59 ) ( 51 1 1 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 1 59 ) ( 1 1 59 ) ( 1 1 1 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 1 59 ) ( 0 0 59 ) ( 0 0 1 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 5
+{
+ ( 51 1 118 ) ( 1 1 118 ) ( 1 0 118 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 176 ) ( 1 1 176 ) ( 51 1 176 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 176 ) ( 51 0 176 ) ( 51 0 118 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 0 176 ) ( 51 1 176 ) ( 51 1 118 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 1 176 ) ( 1 1 176 ) ( 1 1 118 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 1 176 ) ( 0 0 176 ) ( 0 0 118 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 6
+{
+ ( 51 1 59 ) ( 1 1 59 ) ( 1 0 59 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 117 ) ( 1 1 117 ) ( 51 1 117 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 117 ) ( 51 0 117 ) ( 51 0 59 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 0 117 ) ( 51 1 117 ) ( 51 1 59 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 1 117 ) ( 1 1 117 ) ( 1 1 59 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 1 117 ) ( 0 0 117 ) ( 0 0 59 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 7
+{
+ ( 52 -13 0 ) ( 51 -13 0 ) ( 51 -13.5 0 ) uni_metal_al -1 0.5 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 -13.5 176 ) ( 51 -13 176 ) ( 52 -13 176 ) uni_metal_al -1 0.5 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51.5 -13.5 0 ) ( 51.5 -13.5 176 ) ( 52 -13 176 ) uni_metal_al -0.5 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52 -13 0 ) ( 52 -13 176 ) ( 51 -13 176 ) uni_metal_al -1 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51.5 -13.5 176 ) ( 51.5 -13.5 0 ) ( 51 -13 0 ) uni_metal_al -0.5 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 8
+{
+ ( 52.5 -8.5 0 ) ( 50.5 -8.5 0 ) ( 51 -13.5 0 ) uni_metal_al -2 3.5 -1.5 2.5 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 50.5 -9.5 176 ) ( 50.5 -8.5 176 ) ( 52.5 -8.5 176 ) uni_metal_al -2 3.5 -1.5 2.5 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52 -13 176 ) ( 52 -13 0 ) ( 51 -13 0 ) uni_metal_al -1 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52 -13 0 ) ( 52 -13 176 ) ( 52.5 -9.5 176 ) uni_metal_al -3.5 176 -2.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52.5 -9.5 0 ) ( 52.5 -9.5 176 ) ( 50.5 -9.5 176 ) uni_metal_al -2 176 -1.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 -13 176 ) ( 51 -13 0 ) ( 50.5 -9.5 0 ) uni_metal_al -3.5 176 -2.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 9
+{
+ ( 50.5 -8 0 ) ( 52.5 -8 0 ) ( 52.5 -6.5 0 ) uni_metal_al -2 3 -1.5 0.5 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 50.5 -7.5 176 ) ( 50.5 -6.5 176 ) ( 52.5 -6.5 176 ) uni_metal_al -2 3 -1.5 0.5 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 50.5 -9.5 0 ) ( 50.5 -9.5 176 ) ( 52.5 -9.5 176 ) uni_metal_al -2 176 -1.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52.5 -7.5 0 ) ( 52.5 -7.5 176 ) ( 52.5 -6.5 176 ) uni_metal_al -3 176 -0.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52.5 -6.5 0 ) ( 52.5 -6.5 176 ) ( 50.5 -6.5 176 ) uni_metal_al -2 176 -1.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 50.5 -7.5 176 ) ( 50.5 -7.5 0 ) ( 50.5 -6.5 0 ) uni_metal_al -3 176 -0.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 10
+{
+ ( 52 -3.5 0 ) ( 51 -3.5 0 ) ( 50 -7.5 0 ) uni_metal_al -2 3 -1.5 0.5 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 -7.5 176 ) ( 51 -3.5 176 ) ( 52 -3.5 176 ) uni_metal_al -2 3 -1.5 0.5 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 50.5 -6.5 0 ) ( 50.5 -6.5 176 ) ( 52.5 -6.5 176 ) uni_metal_al -2 176 -1.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 52.5 -6.5 0 ) ( 52.5 -6.5 176 ) ( 52 -3.5 176 ) uni_metal_al -3 176 -0.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 51 -3.5 0 ) ( 52 -3.5 0 ) ( 52 -3.5 176 ) uni_metal_al -1 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 50.5 -6.5 176 ) ( 50.5 -6.5 0 ) ( 51 -3.5 0 ) uni_metal_al -3 176 -0.5 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 1
+{
+"origin" "51.5 -1.7 58.4"
+"angles" "270 180 -90"
+"model" "uni_portavetri"
+"classname" "misc_model"
+}
+// entity 2
+{
+"origin" "51.5 -1.7 117.4"
+"angles" "270 180 -90"
+"model" "uni_portavetri"
+"classname" "misc_model"
+}
