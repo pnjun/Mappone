@@ -6,12 +6,12 @@ iwmap 4
 "classname" "worldspawn"
 // brush 0
 {
- ( 29 29 0 ) ( 0 29 0 ) ( 0 -1 0 ) uni_wall_512_no_lat -29 29 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 -1 176 ) ( 0 29 176 ) ( 29 29 176 ) uni_wall_512_no_lat -29 29 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 0 176 ) ( 29 0 176 ) ( 29 0 0 ) uni_wall_512_no_lat -29 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 29 0 176 ) ( 29 30 176 ) ( 29 30 0 ) uni_wall_512_no_lat -29 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 29 29 176 ) ( 0 29 176 ) ( 0 29 0 ) uni_wall_512_no_lat -29 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 29 176 ) ( 0 -1 176 ) ( 0 -1 0 ) uni_wall_512_no_lat -29 176 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 53 29 0 ) ( 24 29 0 ) ( 24 -1 0 ) uni_wall_512_no_lat 29 -29 -24 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 24 -1 176 ) ( 24 29 176 ) ( 53 29 176 ) uni_wall_512_no_lat 29 -29 -24 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 24 0 176 ) ( 53 0 176 ) ( 53 0 0 ) uni_wall_512_no_lat 29 -176 -24 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 53 0 176 ) ( 53 30 176 ) ( 53 30 0 ) uni_wall_512_no_lat 29 -176 0 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 53 29 176 ) ( 24 29 176 ) ( 24 29 0 ) uni_wall_512_no_lat 29 -176 -24 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 24 29 176 ) ( 24 -1 176 ) ( 24 -1 0 ) uni_wall_512_no_lat 29 -176 0 0 180 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 1
 {
@@ -10066,4 +10066,279 @@ iwmap 4
  ( 31 -9 210 ) ( 31 10 210 ) ( 31 10 176 ) uni_wall_512_no_lat -34 24 -29 16 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 38 5 217 ) ( 5 5 217 ) ( 5 5 183 ) uni_wall_512_no_lat -33 24 -2 16 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 1118
+{
+ ( 1 29 0 ) ( -28 29 0 ) ( -28 -1 0 ) uni_wall_512_no_lat 29 -29 28 0 -180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -28 -1 176 ) ( -28 29 176 ) ( 1 29 176 ) uni_wall_512_no_lat 29 -29 28 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -28 0 176 ) ( 1 0 176 ) ( 1 0 0 ) uni_wall_512_no_lat 29 -176 28 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 0 176 ) ( 1 30 176 ) ( 1 30 0 ) uni_wall_512_no_lat 29 -176 0 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 29 176 ) ( -28 29 176 ) ( -28 29 0 ) uni_wall_512_no_lat 29 -176 28 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -28 29 176 ) ( -28 -1 176 ) ( -28 -1 0 ) uni_wall_512_no_lat 29 -176 0 0 180 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 1
+{
+"angles" "0 270 0"
+"origin" "3153.0 -14.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 2
+{
+"angles" "0 270 0"
+"origin" "3153.0 -66.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 3
+{
+"angles" "0 270 0"
+"origin" "3153.0 -118.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 4
+{
+"angles" "0 270 0"
+"origin" "3153.0 -170.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 5
+{
+"angles" "0 270 0"
+"origin" "3153.0 -222.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 6
+{
+"angles" "0 270 0"
+"origin" "3153.0 -274.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 7
+{
+"angles" "0 270 0"
+"origin" "3153.0 38.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 8
+{
+"angles" "0 270 0"
+"origin" "3153.0 -378.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 9
+{
+"angles" "0 270 0"
+"origin" "3153.0 -430.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 10
+{
+"angles" "0 270 0"
+"origin" "3153.0 -482.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 11
+{
+"angles" "0 270 0"
+"origin" "3153.0 -534.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 12
+{
+"angles" "0 270 0"
+"origin" "3153.0 -586.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 13
+{
+"angles" "0 270 0"
+"origin" "3153.0 -638.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 14
+{
+"angles" "0 270 0"
+"origin" "3153.0 -326.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 15
+{
+"angles" "0 270 0"
+"origin" "3153.0 -742.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 16
+{
+"angles" "0 270 0"
+"origin" "3153.0 -794.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 17
+{
+"angles" "0 270 0"
+"origin" "3153.0 -846.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 18
+{
+"angles" "0 270 0"
+"origin" "3153.0 -898.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 19
+{
+"angles" "0 270 0"
+"origin" "3153.0 -950.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 20
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1002.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 21
+{
+"angles" "0 270 0"
+"origin" "3153.0 -690.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 22
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1106.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 23
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1158.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 24
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1210.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 25
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1262.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 26
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1314.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 27
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1366.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 28
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1054.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 29
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1470.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 30
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1522.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 31
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1574.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 32
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1626.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 33
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1678.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 34
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1730.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 35
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1418.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 36
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1834.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 37
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1886.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
+}
+// entity 38
+{
+"angles" "0 270 0"
+"origin" "3153.0 -1782.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x_polo_aule.map"
+"classname" "misc_prefab"
 }
