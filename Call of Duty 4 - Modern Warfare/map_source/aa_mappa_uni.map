@@ -3,14 +3,14 @@ iwmap 4
 "The Map" flags 
 // entity 0
 {
-"sunRadiosity" "1"
+"sunRadiosity" ".9"
 "gravity" "800"
 "spawnflags" "0"
 "_color" "1 1 1"
 "ambient" ".4"
 "suncolor" "1 1 1"
 "sundiffusecolor" "1 1 1"
-"sundirection" "-130 -50 30"
+"sundirection" "-70 -140 60"
 "sunlight" "1.3"
 "message" "welcome to unitn!"
 "classname" "worldspawn"
@@ -889,114 +889,109 @@ iwmap 4
 }
 // entity 6
 {
-"origin" "1768.0 1080.0 -448.0"
+"origin" "168.0 1080.0 -744.0"
 "classname" "reflection_probe"
 }
 // entity 7
 {
-"origin" "168.0 1080.0 -744.0"
+"origin" "1960.0 1080.0 -744.0"
 "classname" "reflection_probe"
 }
 // entity 8
 {
-"origin" "1960.0 1080.0 -744.0"
+"origin" "744.0 392.0 -544.0"
 "classname" "reflection_probe"
 }
 // entity 9
 {
-"origin" "744.0 392.0 -544.0"
-"classname" "reflection_probe"
-}
-// entity 10
-{
 "origin" "2152.0 392.0 -544.0"
 "classname" "reflection_probe"
 }
-// entity 11
+// entity 10
 {
 "classname" "misc_prefab"
 "origin" "-482.8 201.0 -571.0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "angles" "0 310.8 0"
 }
-// entity 12
+// entity 11
 {
 "classname" "misc_prefab"
 "origin" "-1093.8 217.0 -571.0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "angles" "0 310.8 0"
 }
-// entity 13
+// entity 12
 {
 "classname" "misc_prefab"
 "origin" "-1563.8 226.0 -571.0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "angles" "0 310.8 0"
 }
-// entity 14
+// entity 13
 {
 "origin" "-1240.0 1080.0 -448.0"
 "classname" "reflection_probe"
 }
-// entity 15
+// entity 14
 {
 "origin" "-344.0 1080.0 -448.0"
 "classname" "reflection_probe"
 }
-// entity 16
+// entity 15
 {
 "origin" "-1240.0 1080.0 -744.0"
 "classname" "reflection_probe"
 }
-// entity 17
+// entity 16
 {
 "origin" "-1432.0 392.0 -544.0"
 "classname" "reflection_probe"
 }
-// entity 18
+// entity 17
 {
 "origin" "-152.0 392.0 -544.0"
 "classname" "reflection_probe"
 }
-// entity 19
+// entity 18
 {
 "origin" "-26.0 374.0 -599.0"
 "classname" "info_player_start"
 }
-// entity 20
+// entity 19
 {
 "angles" "0 180 0"
 "origin" "1732.0 1785.0 -803.0"
 "model" "prefabs/aa_mappa_cod/edifici/polo_aule.map"
 "classname" "misc_prefab"
 }
-// entity 21
+// entity 20
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/edifici/mensa.map"
 "origin" "-1727.0 466.0 -819.0"
 }
-// entity 22
+// entity 21
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/edifici/biblioteca.map"
 "origin" "145.0 466.0 -819.0"
 }
-// entity 23
+// entity 22
 {
 "origin" "171.0 447.0 -603.0"
 "angles" "0 267.5 0"
 "model" "prefabs/misc_models/ch_crate32x48.map"
 "classname" "misc_prefab"
 }
-// entity 24
+// entity 23
 {
 "angles" "7.20032 90 3.13908e-007"
 "model" "prefabs/misc_models/com_ladder_wood.map"
 "classname" "misc_prefab"
 "origin" "176.0 440.5 -570.4"
 }
-// entity 25
+// entity 24
 {
 "origin" "264.0 888.0 -498.0"
 "def" "light_point_linear"
@@ -1005,7 +1000,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 26
+// entity 25
 {
 "origin" "392.0 888.0 -498.0"
 "def" "light_point_linear"
@@ -1014,7 +1009,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 27
+// entity 26
 {
 "origin" "264.0 760.0 -498.0"
 "def" "light_point_linear"
@@ -1023,7 +1018,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 28
+// entity 27
 {
 "origin" "392.0 760.0 -498.0"
 "def" "light_point_linear"
@@ -1032,7 +1027,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 29
+// entity 28
 {
 "origin" "264.0 632.0 -498.0"
 "def" "light_point_linear"
@@ -1041,7 +1036,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 30
+// entity 29
 {
 "origin" "392.0 632.0 -498.0"
 "def" "light_point_linear"
@@ -1050,7 +1045,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 31
+// entity 30
 {
 "origin" "264.0 504.0 -498.0"
 "def" "light_point_linear"
@@ -1059,7 +1054,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 32
+// entity 31
 {
 "origin" "392.0 504.0 -498.0"
 "def" "light_point_linear"
@@ -1068,7 +1063,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 33
+// entity 32
 {
 "origin" "1496.0 656.0 -498.0"
 "def" "light_point_linear"
@@ -1077,7 +1072,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 34
+// entity 33
 {
 "origin" "1624.0 656.0 -498.0"
 "def" "light_point_linear"
@@ -1086,7 +1081,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 35
+// entity 34
 {
 "origin" "1496.0 528.0 -498.0"
 "def" "light_point_linear"
@@ -1095,7 +1090,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 36
+// entity 35
 {
 "origin" "1624.0 528.0 -498.0"
 "def" "light_point_linear"
@@ -1104,7 +1099,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 37
+// entity 36
 {
 "origin" "1496.0 896.0 -498.0"
 "def" "light_point_linear"
@@ -1113,7 +1108,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 38
+// entity 37
 {
 "origin" "1624.0 896.0 -498.0"
 "def" "light_point_linear"
@@ -1122,7 +1117,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 39
+// entity 38
 {
 "origin" "1496.0 768.0 -498.0"
 "def" "light_point_linear"
@@ -1131,7 +1126,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 40
+// entity 39
 {
 "origin" "1624.0 768.0 -498.0"
 "def" "light_point_linear"
@@ -1140,7 +1135,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 41
+// entity 40
 {
 "origin" "752.0 664.0 -498.0"
 "def" "light_point_linear"
@@ -1149,7 +1144,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 42
+// entity 41
 {
 "origin" "880.0 664.0 -498.0"
 "def" "light_point_linear"
@@ -1158,7 +1153,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 43
+// entity 42
 {
 "origin" "752.0 536.0 -498.0"
 "def" "light_point_linear"
@@ -1167,7 +1162,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 44
+// entity 43
 {
 "origin" "880.0 536.0 -498.0"
 "def" "light_point_linear"
@@ -1176,7 +1171,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 45
+// entity 44
 {
 "origin" "1024.0 672.0 -498.0"
 "def" "light_point_linear"
@@ -1185,7 +1180,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 46
+// entity 45
 {
 "origin" "1152.0 672.0 -498.0"
 "def" "light_point_linear"
@@ -1194,7 +1189,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 47
+// entity 46
 {
 "origin" "1024.0 544.0 -498.0"
 "def" "light_point_linear"
@@ -1203,7 +1198,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 48
+// entity 47
 {
 "origin" "1152.0 544.0 -498.0"
 "def" "light_point_linear"
@@ -1212,7 +1207,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 49
+// entity 48
 {
 "origin" "882.0 864.0 -698.0"
 "def" "light_point_linear"
@@ -1221,7 +1216,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 50
+// entity 49
 {
 "origin" "1010.0 864.0 -698.0"
 "def" "light_point_linear"
@@ -1230,7 +1225,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 51
+// entity 50
 {
 "origin" "882.0 736.0 -698.0"
 "def" "light_point_linear"
@@ -1239,7 +1234,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 52
+// entity 51
 {
 "origin" "1010.0 736.0 -698.0"
 "def" "light_point_linear"
@@ -1248,7 +1243,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 53
+// entity 52
 {
 "origin" "1240.0 612.0 -698.0"
 "def" "light_point_linear"
@@ -1257,7 +1252,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 54
+// entity 53
 {
 "origin" "2058.0 636.0 -698.0"
 "def" "light_point_linear"
@@ -1266,7 +1261,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 55
+// entity 54
 {
 "origin" "2090.0 862.0 -698.0"
 "def" "light_point_linear"
@@ -1275,7 +1270,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 56
+// entity 55
 {
 "origin" "1784.0 864.0 -698.0"
 "def" "light_point_linear"
@@ -1284,7 +1279,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 57
+// entity 56
 {
 "origin" "1782.0 640.0 -698.0"
 "def" "light_point_linear"
@@ -1293,7 +1288,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 58
+// entity 57
 {
 "origin" "386.0 676.0 -698.0"
 "def" "light_point_linear"
@@ -1302,9 +1297,34 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 59
+// entity 58
 {
 "origin" "-95.0 484.0 -851.0"
 "model" "prefabs/aa_mappa_cod/copertura_vetro.map"
 "classname" "misc_prefab"
+}
+// entity 59
+{
+"classname" "reflection_probe"
+"origin" "1961.0 1079.0 -744.0"
+}
+// entity 60
+{
+"classname" "reflection_probe"
+"origin" "1769.0 1079.0 -448.0"
+}
+// entity 61
+{
+"classname" "reflection_probe"
+"origin" "1768.0 1077.0 -582.0"
+}
+// entity 62
+{
+"classname" "reflection_probe"
+"origin" "1122.0 1085.0 -582.0"
+}
+// entity 63
+{
+"classname" "reflection_probe"
+"origin" "623.0 1078.0 -582.0"
 }

@@ -1137,9 +1137,9 @@ iwmap 4
 }
 // brush 127
 {
- ( 136 600 211 ) ( 0 600 211 ) ( 0 544 211 ) uni_metal_ondul 16 216 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 544 216 ) ( 0 600 216 ) ( 136 600 216 ) uni_metal_ondul 16 216 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 543 216 ) ( 136 543 216 ) ( 136 543 192 ) uni_metal_ondul 16 216 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 136 600 211 ) ( 0 600 211 ) ( 0 544 211 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 544 216 ) ( 0 600 216 ) ( 136 600 216 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 543 216 ) ( 136 543 216 ) ( 136 543 192 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2198 400 216 ) ( 2198 456 216 ) ( 2198 456 192 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 136 603 216 ) ( 0 603 216 ) ( 0 603 192 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 16 600 216 ) ( 16 544 216 ) ( 16 544 192 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -2593,6 +2593,42 @@ iwmap 4
  ( 654 95 261 ) ( 654 85 261 ) ( 654 85 216 ) clip 64 64 2 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 664 95 261 ) ( 664 95 216 ) ( 654 85 216 ) clip 64 64 -79 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 664 95 261 ) ( 654 95 261 ) ( 654 95 216 ) clip 64 64 -81 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 291
+{
+ ( 17 598 220 ) ( 16 598 220 ) ( 16 537 260 ) me_trim_metal_conduit_wet 32 256 -13 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 600 220 ) ( 17 600 220 ) ( 17 537 262 ) me_trim_metal_conduit_wet 32 256 -13 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 18 537 260 ) ( 16 537 260 ) ( 16 537 262 ) me_trim_metal_conduit_wet 32 256 -13 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 17 542 403 ) ( 17 551 403 ) ( 17 551 216 ) me_trim_metal_conduit_wet 32 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 598 220 ) ( 17 598 220 ) ( 17 600 220 ) me_trim_metal_conduit_wet 32 256 -13 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 551 403 ) ( 16 542 403 ) ( 16 542 216 ) me_trim_metal_conduit_wet 32 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 292
+{
+ ( 118 598 220 ) ( 117 598 220 ) ( 117 537 260 ) me_trim_metal_conduit_wet 32 256 87 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 117 600 220 ) ( 118 600 220 ) ( 118 537 262 ) me_trim_metal_conduit_wet 32 256 87 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 118 537 260 ) ( 116 537 260 ) ( 116 537 262 ) me_trim_metal_conduit_wet 32 256 87 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 118 542 403 ) ( 118 551 403 ) ( 118 551 216 ) me_trim_metal_conduit_wet 32 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 117 598 220 ) ( 118 598 220 ) ( 118 600 220 ) me_trim_metal_conduit_wet 32 256 87 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 117 551 403 ) ( 117 542 403 ) ( 117 542 216 ) me_trim_metal_conduit_wet 32 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 293
+{
+ ( 2198 592.5 216 ) ( 16 592.5 216 ) ( 16 592 216 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2198 594.5 219 ) ( 16 594.5 219 ) ( 16 594.5 218.5 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2198 592 216 ) ( 16 592 216 ) ( 16 594.5 219 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2198 592.5 219 ) ( 2198 593 219 ) ( 2198 593 216 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 592.5 216 ) ( 2198 592.5 216 ) ( 2198 594.5 218.5 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 593 219 ) ( 16 592.5 219 ) ( 16 592.5 216 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 294
+{
+ ( 16 596.5 216 ) ( 2198 596.5 216 ) ( 2198 597 216 ) uni_metal_light 64 64 0 -3 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 594.5 219 ) ( 2198 594.5 219 ) ( 2198 594.5 218.5 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 597 216 ) ( 2198 597 216 ) ( 2198 594.5 219 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 16 596.5 219 ) ( 16 596 219 ) ( 16 596 216 ) uni_metal_light 64 64 3 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2198 596.5 216 ) ( 16 596.5 216 ) ( 16 594.5 218.5 ) uni_metal_light 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2198 596 219 ) ( 2198 596.5 219 ) ( 2198 596.5 216 ) uni_metal_light 64 64 3 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
 // entity 1
