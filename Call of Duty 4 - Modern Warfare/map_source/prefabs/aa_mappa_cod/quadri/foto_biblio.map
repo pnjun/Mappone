@@ -49,4 +49,13 @@ iwmap 4
  ( 1 49 34 ) ( 0 49 34 ) ( 0 47 32 ) ap_wood_tile_big 128 128 0 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 3 34 ) ( 0 2 34 ) ( 0 2 1 ) ap_wood_tile_big 72 72 -44 31 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 5
+{
+ ( 0.5 47 2 ) ( 0 47 2 ) ( 0 44.5 2 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 44.5 32 ) ( 0 47 32 ) ( 0.5 47 32 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 2 32 ) ( 0.5 2 32 ) ( 0.5 2 2 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0.5 2 32 ) ( 0.5 4.5 32 ) ( 0.5 4.5 2 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0.5 47 32 ) ( 0 47 32 ) ( 0 47 2 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 47 32 ) ( 0 44.5 32 ) ( 0 44.5 2 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
