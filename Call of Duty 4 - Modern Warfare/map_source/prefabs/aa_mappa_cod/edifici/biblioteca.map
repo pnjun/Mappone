@@ -3415,19 +3415,19 @@ iwmap 4
 }
 // entity 124
 {
-"origin" "1240.0 456.0 276.0"
+"origin" "1240.0 472.0 276.0"
 "model" "prefabs/aa_mappa_cod/quadri/foto_biblio.map"
 "classname" "misc_prefab"
 }
 // entity 125
 {
-"origin" "1240.0 341.0 260.0"
+"origin" "1240.0 365.0 264.0"
 "model" "prefabs/aa_mappa_cod/quadri/mosconi_obama.map"
 "classname" "misc_prefab"
 }
 // entity 126
 {
-"origin" "1239.0 278.0 276.0"
+"origin" "1239.0 320.0 270.0"
 "model" "prefabs/aa_mappa_cod/quadri/mosconi_steve_jobs.map"
 "classname" "misc_prefab"
 }
@@ -3436,5 +3436,11 @@ iwmap 4
 "angles" "0 2.50448e-006 0"
 "model" "prefabs/aa_mappa_cod/quadri/mesiano_flir.map"
 "classname" "misc_prefab"
-"origin" "1240.0 392.0 280.0"
+"origin" "1240.0 420.0 284.0"
+}
+// entity 128
+{
+"origin" "1238.0 268.0 270.0"
+"model" "prefabs/aa_mappa_cod/quadri/doom.map"
+"classname" "misc_prefab"
 }
