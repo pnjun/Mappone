@@ -1,6 +1,6 @@
 // XMODEL_EXPORT file in CoD model v6 format created with Blender v2.58 (sub 1)
 // Source file: /Users/fabianolever/Progetti/Mappone/Call of Duty 4 - Modern Warfare/model_export/uni_modelli/Corrimano/corrim85inclinato.blend
-// Export time: 30-Mar-2012 21:35:43
+// Export time: 30-Mar-2012 22:21:07
 
 MODEL
 VERSION 6
@@ -3843,7 +3843,7 @@ NUMOBJECTS 1
 OBJECT 0 "Cube"
 
 NUMMATERIALS 1
-MATERIAL 0 "uni_metal_birght" "Lambert" "no color diffuse map found"
+MATERIAL 0 "uni_metal_bright" "Lambert" "no color diffuse map found"
 COLOR 0.000000 0.000000 0.000000 1.000000
 TRANSPARENCY 0.000000 0.000000 0.000000 1.000000
 AMBIENTCOLOR 0.000000 0.000000 0.000000 1.000000
