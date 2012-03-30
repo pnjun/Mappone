@@ -58,3 +58,10 @@ iwmap 4
 "angles" "0 45 0"
 "origin" "64.0 -176.0 -560.0"
 }
+// entity 8
+{
+"origin" "1623.4 1414.9 -803.0"
+"angles" "360 210 0.00151723"
+"model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
+"classname" "misc_prefab"
+}
