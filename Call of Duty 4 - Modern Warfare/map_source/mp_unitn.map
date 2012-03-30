@@ -1,0 +1,60 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"sunRadiosity" "1"
+"gravity" "800"
+"spawnflags" "0"
+"_color" "1 1 1"
+"ambient" ".4"
+"suncolor" "1 1 1"
+"sundiffusecolor" "1 1 1"
+"sundirection" "-130 -50 30"
+"sunlight" "1.3"
+"message" "welcome to unitn!"
+"classname" "worldspawn"
+}
+// entity 1
+{
+"origin" "1040.0 -64.0 16.0"
+"model" "aa_mappa_uni.map"
+"classname" "misc_prefab"
+}
+// entity 2
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 90 0"
+"origin" "684.0 284.0 -560.0"
+}
+// entity 3
+{
+"classname" "mp_tdm_spawn_allies_start"
+"angles" "0 2.50448e-006 0"
+"origin" "1844.0 1246.0 -778.0"
+}
+// entity 4
+{
+"classname" "mp_tdm_spawn_axis_start"
+"angles" "0 180 0"
+"origin" "3280.0 1136.0 -780.0"
+}
+// entity 5
+{
+"classname" "misc_prefab"
+"model" "prefabs/mp/spawn_obj_tdm_axis.map"
+"origin" "3280.0 1088.0 -796.0"
+"angles" "0 180 0"
+}
+// entity 6
+{
+"classname" "misc_prefab"
+"model" "prefabs/mp/spawn_obj_tdm_aliies.map"
+"origin" "1844.0 1294.0 -794.0"
+}
+// entity 7
+{
+"classname" "info_player_start"
+"angles" "0 45 0"
+"origin" "64.0 -176.0 -560.0"
+}
