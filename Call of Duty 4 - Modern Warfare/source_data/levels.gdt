@@ -5074,7 +5074,7 @@
 		"radialOriginZ" "0"
 		"allowHidingAllParts" "0"
 		"collisionLOD" "None"
-		"hitBoxModel" ""
+		"hitBoxModel" "uni_modelli\\Tavoli\\tavolo160x130prese.XMODEL_EXPORT"
 		"skinOverride" ""
 		"boneControllers" ""
 		"boneStabilizers" ""

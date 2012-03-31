@@ -5455,3 +5455,10 @@ iwmap 4
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
+// entity 67
+{
+"origin" "-1516.1 1501.6 -803.0"
+"angles" "1.00179e-005 300 0.00151723"
+"model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
+"classname" "misc_prefab"
+}
