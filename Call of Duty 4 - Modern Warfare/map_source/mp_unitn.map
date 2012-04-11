@@ -19,7 +19,7 @@ iwmap 4
 {
 "classname" "mp_tdm_spawn"
 "angles" "0 90 0"
-"origin" "684.0 284.0 -560.0"
+"origin" "-244.0 -68.0 -560.0"
 }
 // entity 2
 {
@@ -44,7 +44,7 @@ iwmap 4
 {
 "classname" "misc_prefab"
 "model" "prefabs/mp/spawn_obj_tdm_aliies.map"
-"origin" "1844.0 1294.0 -794.0"
+"origin" "1588.0 1166.0 -794.0"
 }
 // entity 6
 {
@@ -57,4 +57,90 @@ iwmap 4
 "classname" "misc_prefab"
 "model" "aa_mappa_uni.map"
 "origin" "1040.0 -64.0 16.0"
+}
+// entity 8
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 90 0"
+"origin" "2860.0 -196.0 -560.0"
+}
+// entity 9
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 90 0"
+"origin" "2988.0 1564.0 -784.0"
+}
+// entity 10
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 90 0"
+"origin" "1452.0 1532.0 -784.0"
+}
+// entity 11
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 90 0"
+"origin" "300.0 1372.0 -784.0"
+}
+// entity 12
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 90 0"
+"origin" "-692.0 1788.0 -784.0"
+}
+// entity 13
+{
+"classname" "mp_tdm_spawn_allies_start"
+"angles" "0 2.50448e-006 0"
+"origin" "2900.0 2046.0 -778.0"
+}
+// entity 14
+{
+"classname" "mp_tdm_spawn_allies_start"
+"angles" "0 2.50448e-006 0"
+"origin" "148.0 1598.0 -778.0"
+}
+// entity 15
+{
+"classname" "misc_prefab"
+"model" "prefabs/mp/spawn_obj_tdm_aliies.map"
+"origin" "-556.0 1710.0 -794.0"
+}
+// entity 16
+{
+"classname" "misc_prefab"
+"model" "prefabs/mp/spawn_obj_tdm_aliies.map"
+"origin" "596.0 1166.0 -794.0"
+}
+// entity 17
+{
+"classname" "mp_tdm_spawn_axis_start"
+"angles" "0 180 0"
+"origin" "3216.0 2448.0 -780.0"
+}
+// entity 18
+{
+"classname" "misc_prefab"
+"model" "prefabs/mp/spawn_obj_tdm_axis.map"
+"origin" "3216.0 2400.0 -796.0"
+"angles" "0 180 0"
+}
+// entity 19
+{
+"classname" "mp_tdm_spawn_axis_start"
+"angles" "0 180 0"
+"origin" "-112.0 1168.0 -780.0"
+}
+// entity 20
+{
+"classname" "misc_prefab"
+"model" "prefabs/mp/spawn_obj_tdm_axis.map"
+"origin" "-112.0 1120.0 -796.0"
+"angles" "0 180 0"
+}
+// entity 21
+{
+"classname" "info_player_start"
+"angles" "0 45 0"
+"origin" "1664.0 -112.0 -560.0"
 }
