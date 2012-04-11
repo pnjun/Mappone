@@ -5457,7 +5457,7 @@ iwmap 4
 }
 // entity 67
 {
-"origin" "-1516.1 1501.6 -803.0"
+"origin" "-1516.1 1501.6 -819.0"
 "angles" "1.00179e-005 300 0.00151723"
 "model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
 "classname" "misc_prefab"
@@ -5467,5 +5467,33 @@ iwmap 4
 "origin" "287.5 1702.9 -815.1"
 "angles" "0 0 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
+"classname" "misc_prefab"
+}
+// entity 69
+{
+"origin" "-93.0 -144.8 -607.0"
+"angles" "1.00179e-005 16 0.00151723"
+"model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
+"classname" "misc_prefab"
+}
+// entity 70
+{
+"angles" "0 310 85.8"
+"model" "prefabs/misc_models/com_bottle4.map"
+"origin" "666.7 1475.9 -801.7"
+"classname" "misc_prefab"
+}
+// entity 71
+{
+"angles" "0 18 85.8"
+"model" "prefabs/misc_models/com_bottle4.map"
+"origin" "783.3 1272.6 -801.7"
+"classname" "misc_prefab"
+}
+// entity 72
+{
+"angles" "0 264 85.8"
+"model" "prefabs/misc_models/com_bottle4.map"
+"origin" "813.0 1389.0 -801.7"
 "classname" "misc_prefab"
 }
