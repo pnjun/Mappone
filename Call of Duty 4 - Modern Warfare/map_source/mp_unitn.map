@@ -62,7 +62,7 @@ iwmap 4
 {
 "classname" "mp_tdm_spawn"
 "angles" "0 90 0"
-"origin" "2860.0 -196.0 -560.0"
+"origin" "2892.0 700.0 -560.0"
 }
 // entity 9
 {
@@ -143,4 +143,35 @@ iwmap 4
 "classname" "info_player_start"
 "angles" "0 45 0"
 "origin" "1664.0 -112.0 -560.0"
+}
+// entity 22
+{
+"classname" "mp_tdm_spawn_allies_start"
+"angles" "0 2.50448e-006 0"
+"origin" "132.0 1790.0 -234.0"
+}
+// entity 23
+{
+"classname" "mp_tdm_spawn_allies_start"
+"angles" "0 2.50448e-006 0"
+"origin" "1732.0 1806.0 -234.0"
+}
+// entity 24
+{
+"classname" "mp_tdm_spawn"
+"angles" "0 90 0"
+"origin" "4636.0 156.0 -336.0"
+}
+// entity 25
+{
+"classname" "mp_tdm_spawn_axis_start"
+"angles" "0 180 0"
+"origin" "1632.0 624.0 -556.0"
+}
+// entity 26
+{
+"classname" "misc_prefab"
+"model" "prefabs/mp/spawn_obj_tdm_axis.map"
+"origin" "1632.0 576.0 -572.0"
+"angles" "0 180 0"
 }
