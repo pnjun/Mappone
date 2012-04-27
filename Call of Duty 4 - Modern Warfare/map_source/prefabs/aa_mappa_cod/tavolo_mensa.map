@@ -1,0 +1,22 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( 24 29 -15 ) ( -24 29 -15 ) ( -24 -18 -15 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -24 -18 13 ) ( -24 29 13 ) ( 24 29 13 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -24 -16 12 ) ( 24 -16 12 ) ( 24 -16 -16 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 24 -18 13 ) ( 24 29 13 ) ( 24 29 -15 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 24 16 13 ) ( -24 16 13 ) ( -24 16 -15 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -24 29 13 ) ( -24 -18 13 ) ( -24 -18 -15 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 1
+{
+"origin" "0.0 0.0 0.0"
+"model" "uni_tavolo_mensa"
+"classname" "misc_model"
+}

@@ -3719,6 +3719,7 @@ iwmap 4
  ( 2053 487 335 ) ( 2053 432 335 ) ( 2053 432 342 ) uni_stairs_red 32 32 0 -5 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2064 432 338 ) ( 2064 432 331 ) ( 2052 432 331 ) office_whitewall_01 128 128 0 -215 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+<<<<<<< HEAD
 // brush 416
 {
  ( 331 0 16 ) ( 325 0 16 ) ( 325 -63 16 ) office_whitewall_01 128 128 8 -7 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -3988,6 +3989,16 @@ iwmap 4
  ( 2183 383 338 ) ( 2052 383 338 ) ( 2052 383 392 ) nodraw_decal 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2052 400 392 ) ( 2052 405 392 ) ( 2052 405 424 ) me_ground_concrete01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2052 432 378 ) ( 2183 432 378 ) ( 2183 432 392 ) me_ground_concrete01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+=======
+// brush 424
+{
+ ( 894.5 156.5 216 ) ( 818.5 156.5 216 ) ( 818.5 125.5 216 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 817.5 125.5 216.5 ) ( 817.5 156.5 216.5 ) ( 893.5 156.5 216.5 ) uni_wood_floor 64 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 817.5 100 243 ) ( 893.5 100 243 ) ( 893.5 100 216 ) uni_wood_floor 64 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 937 120 243 ) ( 937 151 243 ) ( 937 151 216 ) uni_wood_floor 64 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 894 159 243 ) ( 818 159 243 ) ( 818 159 216 ) uni_wood_floor 64 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 803 160 243 ) ( 803 129 243 ) ( 803 129 216 ) uni_wood_floor 64 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+>>>>>>> 4caf14b3936ce08db6ad685101134aa80a79c12f
 }
 }
 // entity 1
@@ -4821,4 +4832,34 @@ iwmap 4
 "origin" "1574.0 542.0 16.0"
 "model" "prefabs/aa_mappa_cod/vetrata_1x.map"
 "classname" "misc_prefab"
+}
+// entity 132
+{
+"origin" "690.0 180.0 232.0"
+"model" "uni_tavolo_80-160"
+"classname" "misc_model"
+}
+// entity 133
+{
+"origin" "737.5 180.0 232.0"
+"model" "uni_tavolo_80-160"
+"classname" "misc_model"
+}
+// entity 134
+{
+"origin" "785.0 180.0 232.0"
+"model" "uni_tavolo_80-160"
+"classname" "misc_model"
+}
+// entity 135
+{
+"origin" "832.5 180.0 232.0"
+"model" "uni_tavolo_80-160"
+"classname" "misc_model"
+}
+// entity 136
+{
+"origin" "880.5 180.0 232.0"
+"model" "uni_tavolo_80-160"
+"classname" "misc_model"
 }
