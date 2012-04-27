@@ -5497,3 +5497,16 @@ iwmap 4
 "origin" "813.0 1389.0 -801.7"
 "classname" "misc_prefab"
 }
+// entity 73
+{
+"origin" "-992.0 992.0 -412.5"
+"model" "prefabs/mp/mg_concrete_barrier.map"
+"classname" "misc_prefab"
+}
+// entity 74
+{
+"angles" "0 180 0"
+"origin" "867.0 1759.0 -263.0"
+"model" "prefabs/mp/mg_concrete_barrier.map"
+"classname" "misc_prefab"
+}
