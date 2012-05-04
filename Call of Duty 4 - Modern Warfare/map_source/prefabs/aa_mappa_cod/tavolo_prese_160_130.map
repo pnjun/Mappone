@@ -4,10 +4,19 @@ iwmap 4
 // entity 0
 {
 "classname" "worldspawn"
+// brush 0
+{
+ ( 24 97 0 ) ( -22 97 0 ) ( -22 -28 0 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -22 -30 39 ) ( -22 95 39 ) ( 24 95 39 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -22 -30 73 ) ( 24 -30 73 ) ( 24 -30 -16 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 24 -30 73 ) ( 24 95 73 ) ( 24 95 -16 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 24 31 79 ) ( -22 31 79 ) ( -22 31 -10 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -22 95 73 ) ( -22 -30 73 ) ( -22 -30 -16 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
 // entity 1
 {
+"origin" "1.0 0.0 23.0"
 "classname" "misc_model"
 "model" "uni_tavolo_130-160_prese"
-"origin" "0.0 0.0 0.0"
 }
