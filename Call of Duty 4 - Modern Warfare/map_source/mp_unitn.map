@@ -3,6 +3,12 @@ iwmap 4
 "The Map" flags 
 // entity 0
 {
+"sunradiosity" "1"
+"sunlight" "1.6"
+"sundirection" "-70 -140 60"
+"sundiffusecolor" "1 1 1"
+"suncolor" "1 1 1"
+"ambient" ".5"
 "classname" "worldspawn"
 }
 // entity 1
