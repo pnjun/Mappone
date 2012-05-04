@@ -4,11 +4,11 @@ iwmap 4
 // entity 0
 {
 "sunradiosity" "1"
-"sunlight" "1.6"
+"sunlight" "1.8"
 "sundirection" "-70 -140 60"
 "sundiffusecolor" "1 1 1"
 "suncolor" "1 1 1"
-"ambient" ".5"
+"ambient" ".6"
 "classname" "worldspawn"
 }
 // entity 1
