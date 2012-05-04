@@ -3,16 +3,6 @@ iwmap 4
 "The Map" flags 
 // entity 0
 {
-"sunRadiosity" ".9"
-"gravity" "800"
-"spawnflags" "0"
-"_color" "1 1 1"
-"ambient" ".4"
-"suncolor" "1 1 1"
-"sundiffusecolor" "1 1 1"
-"sundirection" "-70 -140 60"
-"sunlight" "1.3"
-"message" "welcome to unitn!"
 "classname" "worldspawn"
 // brush 0
 {
@@ -6474,84 +6464,32 @@ iwmap 4
 }
 // entity 6
 {
-"origin" "168.0 1080.0 -744.0"
-"classname" "reflection_probe"
-}
-// entity 7
-{
-"origin" "1960.0 1080.0 -744.0"
-"classname" "reflection_probe"
-}
-// entity 8
-{
-"origin" "744.0 392.0 -544.0"
-"classname" "reflection_probe"
-}
-// entity 9
-{
-"origin" "2152.0 392.0 -544.0"
-"classname" "reflection_probe"
-}
-// entity 10
-{
 "classname" "misc_prefab"
 "origin" "-482.8 241.0 -575.0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "angles" "0 310.8 0"
 }
-// entity 11
+// entity 7
 {
 "classname" "misc_prefab"
 "origin" "-1093.8 257.0 -575.0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "angles" "0 310.8 0"
 }
-// entity 12
-{
-"classname" "misc_prefab"
-"origin" "-1563.8 266.0 -575.0"
-"model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
-"angles" "0 310.8 0"
-}
-// entity 13
-{
-"origin" "-1240.0 1080.0 -448.0"
-"classname" "reflection_probe"
-}
-// entity 14
-{
-"origin" "-344.0 1080.0 -448.0"
-"classname" "reflection_probe"
-}
-// entity 15
-{
-"origin" "-1240.0 1080.0 -744.0"
-"classname" "reflection_probe"
-}
-// entity 16
-{
-"origin" "-1432.0 392.0 -544.0"
-"classname" "reflection_probe"
-}
-// entity 17
-{
-"origin" "-152.0 392.0 -544.0"
-"classname" "reflection_probe"
-}
-// entity 18
+// entity 8
 {
 "angles" "0 180 0"
 "origin" "1732.0 1785.0 -803.0"
 "model" "prefabs/aa_mappa_cod/edifici/polo_aule.map"
 "classname" "misc_prefab"
 }
-// entity 19
+// entity 9
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/edifici/biblioteca.map"
 "origin" "145.0 466.0 -819.0"
 }
-// entity 20
+// entity 10
 {
 "origin" "264.0 888.0 -498.0"
 "def" "light_point_linear"
@@ -6560,7 +6498,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 21
+// entity 11
 {
 "origin" "392.0 888.0 -498.0"
 "def" "light_point_linear"
@@ -6569,7 +6507,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 22
+// entity 12
 {
 "origin" "264.0 760.0 -498.0"
 "def" "light_point_linear"
@@ -6578,7 +6516,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 23
+// entity 13
 {
 "origin" "392.0 760.0 -498.0"
 "def" "light_point_linear"
@@ -6587,7 +6525,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 24
+// entity 14
 {
 "origin" "264.0 632.0 -498.0"
 "def" "light_point_linear"
@@ -6596,7 +6534,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 25
+// entity 15
 {
 "origin" "392.0 632.0 -498.0"
 "def" "light_point_linear"
@@ -6605,7 +6543,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 26
+// entity 16
 {
 "origin" "264.0 504.0 -498.0"
 "def" "light_point_linear"
@@ -6614,7 +6552,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 27
+// entity 17
 {
 "origin" "392.0 504.0 -498.0"
 "def" "light_point_linear"
@@ -6623,7 +6561,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 28
+// entity 18
 {
 "origin" "1496.0 656.0 -498.0"
 "def" "light_point_linear"
@@ -6632,7 +6570,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 29
+// entity 19
 {
 "origin" "1624.0 656.0 -498.0"
 "def" "light_point_linear"
@@ -6641,7 +6579,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 30
+// entity 20
 {
 "origin" "1496.0 528.0 -498.0"
 "def" "light_point_linear"
@@ -6650,7 +6588,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 31
+// entity 21
 {
 "origin" "1624.0 528.0 -498.0"
 "def" "light_point_linear"
@@ -6659,7 +6597,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 32
+// entity 22
 {
 "origin" "1496.0 896.0 -498.0"
 "def" "light_point_linear"
@@ -6668,7 +6606,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 33
+// entity 23
 {
 "origin" "1624.0 896.0 -498.0"
 "def" "light_point_linear"
@@ -6677,7 +6615,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 34
+// entity 24
 {
 "origin" "1496.0 768.0 -498.0"
 "def" "light_point_linear"
@@ -6686,7 +6624,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 35
+// entity 25
 {
 "origin" "1624.0 768.0 -498.0"
 "def" "light_point_linear"
@@ -6695,7 +6633,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 36
+// entity 26
 {
 "origin" "752.0 664.0 -498.0"
 "def" "light_point_linear"
@@ -6704,7 +6642,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 37
+// entity 27
 {
 "origin" "880.0 664.0 -498.0"
 "def" "light_point_linear"
@@ -6713,7 +6651,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 38
+// entity 28
 {
 "origin" "752.0 536.0 -498.0"
 "def" "light_point_linear"
@@ -6722,7 +6660,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 39
+// entity 29
 {
 "origin" "880.0 536.0 -498.0"
 "def" "light_point_linear"
@@ -6731,7 +6669,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 40
+// entity 30
 {
 "origin" "1024.0 672.0 -498.0"
 "def" "light_point_linear"
@@ -6740,7 +6678,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 41
+// entity 31
 {
 "origin" "1152.0 672.0 -498.0"
 "def" "light_point_linear"
@@ -6749,7 +6687,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 42
+// entity 32
 {
 "origin" "1024.0 544.0 -498.0"
 "def" "light_point_linear"
@@ -6758,7 +6696,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 43
+// entity 33
 {
 "origin" "1152.0 544.0 -498.0"
 "def" "light_point_linear"
@@ -6767,7 +6705,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 44
+// entity 34
 {
 "origin" "882.0 864.0 -698.0"
 "def" "light_point_linear"
@@ -6776,7 +6714,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 45
+// entity 35
 {
 "origin" "1010.0 864.0 -698.0"
 "def" "light_point_linear"
@@ -6785,7 +6723,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 46
+// entity 36
 {
 "origin" "882.0 736.0 -698.0"
 "def" "light_point_linear"
@@ -6794,7 +6732,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 47
+// entity 37
 {
 "origin" "1010.0 736.0 -698.0"
 "def" "light_point_linear"
@@ -6803,7 +6741,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 48
+// entity 38
 {
 "origin" "1240.0 612.0 -698.0"
 "def" "light_point_linear"
@@ -6812,7 +6750,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 49
+// entity 39
 {
 "origin" "2058.0 636.0 -698.0"
 "def" "light_point_linear"
@@ -6821,7 +6759,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 50
+// entity 40
 {
 "origin" "2090.0 862.0 -698.0"
 "def" "light_point_linear"
@@ -6830,7 +6768,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 51
+// entity 41
 {
 "origin" "1784.0 864.0 -698.0"
 "def" "light_point_linear"
@@ -6839,7 +6777,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 52
+// entity 42
 {
 "origin" "1782.0 640.0 -698.0"
 "def" "light_point_linear"
@@ -6848,150 +6786,440 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 53
+// entity 43
 {
 "origin" "-95.0 484.0 -851.0"
 "model" "prefabs/aa_mappa_cod/copertura_vetro.map"
 "classname" "misc_prefab"
 }
-// entity 54
-{
-"classname" "reflection_probe"
-"origin" "1961.0 1079.0 -744.0"
-}
-// entity 55
-{
-"classname" "reflection_probe"
-"origin" "1769.0 1079.0 -448.0"
-}
-// entity 56
-{
-"classname" "reflection_probe"
-"origin" "1768.0 1077.0 -582.0"
-}
-// entity 57
-{
-"classname" "reflection_probe"
-"origin" "1122.0 1085.0 -582.0"
-}
-// entity 58
-{
-"classname" "reflection_probe"
-"origin" "623.0 1078.0 -582.0"
-}
-// entity 59
+// entity 44
 {
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_ts.map"
 "origin" "1222.0 1296.0 -814.0"
 "classname" "misc_prefab"
 }
-// entity 60
+// entity 45
 {
 "origin" "-1727.0 466.0 -819.0"
 "model" "prefabs/aa_mappa_cod/edifici/mensa.map"
 "classname" "misc_prefab"
 }
-// entity 61
+// entity 46
 {
 "origin" "191.5 422.9 -623.1"
 "angles" "0 0 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 62
+// entity 47
 {
 "origin" "1471.5 422.9 -623.1"
 "angles" "0 0 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 63
+// entity 48
 {
 "origin" "-576.5 422.9 -623.1"
 "angles" "0 0 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 64
+// entity 49
 {
 "origin" "-1344.5 422.9 -623.1"
 "angles" "0 0 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 65
+// entity 50
 {
 "origin" "-1215.5 1110.1 -815.1"
 "angles" "0 180 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 66
+// entity 51
 {
 "origin" "-1214.9 1062.5 -602.3"
 "angles" "1.03916e-005 178.7 -14.1002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 67
+// entity 52
 {
 "origin" "-1516.1 1501.6 -819.0"
 "angles" "1.00179e-005 300 0.00151723"
 "model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
 "classname" "misc_prefab"
 }
-// entity 68
+// entity 53
 {
 "origin" "287.5 1702.9 -815.1"
 "angles" "0 0 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 69
+// entity 54
 {
 "angles" "0 310 85.8"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "666.7 1475.9 -801.7"
 "classname" "misc_prefab"
 }
-// entity 70
+// entity 55
 {
 "angles" "0 18 85.8"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "783.3 1272.6 -801.7"
 "classname" "misc_prefab"
 }
-// entity 71
+// entity 56
 {
 "angles" "0 264 85.8"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "813.0 1389.0 -801.7"
 "classname" "misc_prefab"
 }
-// entity 72
+// entity 57
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
 "angles" "13.7201 15.9066 -11.7076"
 "origin" "-266.0 -181.5 -591.0"
 }
-// entity 73
+// entity 58
 {
 "origin" "1293.3 -112.1 -591.0"
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/vehicle_80s_hatch1_brndest.map"
 "angles" "0 16.1 0"
 }
-// entity 74
+// entity 59
 {
 "model" "prefabs/misc_models/vehicle_80s_hatch1_tan_destructible.map"
 "origin" "1136.0 -136.0 -592.0"
 "classname" "misc_prefab"
 }
-// entity 75
+// entity 60
 {
 "angles" "12.9525 30.8675 7.63062"
 "model" "prefabs/misc_models/vehicle_ch46e_damaged_rear_piece.map"
 "origin" "-1255.5 1931.2 -414.7"
 "classname" "misc_prefab"
+}
+// entity 61
+{
+"origin" "-1400.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 62
+{
+"origin" "-1016.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 63
+{
+"origin" "-632.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 64
+{
+"origin" "-248.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 65
+{
+"origin" "136.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 66
+{
+"origin" "520.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 67
+{
+"origin" "904.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 68
+{
+"origin" "1288.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 69
+{
+"origin" "1672.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 70
+{
+"origin" "2056.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 71
+{
+"origin" "2440.0 392.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 72
+{
+"origin" "-1400.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 73
+{
+"origin" "-1016.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 74
+{
+"origin" "-632.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 75
+{
+"origin" "-248.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 76
+{
+"origin" "136.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 77
+{
+"origin" "520.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 78
+{
+"origin" "904.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 79
+{
+"origin" "1288.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 80
+{
+"origin" "1672.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 81
+{
+"origin" "2056.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 82
+{
+"origin" "2440.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 83
+{
+"classname" "reflection_probe"
+"origin" "2440.0 1032.0 -696.0"
+}
+// entity 84
+{
+"classname" "reflection_probe"
+"origin" "2056.0 1032.0 -696.0"
+}
+// entity 85
+{
+"classname" "reflection_probe"
+"origin" "1672.0 1032.0 -696.0"
+}
+// entity 86
+{
+"classname" "reflection_probe"
+"origin" "1288.0 1032.0 -696.0"
+}
+// entity 87
+{
+"classname" "reflection_probe"
+"origin" "904.0 1032.0 -696.0"
+}
+// entity 88
+{
+"classname" "reflection_probe"
+"origin" "520.0 1032.0 -696.0"
+}
+// entity 89
+{
+"classname" "reflection_probe"
+"origin" "136.0 1032.0 -696.0"
+}
+// entity 90
+{
+"classname" "reflection_probe"
+"origin" "-248.0 1032.0 -696.0"
+}
+// entity 91
+{
+"classname" "reflection_probe"
+"origin" "-632.0 1032.0 -696.0"
+}
+// entity 92
+{
+"classname" "reflection_probe"
+"origin" "-1016.0 1032.0 -696.0"
+}
+// entity 93
+{
+"classname" "reflection_probe"
+"origin" "-1400.0 1032.0 -696.0"
+}
+// entity 94
+{
+"classname" "reflection_probe"
+"origin" "2440.0 1672.0 -312.0"
+}
+// entity 95
+{
+"classname" "reflection_probe"
+"origin" "2056.0 1672.0 -312.0"
+}
+// entity 96
+{
+"classname" "reflection_probe"
+"origin" "1672.0 1672.0 -312.0"
+}
+// entity 97
+{
+"classname" "reflection_probe"
+"origin" "1288.0 1672.0 -312.0"
+}
+// entity 98
+{
+"classname" "reflection_probe"
+"origin" "904.0 1672.0 -312.0"
+}
+// entity 99
+{
+"classname" "reflection_probe"
+"origin" "520.0 1672.0 -312.0"
+}
+// entity 100
+{
+"classname" "reflection_probe"
+"origin" "136.0 1672.0 -312.0"
+}
+// entity 101
+{
+"classname" "reflection_probe"
+"origin" "-248.0 1672.0 -312.0"
+}
+// entity 102
+{
+"classname" "reflection_probe"
+"origin" "-632.0 1672.0 -312.0"
+}
+// entity 103
+{
+"classname" "reflection_probe"
+"origin" "-1016.0 1672.0 -312.0"
+}
+// entity 104
+{
+"classname" "reflection_probe"
+"origin" "-1400.0 1672.0 -312.0"
+}
+// entity 105
+{
+"classname" "reflection_probe"
+"origin" "2440.0 1672.0 -568.0"
+}
+// entity 106
+{
+"classname" "reflection_probe"
+"origin" "2056.0 1672.0 -568.0"
+}
+// entity 107
+{
+"classname" "reflection_probe"
+"origin" "1672.0 1672.0 -568.0"
+}
+// entity 108
+{
+"classname" "reflection_probe"
+"origin" "1288.0 1672.0 -568.0"
+}
+// entity 109
+{
+"classname" "reflection_probe"
+"origin" "904.0 1672.0 -568.0"
+}
+// entity 110
+{
+"classname" "reflection_probe"
+"origin" "520.0 1672.0 -568.0"
+}
+// entity 111
+{
+"classname" "reflection_probe"
+"origin" "136.0 1672.0 -568.0"
+}
+// entity 112
+{
+"classname" "reflection_probe"
+"origin" "-248.0 1672.0 -568.0"
+}
+// entity 113
+{
+"classname" "reflection_probe"
+"origin" "-632.0 1672.0 -568.0"
+}
+// entity 114
+{
+"classname" "reflection_probe"
+"origin" "-1016.0 1672.0 -568.0"
+}
+// entity 115
+{
+"classname" "reflection_probe"
+"origin" "-1400.0 1672.0 -568.0"
+}
+// entity 116
+{
+"origin" "8.0 1544.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 117
+{
+"origin" "8.0 1288.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 118
+{
+"origin" "8.0 1032.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 119
+{
+"origin" "8.0 776.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 120
+{
+"origin" "8.0 520.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 121
+{
+"origin" "1928.0 904.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 122
+{
+"origin" "1224.0 904.0 -504.0"
+"classname" "reflection_probe"
+}
+// entity 123
+{
+"origin" "648.0 904.0 -504.0"
+"classname" "reflection_probe"
 }

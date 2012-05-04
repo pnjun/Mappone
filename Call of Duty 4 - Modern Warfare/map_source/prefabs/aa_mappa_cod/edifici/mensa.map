@@ -863,8 +863,8 @@ iwmap 4
  ( 4 543 16 ) ( 2 543 16 ) ( 2 522 16 ) uni_metal_al 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 522 192 ) ( 3 543 192 ) ( 5 543 192 ) uni_metal_al 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 526 32 ) ( 5 526 32 ) ( 5 526 16 ) uni_metal_al 8 64 0 -16 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 6 522 190 ) ( 6 543 190 ) ( 6 543 174 ) uni_metal_al 8 64 0 -16 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 4 542 32 ) ( 2 542 32 ) ( 2 542 16 ) uni_metal_al 8 64 0 -16 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 14 523 190 ) ( 14 544 190 ) ( 14 544 174 ) uni_metal_al 8 64 0 -16 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 12 543 32 ) ( 10 543 32 ) ( 10 543 16 ) uni_metal_dark 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 543 32 ) ( 0 522 32 ) ( 0 522 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 96
@@ -1386,7 +1386,7 @@ iwmap 4
  ( 95 -2 211 ) ( 95 28 211 ) ( 310 28 211 ) uni_concrete_tile 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 93 1 220 ) ( 308 1 220 ) ( 308 1 194 ) uni_concrete_tile 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 273 -3 219 ) ( 273 27 219 ) ( 273 27 193 ) uni_concrete_tile 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 308 542 208 ) ( 93 542 208 ) ( 93 542 182 ) uni_concrete_tile 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 308 542 208 ) ( 93 542 208 ) ( 93 542 182 ) uni_metal_dark 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 26 224 ) ( 0 -4 224 ) ( 0 -4 198 ) uni_concrete_tile 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 154
@@ -1917,7 +1917,7 @@ iwmap 4
  ( -633 -75 16 ) ( -633 325 16 ) ( -121 325 16 ) uni_piast_mensa 11.52 11.52 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -634 -58 33 ) ( -122 -58 33 ) ( -122 -58 17 ) me_office_ceiling_tiles 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1590 -194 32 ) ( 1590 206 32 ) ( 1590 206 16 ) me_office_ceiling_tiles 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -131 542 32 ) ( -643 542 32 ) ( -643 542 16 ) me_office_ceiling_tiles 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -131 542 32 ) ( -643 542 32 ) ( -643 542 16 ) uni_metal_dark 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 261 33 ) ( 0 -139 33 ) ( 0 -139 17 ) me_office_ceiling_tiles 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 213
@@ -3329,4 +3329,40 @@ iwmap 4
 "model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
 "angles" "0 270 0"
 "origin" "1213.5 43.0 234.0"
+}
+// entity 116
+{
+"origin" "274.0 542.0 16.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x.map"
+"classname" "misc_prefab"
+}
+// entity 117
+{
+"origin" "222.0 542.0 16.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x.map"
+"classname" "misc_prefab"
+}
+// entity 118
+{
+"origin" "170.0 542.0 16.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x.map"
+"classname" "misc_prefab"
+}
+// entity 119
+{
+"origin" "118.0 542.0 16.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x.map"
+"classname" "misc_prefab"
+}
+// entity 120
+{
+"origin" "66.0 542.0 16.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x.map"
+"classname" "misc_prefab"
+}
+// entity 121
+{
+"origin" "14.0 542.0 16.0"
+"model" "prefabs/aa_mappa_cod/vetrata_1x.map"
+"classname" "misc_prefab"
 }
