@@ -13,73 +13,7 @@ iwmap 4
 }
 // entity 1
 {
-"origin" "16.0 16.0 16.0"
+"origin" "1040.0 16.0 16.0"
 "model" "aa_mappa_uni.map"
 "classname" "misc_prefab"
-}
-// entity 2
-{
-"origin" "-1568.0 1680.0 -768.0"
-"classname" "mp_dm_spawn"
-}
-// entity 3
-{
-"origin" "368.0 1136.0 -768.0"
-"classname" "mp_dm_spawn"
-}
-// entity 4
-{
-"angles" "0 360 0"
-"origin" "-224.0 -256.0 -560.0"
-"classname" "mp_dm_spawn"
-}
-// entity 5
-{
-"angles" "0 30 0"
-"origin" "1616.0 784.0 -560.0"
-"classname" "mp_dm_spawn"
-}
-// entity 6
-{
-"origin" "-1024.0 672.0 -560.0"
-"angles" "0 270 0"
-"classname" "mp_dm_spawn"
-}
-// entity 7
-{
-"origin" "2256.0 768.0 -784.0"
-"angles" "0 360 0"
-"classname" "mp_dm_spawn"
-}
-// entity 8
-{
-"origin" "624.0 480.0 -768.0"
-"angles" "0 30 0"
-"classname" "mp_dm_spawn"
-}
-// entity 9
-{
-"origin" "-1296.0 656.0 -768.0"
-"angles" "0 120 0"
-"classname" "mp_dm_spawn"
-}
-// entity 10
-{
-"origin" "16.0 1424.0 -768.0"
-"classname" "mp_tdm_spawn"
-}
-// entity 11
-{
-"origin" "-1648.0 1424.0 -768.0"
-"classname" "mp_tdm_spawn_allies_start"
-}
-// entity 12
-{
-"origin" "2128.0 1424.0 -768.0"
-"classname" "mp_tdm_spawn_axis_start"
-}
-// entity 13
-{
-"origin" "1488.0 1296.0 -624.0"
-"classname" "mp_global_intermission"
 }
