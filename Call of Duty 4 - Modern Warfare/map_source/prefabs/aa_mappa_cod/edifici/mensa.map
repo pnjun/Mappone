@@ -2676,6 +2676,33 @@ iwmap 4
  ( 1597.5 45 406 ) ( 1592.5 45 406 ) ( 1592.5 45 396 ) uni_metal_dark -1.5 181.5 -0.5 142.5 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1591 -458.5 237 ) ( 1591 -479.5 237 ) ( 1591 -479.5 227 ) uni_metal_dark -44 181.5 -43 142.5 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 297
+{
+ ( 1135 297 406 ) ( 1085 297 406 ) ( 1085 46 406 ) me_ground_concrete01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1085 46 471 ) ( 1085 297 471 ) ( 1135 297 471 ) me_ground_concrete01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1084 64 471 ) ( 1134 64 471 ) ( 1134 64 407 ) me_ground_concrete01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1175 80 471 ) ( 1175 331 471 ) ( 1175 331 407 ) me_ground_concrete01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1219 154 471 ) ( 1169 154 471 ) ( 1169 154 407 ) me_ground_concrete01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1085 297 471 ) ( 1085 46 471 ) ( 1085 46 407 ) me_ground_concrete01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 298
+{
+ ( 1126 664 406 ) ( 1076 664 406 ) ( 1076 413 406 ) me_ground_concrete01 128 128 -9 -367 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1076 413 471 ) ( 1076 664 471 ) ( 1126 664 471 ) me_ground_concrete01 128 128 -9 -367 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1075 431 471 ) ( 1125 431 471 ) ( 1125 431 407 ) me_ground_concrete01 128 128 -9 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1166 447 471 ) ( 1166 698 471 ) ( 1166 698 407 ) me_ground_concrete01 128 128 367 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1210 521 471 ) ( 1160 521 471 ) ( 1160 521 407 ) me_ground_concrete01 128 128 -9 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1076 664 471 ) ( 1076 413 471 ) ( 1076 413 407 ) me_ground_concrete01 128 128 367 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 299
+{
+ ( 1508 592 406 ) ( 1458 592 406 ) ( 1458 341 406 ) me_ground_concrete01 128 128 373 -295 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1458 341 471 ) ( 1458 592 471 ) ( 1508 592 471 ) me_ground_concrete01 128 128 373 -295 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1457 359 471 ) ( 1507 359 471 ) ( 1507 359 407 ) me_ground_concrete01 128 128 373 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1548 375 471 ) ( 1548 626 471 ) ( 1548 626 407 ) me_ground_concrete01 128 128 295 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1592 449 471 ) ( 1542 449 471 ) ( 1542 449 407 ) me_ground_concrete01 128 128 373 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1458 592 471 ) ( 1458 341 471 ) ( 1458 341 407 ) me_ground_concrete01 128 128 295 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
 // entity 1
 {
@@ -3330,39 +3357,53 @@ iwmap 4
 "angles" "0 270 0"
 "origin" "1213.5 43.0 234.0"
 }
-// entity 116
+// entity 100
 {
 "origin" "274.0 542.0 16.0"
 "model" "prefabs/aa_mappa_cod/vetrata_1x.map"
 "classname" "misc_prefab"
 }
-// entity 117
+// entity 101
 {
 "origin" "222.0 542.0 16.0"
 "model" "prefabs/aa_mappa_cod/vetrata_1x.map"
 "classname" "misc_prefab"
 }
-// entity 118
+// entity 102
 {
 "origin" "170.0 542.0 16.0"
 "model" "prefabs/aa_mappa_cod/vetrata_1x.map"
 "classname" "misc_prefab"
 }
-// entity 119
+// entity 103
 {
 "origin" "118.0 542.0 16.0"
 "model" "prefabs/aa_mappa_cod/vetrata_1x.map"
 "classname" "misc_prefab"
 }
-// entity 120
+// entity 104
 {
 "origin" "66.0 542.0 16.0"
 "model" "prefabs/aa_mappa_cod/vetrata_1x.map"
 "classname" "misc_prefab"
 }
-// entity 121
+// entity 105
 {
 "origin" "14.0 542.0 16.0"
 "model" "prefabs/aa_mappa_cod/vetrata_1x.map"
+"classname" "misc_prefab"
+}
+// entity 106
+{
+"angles" "0 161.5 0"
+"model" "prefabs/misc_models/vehicle_slamraam.map"
+"origin" "394.4 185.9 406.5"
+"classname" "misc_prefab"
+}
+// entity 107
+{
+"angles" "0 326.5 0"
+"model" "prefabs/misc_models/vehicle_slamraam.map"
+"origin" "1413.8 220.2 406.5"
 "classname" "misc_prefab"
 }
