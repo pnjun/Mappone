@@ -8,7 +8,7 @@ iwmap 4
 "sundirection" "-70 -140 60"
 "sundiffusecolor" "1 1 1"
 "suncolor" "1 1 1"
-"ambient" ".6"
+"ambient" ".7"
 "classname" "worldspawn"
 }
 // entity 1
@@ -29,61 +29,56 @@ iwmap 4
 }
 // entity 4
 {
-"origin" "864.0 1984.0 -560.0"
-"classname" "mp_dm_spawn"
-}
-// entity 5
-{
 "angles" "0 360 0"
 "origin" "-224.0 -256.0 -560.0"
 "classname" "mp_dm_spawn"
 }
-// entity 6
+// entity 5
 {
 "angles" "0 30 0"
 "origin" "1616.0 784.0 -560.0"
 "classname" "mp_dm_spawn"
 }
-// entity 7
+// entity 6
 {
 "origin" "-1024.0 672.0 -560.0"
 "angles" "0 270 0"
 "classname" "mp_dm_spawn"
 }
-// entity 8
+// entity 7
 {
 "origin" "2256.0 768.0 -784.0"
 "angles" "0 360 0"
 "classname" "mp_dm_spawn"
 }
-// entity 9
+// entity 8
 {
 "origin" "624.0 480.0 -768.0"
 "angles" "0 30 0"
 "classname" "mp_dm_spawn"
 }
-// entity 10
+// entity 9
 {
 "origin" "-1296.0 656.0 -768.0"
 "angles" "0 120 0"
 "classname" "mp_dm_spawn"
 }
-// entity 11
+// entity 10
 {
 "origin" "16.0 1424.0 -768.0"
 "classname" "mp_tdm_spawn"
 }
-// entity 12
+// entity 11
 {
 "origin" "-1648.0 1424.0 -768.0"
 "classname" "mp_tdm_spawn_allies_start"
 }
-// entity 13
+// entity 12
 {
 "origin" "2128.0 1424.0 -768.0"
 "classname" "mp_tdm_spawn_axis_start"
 }
-// entity 14
+// entity 13
 {
 "origin" "1488.0 1296.0 -624.0"
 "classname" "mp_global_intermission"
