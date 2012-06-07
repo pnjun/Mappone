@@ -769,13 +769,6 @@
 		"defeatBackdrop" "$default"
 		"levelBriefing" "$default"
 	}
-	"mp_unitn" ( "level.gdf" )
-	{
-		"bspName" ""
-		"victoryBackdrop" "victory"
-		"defeatBackdrop" "$default"
-		"levelBriefing" "$default"
-	}
 	"test" ( "level.gdf" )
 	{
 		"bspName" "test"
