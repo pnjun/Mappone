@@ -38,12 +38,12 @@ iwmap 4
 }
 // entity 4
 {
-"origin" "712.0 40.0 -552.0"
+"origin" "808.0 -264.0 -552.0"
 "classname" "mp_dm_spawn"
 }
 // entity 5
 {
-"origin" "1464.0 -184.0 -552.0"
+"origin" "1864.0 -184.0 -552.0"
 "classname" "mp_dm_spawn"
 }
 // entity 6
@@ -68,27 +68,27 @@ iwmap 4
 }
 // entity 10
 {
-"origin" "1952.0 1440.0 -768.0"
+"origin" "1520.0 1536.0 -768.0"
 "classname" "mp_dm_spawn"
 }
 // entity 11
 {
-"origin" "2696.0 1576.0 -768.0"
+"origin" "3368.0 1528.0 -768.0"
 "classname" "mp_dm_spawn"
 }
 // entity 12
 {
-"origin" "3376.0 2320.0 -768.0"
+"origin" "3152.0 2416.0 -768.0"
 "classname" "mp_dm_spawn"
 }
 // entity 13
 {
-"origin" "2760.0 1240.0 -768.0"
+"origin" "2264.0 1272.0 -768.0"
 "classname" "mp_dm_spawn"
 }
 // entity 14
 {
-"origin" "1608.0 1184.0 -768.0"
+"origin" "1352.0 1120.0 -768.0"
 "classname" "mp_dm_spawn"
 }
 // entity 15
@@ -285,4 +285,9 @@ iwmap 4
 {
 "origin" "3032.0 1144.0 -776.0"
 "classname" "mp_tdm_spawn_axis_start"
+}
+// entity 42
+{
+"origin" "2984.0 1384.0 -768.0"
+"classname" "mp_dm_spawn"
 }
