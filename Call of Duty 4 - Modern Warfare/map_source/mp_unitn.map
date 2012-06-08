@@ -4,11 +4,11 @@ iwmap 4
 // entity 0
 {
 "sunradiosity" "1"
-"sunlight" "1.8"
+"sunlight" "2"
 "sundirection" "-70 -140 60"
 "sundiffusecolor" "1 1 1"
 "suncolor" "1 1 1"
-"ambient" ".7"
+"ambient" ".5"
 "classname" "worldspawn"
 // brush 0
 {
@@ -290,4 +290,37 @@ iwmap 4
 {
 "origin" "2984.0 1384.0 -768.0"
 "classname" "mp_dm_spawn"
+}
+// entity 43
+{
+"origin" "-542.0 2232.0 -776.0"
+"classname" "mp_tdm_spawn_allies_start"
+}
+// entity 44
+{
+"origin" "-584.0 1474.0 -776.0"
+"classname" "mp_tdm_spawn_allies_start"
+}
+// entity 45
+{
+"origin" "704.0 -268.0 -555.0"
+"classname" "mp_tdm_spawn_allies_start"
+}
+// entity 46
+{
+"origin" "3440.0 3744.0 -112.0"
+"model" "prefabs/minimap_corner.map"
+"classname" "misc_prefab"
+}
+// entity 47
+{
+"origin" "-1008.0 -432.0 -112.0"
+"model" "prefabs/minimap_corner.map"
+"classname" "mp_global_intermission"
+}
+// entity 48
+{
+"origin" "1056.0 336.0 -416.0"
+"angles" "2 90 8.74055e-008"
+"classname" "mp_global_intermission"
 }
