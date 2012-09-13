@@ -1,0 +1,49 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/libreria.map"
+"angles" "0 180 0"
+"origin" "93.0 17.0 0.0"
+}
+// entity 2
+{
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/libreria.map"
+"angles" "0 180 0"
+"origin" "58.0 17.0 0.0"
+}
+// entity 3
+{
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/libreria.map"
+"angles" "0 180 0"
+"origin" "-82.0 17.0 0.0"
+}
+// entity 4
+{
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/libreria.map"
+"angles" "0 180 0"
+"origin" "23.0 17.0 0.0"
+}
+// entity 5
+{
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/libreria.map"
+"angles" "0 180 0"
+"origin" "-12.0 17.0 0.0"
+}
+// entity 6
+{
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/libreria.map"
+"angles" "0 180 0"
+"origin" "-47.0 17.0 0.0"
+}
