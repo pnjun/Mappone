@@ -5009,6 +5009,7 @@ iwmap 4
 }
 // entity 143
 {
+"spawnflags" "0"
 "origin" "740.0 276.0 219.0"
 "model" "prefabs/aa_mappa_cod/tavolo_prese_160_130.map"
 "classname" "misc_prefab"

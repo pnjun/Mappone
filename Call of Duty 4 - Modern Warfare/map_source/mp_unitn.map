@@ -78,7 +78,7 @@ iwmap 4
 }
 // entity 12
 {
-"origin" "3120.0 2416.0 -2016.0"
+"origin" "3712.0 2912.0 -2016.0"
 "classname" "mp_dm_spawn"
 }
 // entity 13
@@ -103,7 +103,7 @@ iwmap 4
 }
 // entity 17
 {
-"origin" "-640.0 2136.0 -2016.0"
+"origin" "-768.0 2808.0 -2016.0"
 "classname" "mp_dm_spawn"
 }
 // entity 18
@@ -253,7 +253,7 @@ iwmap 4
 }
 // entity 35
 {
-"origin" "-696.0 2360.0 -2024.0"
+"origin" "-264.0 2584.0 -2024.0"
 "classname" "mp_tdm_spawn"
 }
 // entity 36
@@ -273,7 +273,7 @@ iwmap 4
 }
 // entity 39
 {
-"origin" "3200.0 1936.0 -2024.0"
+"origin" "3184.0 2208.0 -2024.0"
 "classname" "mp_tdm_spawn_axis_start"
 }
 // entity 40
@@ -293,7 +293,7 @@ iwmap 4
 }
 // entity 43
 {
-"origin" "-574.0 2232.0 -2024.0"
+"origin" "-222.0 2776.0 -2024.0"
 "classname" "mp_tdm_spawn_allies_start"
 }
 // entity 44
