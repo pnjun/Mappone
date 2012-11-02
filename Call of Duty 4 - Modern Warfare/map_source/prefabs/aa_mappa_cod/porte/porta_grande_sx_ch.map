@@ -88,11 +88,15 @@ iwmap 4
 // brush 9
 {
  ( 13 2 5 ) ( 13 2 5 ) ( 13 2 5 ) uni_metal_al 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 13 2 95 ) ( 13 2 95 ) ( 13 2 95 ) uni_metal_al 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 13 2 95 ) ( 13 2 95 ) ( 13 2 5 ) uni_metal_al 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 13 2 95 ) ( 13 2 95 ) ( 13 2 5 ) uni_metal_al 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 13 2 95 ) ( 13 2 95 ) ( 13 2 5 ) uni_metal_al 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 13 2 95 ) ( 13 2 95 ) ( 13 2 5 ) uni_metal_al 8 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 10
+{
+ ( 58 12 0 ) ( 2 12 0 ) ( 2 2 0 ) clip 64 64 0 82 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 2 90 ) ( 2 12 90 ) ( 58 12 90 ) clip 64 64 0 82 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 0 90 ) ( 58 0 90 ) ( 58 0 0 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 58 2 90 ) ( 58 12 90 ) ( 58 12 0 ) clip 64 64 -82 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 58 6 90 ) ( 2 6 90 ) ( 2 6 0 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 12 90 ) ( 2 2 90 ) ( 2 2 0 ) clip 64 64 -82 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
 // entity 1
