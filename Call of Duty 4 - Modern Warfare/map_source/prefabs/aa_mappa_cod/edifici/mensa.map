@@ -3121,6 +3121,16 @@ iwmap 4
  ( 566 102.5 82 ) ( 519 102.5 82 ) ( 519 102.5 75.5 ) me_office_ceiling_tiles 24 24 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 519 102.5 82 ) ( 519 101.5 82 ) ( 519 101.5 75.5 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 312
+{
+  contents detail;
+ ( 657 353 16 ) ( 646 353 16 ) ( 646 347 16 ) office_whitewall_01 128 128 -296 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 646 347 192 ) ( 646 353 192 ) ( 657 353 192 ) office_whitewall_01 128 128 -296 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 646 347 192 ) ( 657 347 192 ) ( 657 347 16 ) office_whitewall_01 128 128 -296 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 752 347 192 ) ( 752 353 192 ) ( 752 353 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 657 353 192 ) ( 646 353 192 ) ( 646 353 16 ) office_whitewall_01 128 128 -296 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 649 353 192 ) ( 649 347 192 ) ( 649 347 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
 // entity 1
 {
@@ -4092,7 +4102,7 @@ iwmap 4
 }
 // entity 140
 {
-"origin" "1416.0 456.0 120.0"
+"origin" "1335.0 489.0 120.0"
 "def" "light_point_linear"
 "radius" "200"
 "_color" "1 1 1"
@@ -4101,7 +4111,7 @@ iwmap 4
 }
 // entity 141
 {
-"origin" "1416.0 344.0 120.0"
+"origin" "1335.0 377.0 120.0"
 "def" "light_point_linear"
 "radius" "200"
 "_color" "1 1 1"
@@ -4111,6 +4121,78 @@ iwmap 4
 // entity 142
 {
 "origin" "472.0 56.0 168.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 143
+{
+"origin" "1224.0 236.0 120.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 144
+{
+"origin" "1224.0 124.0 120.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 145
+{
+"origin" "903.0 180.0 120.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 146
+{
+"origin" "903.0 68.0 120.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 147
+{
+"origin" "1531.0 177.0 120.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 148
+{
+"origin" "1531.0 65.0 120.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 149
+{
+"origin" "1537.0 456.0 120.0"
+"def" "light_point_linear"
+"radius" "200"
+"_color" "1 1 1"
+"intensity" "1"
+"classname" "light"
+}
+// entity 150
+{
+"origin" "1537.0 344.0 120.0"
 "def" "light_point_linear"
 "radius" "200"
 "_color" "1 1 1"

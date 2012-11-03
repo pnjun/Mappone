@@ -103,7 +103,7 @@ iwmap 4
 }
 // entity 17
 {
-"origin" "-768.0 2808.0 -2016.0"
+"origin" "-1552.0 1862.0 -1838.0"
 "classname" "mp_dm_spawn"
 }
 // entity 18
@@ -253,7 +253,7 @@ iwmap 4
 }
 // entity 35
 {
-"origin" "-264.0 2584.0 -2024.0"
+"origin" "-374.0 2924.0 -2024.0"
 "classname" "mp_tdm_spawn"
 }
 // entity 36
@@ -293,7 +293,7 @@ iwmap 4
 }
 // entity 43
 {
-"origin" "-222.0 2776.0 -2024.0"
+"origin" "-222.0 2758.0 -2024.0"
 "classname" "mp_tdm_spawn_allies_start"
 }
 // entity 44
