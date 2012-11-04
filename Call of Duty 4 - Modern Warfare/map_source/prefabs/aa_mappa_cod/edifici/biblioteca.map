@@ -6932,3 +6932,61 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
+// entity 321
+{
+"model" "prefabs/misc_models/com_copypaper_box.map"
+"origin" "720.0 -48.0 16.0"
+"classname" "misc_prefab"
+}
+// entity 322
+{
+"model" "prefabs/misc_models/com_copypaper_box.map"
+"origin" "713.0 -48.0 24.0"
+"classname" "misc_prefab"
+}
+// entity 323
+{
+"model" "prefabs/misc_models/com_copypaper_box.map"
+"origin" "702.0 -48.0 16.0"
+"classname" "misc_prefab"
+}
+// entity 324
+{
+"angles" "0 352.2 0"
+"model" "prefabs/misc_models/com_office_chair_black.map"
+"origin" "998.0 253.9 16.0"
+"classname" "misc_prefab"
+}
+// entity 325
+{
+"origin" "780.0 -42.0 16.0"
+"model" "prefabs/misc_models/com_photocopier.map"
+"classname" "misc_prefab"
+}
+// entity 326
+{
+"angles" "0 356.8 0"
+"origin" "836.0 -42.3 16.0"
+"model" "prefabs/misc_models/com_photocopier.map"
+"classname" "misc_prefab"
+}
+// entity 327
+{
+"angles" "0 356.8 0"
+"origin" "548.0 -48.3 16.0"
+"model" "prefabs/misc_models/com_photocopier.map"
+"classname" "misc_prefab"
+}
+// entity 328
+{
+"model" "prefabs/misc_models/com_vending_can_old1_lit.map"
+"origin" "349.0 43.0 16.0"
+"classname" "misc_prefab"
+}
+// entity 329
+{
+"angles" "90 189.045 174.045"
+"model" "prefabs/misc_models/com_vending_can_new1.map"
+"origin" "394.2 30.7 55.7"
+"classname" "misc_prefab"
+}
