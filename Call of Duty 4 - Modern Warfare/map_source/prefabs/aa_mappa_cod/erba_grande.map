@@ -1,0 +1,144 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "-26.1 70.0 -1.0"
+"classname" "misc_model"
+}
+// entity 2
+{
+"angles" "0 15.8 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "-5.7 25.3 -1.0"
+"classname" "misc_model"
+}
+// entity 3
+{
+"model" "foliage_grass_short_squareclump"
+"origin" "37.0 49.0 -1.0"
+"classname" "misc_model"
+}
+// entity 4
+{
+"model" "foliage_grass_short_squareclump"
+"origin" "84.0 60.0 -1.0"
+"classname" "misc_model"
+}
+// entity 5
+{
+"model" "foliage_grass_short_squareclump"
+"origin" "-44.0 91.0 -1.0"
+"classname" "misc_model"
+}
+// entity 6
+{
+"angles" "0 164.1 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "5.0 91.9 -1.0"
+"classname" "misc_model"
+}
+// entity 7
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "-126.1 25.0 -1.0"
+"classname" "misc_model"
+}
+// entity 8
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "-35.1 39.0 -1.0"
+"classname" "misc_model"
+}
+// entity 9
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "-70.1 86.0 -1.0"
+"classname" "misc_model"
+}
+// entity 10
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "31.9 89.0 -1.0"
+"classname" "misc_model"
+}
+// entity 11
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "76.9 92.0 -1.0"
+"classname" "misc_model"
+}
+// entity 12
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "91.9 25.0 -1.0"
+"classname" "misc_model"
+}
+// entity 13
+{
+"angles" "0 360 0"
+"classname" "misc_model"
+"origin" "-112.0 91.0 -1.0"
+"model" "foliage_grass_short_squareclump"
+}
+// entity 14
+{
+"classname" "misc_model"
+"origin" "-126.8 50.7 -1.0"
+"model" "foliage_grass_short_squareclump"
+"angles" "0 35.3 0"
+}
+// entity 15
+{
+"classname" "misc_model"
+"origin" "-75.8 58.4 -1.0"
+"model" "foliage_grass_short_squareclump"
+"angles" "0 20.3 0"
+}
+// entity 16
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "-70.1 25.0 -1.0"
+"classname" "misc_model"
+}
+// entity 17
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "35.9 25.0 -1.0"
+"classname" "misc_model"
+}
+// entity 18
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "116.9 92.0 -1.0"
+"classname" "misc_model"
+}
+// entity 19
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "116.9 52.0 -1.0"
+"classname" "misc_model"
+}
+// entity 20
+{
+"angles" "0 5.29998 0"
+"model" "foliage_grass_short_squareclump"
+"origin" "132.9 28.0 -1.0"
+"classname" "misc_model"
+}
