@@ -4952,3 +4952,114 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
+// entity 189
+{
+"origin" "1157.0 336.0 218.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 190
+{
+"origin" "1454.0 78.0 218.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 191
+{
+"origin" "465.0 164.0 218.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 192
+{
+"angles" "0 320.3 0"
+"origin" "563.0 63.0 218.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 193
+{
+"angles" "0 310 0"
+"origin" "1451.0 340.0 218.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 194
+{
+"origin" "1560.0 416.0 326.0"
+"angles" "0 180 0"
+"model" "com_fire_bell"
+"classname" "misc_model"
+}
+// entity 195
+{
+"model" "com_plate_round1"
+"origin" "1269.0 220.0 247.0"
+"classname" "misc_model"
+}
+// entity 196
+{
+"model" "com_plate_round1"
+"origin" "1270.0 244.0 247.0"
+"classname" "misc_model"
+}
+// entity 197
+{
+"model" "com_plate_round1"
+"origin" "1323.0 100.0 247.0"
+"classname" "misc_model"
+}
+// entity 198
+{
+"model" "com_plate_round1"
+"origin" "1306.0 80.0 247.0"
+"classname" "misc_model"
+}
+// entity 199
+{
+"model" "com_plate_round1"
+"origin" "1161.0 97.0 247.0"
+"classname" "misc_model"
+}
+// entity 200
+{
+"model" "com_plate_round1"
+"origin" "1145.0 52.0 247.0"
+"classname" "misc_model"
+}
+// entity 201
+{
+"model" "com_plate_round1"
+"origin" "1221.0 51.0 247.0"
+"classname" "misc_model"
+}
+// entity 202
+{
+"model" "com_plate_round1"
+"origin" "1108.0 250.0 247.0"
+"classname" "misc_model"
+}
+// entity 203
+{
+"model" "com_plate_round1"
+"origin" "1124.0 303.0 247.0"
+"classname" "misc_model"
+}
+// entity 204
+{
+"model" "com_plate_round1"
+"origin" "1179.0 250.0 247.0"
+"classname" "misc_model"
+}
+// entity 205
+{
+"model" "com_plate_round1"
+"origin" "1079.0 54.0 247.0"
+"classname" "misc_model"
+}
+// entity 206
+{
+"model" "com_plate_round1"
+"origin" "1080.0 53.0 247.0"
+"classname" "misc_model"
+}
