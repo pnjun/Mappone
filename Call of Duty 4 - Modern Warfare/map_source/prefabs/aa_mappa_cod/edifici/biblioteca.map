@@ -7331,3 +7331,17 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
+// entity 376
+{
+"angles" "0 342.9 0"
+"model" "prefabs/misc_models/com_laptop_open.map"
+"origin" "1054.0 277.2 258.0"
+"classname" "misc_prefab"
+}
+// entity 377
+{
+"angles" "0 120.9 0"
+"model" "prefabs/misc_models/com_laptop_open.map"
+"origin" "1108.0 109.3 246.0"
+"classname" "misc_prefab"
+}

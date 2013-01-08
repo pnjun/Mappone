@@ -3607,6 +3607,26 @@ iwmap 4
  ( 515 288 52 ) ( 519 288 47 ) ( 519 256 47 ) uni_metal_al 8 64 450 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 511 288 47 ) ( 518 288 52 ) ( 518 256 52 ) uni_metal_al 8 64 485 -380 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 324
+{
+  contents detail;
+ ( 1147 369 17 ) ( 1147 377 17 ) ( 1131 377 17 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -456 -730 -90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1131 376 45 ) ( 1147 376 45 ) ( 1147 368 45 ) uni_orange 64 64 -456 -730 -90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 753 353 60 ) ( 753 345 60 ) ( 753 345 -62 ) uni_orange 64 -64 -456 1 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 999 330 139 ) ( 1015 330 139 ) ( 1015 330 17 ) uni_orange 64 64 730 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1147 368 60 ) ( 1147 376 60 ) ( 1147 376 -62 ) uni_orange 64 -64 -456 1 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1147 365 60 ) ( 1131 365 60 ) ( 1131 365 -62 ) uni_orange 64 64 730 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 325
+{
+  contents detail;
+ ( 1146 353.5 45 ) ( 1146 363.5 45 ) ( 1139.5 363.5 45 ) icbm_tunnelfloor 128 128 -456 -730 -90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1139.5 363 46.5 ) ( 1146 363 46.5 ) ( 1146 353 46.5 ) icbm_tunnelfloor 128 128 -456 -730 -90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 753 369.5 46.5 ) ( 753 359.5 46.5 ) ( 753 359.5 18.5 ) icbm_tunnelfloor 128 -128 -456 1 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1137.5 325 46.5 ) ( 1144 325 46.5 ) ( 1144 325 18.5 ) icbm_tunnelfloor 128 128 730 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1147 353 46.5 ) ( 1147 363 46.5 ) ( 1147 363 18.5 ) icbm_tunnelfloor 128 -128 -456 1 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1145.5 365 46.5 ) ( 1139 365 46.5 ) ( 1139 365 18.5 ) icbm_tunnelfloor 128 128 730 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
 // entity 1
 {
@@ -4680,4 +4700,243 @@ iwmap 4
 "origin" "860.7 257.0 405.0"
 "model" "prefabs/misc_models/vehicle_slamraam.map"
 "angles" "0 37.4 0"
+}
+// entity 152
+{
+"origin" "30.0 17.0 15.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+}
+// entity 153
+{
+"origin" "363.0 105.0 16.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+}
+// entity 154
+{
+"origin" "376.0 383.0 16.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+}
+// entity 155
+{
+"origin" "450.0 17.0 16.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+}
+// entity 156
+{
+"origin" "875.0 280.0 16.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+}
+// entity 157
+{
+"origin" "1206.0 280.0 16.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+}
+// entity 158
+{
+"origin" "396.0 239.0 16.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+}
+// entity 159
+{
+"origin" "315.0 239.0 216.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+}
+// entity 160
+{
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+"classname" "misc_prefab"
+"origin" "363.0 105.0 217.0"
+}
+// entity 161
+{
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+"classname" "misc_prefab"
+"origin" "410.2 364.0 216.0"
+"angles" "0 90.6 0"
+}
+// entity 162
+{
+"origin" "630.0 48.0 218.0"
+"angles" "0 90 0"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_aperta.map"
+"classname" "misc_prefab"
+}
+// entity 163
+{
+"origin" "951.0 250.0 215.0"
+"model" "ap_luggage01"
+"classname" "misc_model"
+}
+// entity 164
+{
+"origin" "1264.0 489.0 213.0"
+"model" "ap_luggage01"
+"classname" "misc_model"
+}
+// entity 165
+{
+"origin" "1006.5 518.0 32.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"classname" "misc_prefab"
+}
+// entity 166
+{
+"origin" "1006.5 470.5 32.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"classname" "misc_prefab"
+}
+// entity 167
+{
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"angles" "0 270 0"
+"origin" "1006.5 423.0 32.0"
+}
+// entity 168
+{
+"origin" "870.5 517.0 32.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"classname" "misc_prefab"
+}
+// entity 169
+{
+"origin" "870.5 469.5 32.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"classname" "misc_prefab"
+}
+// entity 170
+{
+"origin" "769.5 517.0 32.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"classname" "misc_prefab"
+}
+// entity 171
+{
+"origin" "769.5 469.5 32.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"classname" "misc_prefab"
+}
+// entity 172
+{
+"origin" "1182.5 517.0 32.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"classname" "misc_prefab"
+}
+// entity 173
+{
+"origin" "1182.5 469.5 32.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"classname" "misc_prefab"
+}
+// entity 174
+{
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/tavolo_mensa.map"
+"angles" "0 270 0"
+"origin" "1182.5 422.0 32.0"
+}
+// entity 175
+{
+"classname" "misc_model"
+"model" "com_cash_register"
+"origin" "852.3 118.2 251.0"
+"angles" "0 260.2 0"
+}
+// entity 176
+{
+"origin" "1102.0 465.0 406.0"
+"angles" "0 349.8 0"
+"model" "com_barrier_tall1"
+"classname" "misc_model"
+}
+// entity 177
+{
+"origin" "792.0 494.0 406.0"
+"angles" "0 348.5 0"
+"model" "com_barrier_tall1"
+"classname" "misc_model"
+}
+// entity 178
+{
+"classname" "misc_model"
+"model" "com_cash_register"
+"origin" "1123.3 346.3 46.0"
+"angles" "0 317.3 0"
+}
+// entity 179
+{
+"angles" "0 306.1 0"
+"origin" "108.3 399.2 46.0"
+"model" "com_cash_register"
+"classname" "misc_model"
+}
+// entity 180
+{
+"origin" "952.0 288.0 246.0"
+"angles" "0 180 0"
+"model" "com_fire_extinguisher"
+"classname" "misc_model"
+}
+// entity 181
+{
+"origin" "1263.0 50.0 246.0"
+"angles" "0 180 0"
+"model" "com_fire_extinguisher"
+"classname" "misc_model"
+}
+// entity 182
+{
+"origin" "1574.0 492.0 246.0"
+"angles" "0 2.50448e-006 0"
+"model" "com_fire_extinguisher"
+"classname" "misc_model"
+}
+// entity 183
+{
+"origin" "951.0 494.0 40.0"
+"angles" "0 2.50448e-006 0"
+"model" "com_fire_extinguisher"
+"classname" "misc_model"
+}
+// entity 184
+{
+"origin" "328.0 493.0 40.0"
+"angles" "0 2.50448e-006 0"
+"model" "com_fire_extinguisher"
+"classname" "misc_model"
+}
+// entity 185
+{
+"origin" "429.0 115.0 40.0"
+"angles" "0 180 0"
+"model" "com_fire_extinguisher"
+"classname" "misc_model"
+}
+// entity 186
+{
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
+"classname" "misc_prefab"
+"origin" "519.2 383.0 216.0"
+"angles" "0 90.6 0"
+}
+// entity 187
+{
+"origin" "528.0 281.0 193.0"
+"classname" "misc_model"
 }
