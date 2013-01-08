@@ -4776,7 +4776,6 @@ iwmap 4
  {
   mesh
   {
-  toolFlags;
    me_oilstain
    lightmap_gray
    smoothing smoothing_hard
@@ -8070,5 +8069,12 @@ iwmap 4
 "origin" "848.0 360.0 48.0"
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/quadri/jesus.map"
+"classname" "misc_prefab"
+}
+// entity 439
+{
+"origin" "1416.0 246.0 58.0"
+"angles" "0 90 0"
+"model" "prefabs/aa_mappa_cod/quadri/bec.map"
 "classname" "misc_prefab"
 }

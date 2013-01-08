@@ -47,3 +47,176 @@ iwmap 4
 "angles" "0 180 0"
 "origin" "-47.0 17.0 0.0"
 }
+// entity 7
+{
+"angles" "0 180 0"
+"classname" "misc_model"
+"model" "com_books2"
+"origin" "9.5 5.5 35.0"
+}
+// entity 8
+{
+"origin" "-8.5 6.5 34.9"
+"angles" "0.600001 7.32295e-008 -0.000440857"
+"model" "com_books1"
+"classname" "misc_model"
+}
+// entity 9
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 180 -0.000440806"
+"origin" "18.5 5.5 34.9"
+}
+// entity 10
+{
+"origin" "-11.8 6.5 17.2"
+"angles" "90 179.943 179.943"
+"model" "com_books1"
+"classname" "misc_model"
+}
+// entity 11
+{
+"origin" "21.8 6.5 17.2"
+"angles" "90 359.943 179.943"
+"model" "com_books1"
+"classname" "misc_model"
+}
+// entity 12
+{
+"classname" "misc_model"
+"model" "com_books2"
+"origin" "44.5 6.5 51.0"
+}
+// entity 13
+{
+"origin" "27.5 6.5 50.9"
+"angles" "0.600001 7.32295e-008 -0.000440857"
+"model" "com_books1"
+"classname" "misc_model"
+}
+// entity 14
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 180 -0.000440806"
+"origin" "36.5 3.5 50.9"
+}
+// entity 15
+{
+"classname" "misc_model"
+"model" "com_books2"
+"origin" "-69.5 6.5 51.0"
+}
+// entity 16
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 7.32295e-008 -0.000440857"
+"origin" "-78.5 6.5 50.9"
+}
+// entity 17
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 7.32295e-008 -0.000440857"
+"origin" "-42.5 6.5 50.9"
+}
+// entity 18
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 7.32295e-008 -0.000440857"
+"origin" "-18.5 6.5 50.9"
+}
+// entity 19
+{
+"origin" "-48.2 6.5 27.2"
+"angles" "90 359.943 179.943"
+"model" "com_books1"
+"classname" "misc_model"
+}
+// entity 20
+{
+"origin" "-82.2 6.5 15.2"
+"angles" "90 359.943 179.943"
+"model" "com_books1"
+"classname" "misc_model"
+}
+// entity 21
+{
+"angles" "0 180 0"
+"classname" "misc_model"
+"model" "com_books2"
+"origin" "71.5 5.5 35.0"
+}
+// entity 22
+{
+"origin" "88.5 5.5 34.9"
+"angles" "0.600001 180 -0.000440806"
+"model" "com_books1"
+"classname" "misc_model"
+}
+// entity 23
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 180 -0.000440806"
+"origin" "80.5 5.5 34.9"
+}
+// entity 24
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 180 -0.000440806"
+"origin" "62.5 5.5 66.9"
+}
+// entity 25
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 180 -0.000440806"
+"origin" "-41.5 5.5 66.9"
+}
+// entity 26
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 180 -0.000440806"
+"origin" "-33.5 5.5 66.9"
+}
+// entity 27
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 2.50448e-006 -0.000440832"
+"origin" "-24.5 0.5 66.9"
+}
+// entity 28
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 180 -0.000440806"
+"origin" "-105.5 5.5 34.9"
+}
+// entity 29
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 180 -0.000440806"
+"origin" "-97.5 5.5 34.9"
+}
+// entity 30
+{
+"classname" "misc_model"
+"model" "com_books1"
+"angles" "0.600001 2.50448e-006 -0.000440832"
+"origin" "-88.5 0.5 34.9"
+}
+// entity 31
+{
+"origin" "91.8 6.5 17.2"
+"angles" "90 359.943 179.943"
+"model" "com_books1"
+"classname" "misc_model"
+}
