@@ -4935,8 +4935,3 @@ iwmap 4
 "origin" "519.2 383.0 216.0"
 "angles" "0 90.6 0"
 }
-// entity 187
-{
-"origin" "528.0 281.0 193.0"
-"classname" "misc_model"
-}
