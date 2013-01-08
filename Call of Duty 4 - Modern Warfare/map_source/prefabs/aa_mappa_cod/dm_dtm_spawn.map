@@ -1,0 +1,17 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"origin" "-18.0 16.0 -336.0"
+"classname" "mp_tdm_spawn"
+}
+// entity 2
+{
+"origin" "18.0 16.0 -336.0"
+"classname" "mp_dm_spawn"
+}

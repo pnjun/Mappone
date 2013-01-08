@@ -10901,3 +10901,225 @@ iwmap 4
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
+// entity 239
+{
+"angles" "0 350 0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"origin" "-1552.0 1996.0 -803.0"
+"classname" "misc_prefab"
+}
+// entity 240
+{
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"origin" "-1572.0 1980.0 -755.0"
+"classname" "misc_prefab"
+}
+// entity 241
+{
+"angles" "0 356.9 0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"origin" "-1614.2 2008.5 -803.0"
+"classname" "misc_prefab"
+}
+// entity 242
+{
+"angles" "0 230 0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"origin" "-1460.9 1980.7 -803.0"
+"classname" "misc_prefab"
+}
+// entity 243
+{
+"angles" "0 240 0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"origin" "-1464.8 2006.0 -755.0"
+"classname" "misc_prefab"
+}
+// entity 244
+{
+"angles" "0 236.9 0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"origin" "-1419.0 2028.3 -803.0"
+"classname" "misc_prefab"
+}
+// entity 245
+{
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"origin" "-1620.0 2012.0 -755.0"
+"classname" "misc_prefab"
+}
+// entity 246
+{
+"origin" "0.0 -80.0 -320.0"
+"classname" "mp_global_intermission"
+}
+// entity 247
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-1134.0 -164.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 248
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-1916.0 32.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 249
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-212.0 -16.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 250
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "1636.0 -66.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 251
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "2114.0 24.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 252
+{
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-1274.0 652.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 253
+{
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-762.0 632.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 254
+{
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "268.0 552.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 255
+{
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "348.0 910.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 256
+{
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "710.0 822.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 257
+{
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "1232.0 680.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 258
+{
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "1490.0 850.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 259
+{
+"angles" "0 180 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "1908.0 690.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 260
+{
+"angles" "0 180 0"
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "2086.0 946.0 -244.0"
+"classname" "misc_prefab"
+}
+// entity 261
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-1556.0 1632.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 262
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-1592.0 2066.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 263
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "2320.0 2386.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 264
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "938.0 914.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 265
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "1808.0 666.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 266
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "2252.0 658.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 267
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "708.0 532.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 268
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-384.0 822.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 269
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-786.0 880.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 270
+{
+"model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
+"origin" "-1246.0 934.0 -450.0"
+"classname" "misc_prefab"
+}
+// entity 271
+{
+"origin" "-1516.0 860.0 -786.0"
+"classname" "mp_tdm_spawn_allies_start"
+}
+// entity 272
+{
+"origin" "2408.0 526.0 -786.0"
+"classname" "mp_tdm_spawn_axis_start"
+}
+// entity 273
+{
+"classname" "misc_prefab"
+"model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
+"angles" "1.00179e-005 250 0.00151723"
+"origin" "-1459.9 3038.5 -819.0"
+}
