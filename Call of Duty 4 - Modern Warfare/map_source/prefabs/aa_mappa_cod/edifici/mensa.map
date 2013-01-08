@@ -4994,72 +4994,240 @@ iwmap 4
 // entity 195
 {
 "model" "com_plate_round1"
-"origin" "1269.0 220.0 247.0"
+"origin" "1270.0 244.0 247.0"
 "classname" "misc_model"
 }
 // entity 196
 {
 "model" "com_plate_round1"
-"origin" "1270.0 244.0 247.0"
+"origin" "1323.0 100.0 247.0"
 "classname" "misc_model"
 }
 // entity 197
 {
 "model" "com_plate_round1"
-"origin" "1323.0 100.0 247.0"
+"origin" "1161.0 97.0 247.0"
 "classname" "misc_model"
 }
 // entity 198
 {
 "model" "com_plate_round1"
-"origin" "1306.0 80.0 247.0"
+"origin" "1145.0 52.0 247.0"
 "classname" "misc_model"
 }
 // entity 199
 {
 "model" "com_plate_round1"
-"origin" "1161.0 97.0 247.0"
+"origin" "1108.0 250.0 247.0"
 "classname" "misc_model"
 }
 // entity 200
 {
 "model" "com_plate_round1"
-"origin" "1145.0 52.0 247.0"
+"origin" "1124.0 303.0 247.0"
 "classname" "misc_model"
 }
 // entity 201
 {
 "model" "com_plate_round1"
-"origin" "1221.0 51.0 247.0"
+"origin" "1179.0 250.0 247.0"
 "classname" "misc_model"
 }
 // entity 202
 {
 "model" "com_plate_round1"
-"origin" "1108.0 250.0 247.0"
+"origin" "1079.0 54.0 247.0"
 "classname" "misc_model"
 }
 // entity 203
 {
 "model" "com_plate_round1"
-"origin" "1124.0 303.0 247.0"
+"origin" "1080.0 53.0 247.0"
 "classname" "misc_model"
 }
 // entity 204
 {
 "model" "com_plate_round1"
-"origin" "1179.0 250.0 247.0"
+"origin" "1203.0 434.0 247.0"
 "classname" "misc_model"
 }
 // entity 205
 {
 "model" "com_plate_round1"
-"origin" "1079.0 54.0 247.0"
+"origin" "1319.0 482.0 247.0"
 "classname" "misc_model"
 }
 // entity 206
 {
 "model" "com_plate_round1"
-"origin" "1080.0 53.0 247.0"
+"origin" "1459.0 450.0 247.0"
+"classname" "misc_model"
+}
+// entity 207
+{
+"model" "com_plate_round1"
+"origin" "1441.0 388.0 247.0"
+"classname" "misc_model"
+}
+// entity 208
+{
+"model" "com_plate_round1"
+"origin" "1517.0 500.0 247.0"
+"classname" "misc_model"
+}
+// entity 209
+{
+"model" "com_plate_round1"
+"origin" "1393.0 500.0 247.0"
+"classname" "misc_model"
+}
+// entity 210
+{
+"model" "com_plate_round1"
+"origin" "1081.0 502.0 247.0"
+"classname" "misc_model"
+}
+// entity 211
+{
+"model" "com_plate_round1"
+"origin" "1159.0 484.0 247.0"
+"classname" "misc_model"
+}
+// entity 212
+{
+"model" "com_plate_round1"
+"origin" "957.0 462.0 247.0"
+"classname" "misc_model"
+}
+// entity 213
+{
+"model" "com_plate_round1"
+"origin" "1041.0 274.0 247.0"
+"classname" "misc_model"
+}
+// entity 214
+{
+"model" "com_plate_round1"
+"origin" "1026.0 258.0 247.0"
+"classname" "misc_model"
+}
+// entity 215
+{
+"model" "com_plate_round1"
+"origin" "1220.0 434.0 247.0"
+"classname" "misc_model"
+}
+// entity 216
+{
+"model" "com_plate_round1"
+"origin" "1303.0 481.0 247.0"
+"classname" "misc_model"
+}
+// entity 217
+{
+"model" "com_plate_round1"
+"origin" "1459.0 433.0 247.0"
+"classname" "misc_model"
+}
+// entity 218
+{
+"model" "com_plate_round1"
+"origin" "1517.0 389.0 247.0"
+"classname" "misc_model"
+}
+// entity 219
+{
+"model" "com_plate_round1"
+"origin" "1501.0 405.0 247.0"
+"classname" "misc_model"
+}
+// entity 220
+{
+"model" "com_plate_round1"
+"origin" "1320.0 250.0 247.0"
+"classname" "misc_model"
+}
+// entity 221
+{
+"model" "com_plate_round1"
+"origin" "1254.0 223.0 247.0"
+"classname" "misc_model"
+}
+// entity 222
+{
+"model" "com_plate_round1"
+"origin" "1160.0 80.0 247.0"
+"classname" "misc_model"
+}
+// entity 223
+{
+"model" "com_plate_round1"
+"origin" "1307.0 99.0 247.0"
+"classname" "misc_model"
+}
+// entity 224
+{
+"model" "com_plate_round1"
+"origin" "1387.0 55.0 247.0"
+"classname" "misc_model"
+}
+// entity 225
+{
+"model" "com_plate_round1"
+"origin" "1320.0 34.0 247.0"
+"classname" "misc_model"
+}
+// entity 226
+{
+"model" "com_plate_round1"
+"origin" "1012.0 97.0 247.0"
+"classname" "misc_model"
+}
+// entity 227
+{
+"model" "com_plate_round1"
+"origin" "1011.0 81.0 247.0"
+"classname" "misc_model"
+}
+// entity 228
+{
+"model" "com_plate_round1"
+"origin" "1027.0 49.0 247.0"
+"classname" "misc_model"
+}
+// entity 229
+{
+"model" "com_plate_round1"
+"origin" "1012.0 34.0 247.0"
+"classname" "misc_model"
+}
+// entity 230
+{
+"model" "com_plate_round1"
+"origin" "1042.0 258.0 247.0"
+"classname" "misc_model"
+}
+// entity 231
+{
+"model" "com_plate_round1"
+"origin" "1027.0 209.0 247.0"
+"classname" "misc_model"
+}
+// entity 232
+{
+"model" "com_plate_round1"
+"origin" "1028.0 228.0 247.0"
+"classname" "misc_model"
+}
+// entity 233
+{
+"model" "com_plate_round1"
+"origin" "1080.0 483.0 247.0"
+"classname" "misc_model"
+}
+// entity 234
+{
+"model" "com_plate_round1"
+"origin" "1093.0 437.0 247.0"
 "classname" "misc_model"
 }
