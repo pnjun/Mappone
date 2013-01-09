@@ -13,22 +13,47 @@ iwmap 4
  ( 136 125 12 ) ( 82 125 12 ) ( 82 125 -14 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 83 7 12 ) ( 83 -33 12 ) ( 83 -33 -14 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 1
+ {
+  mesh
+  {
+   ch_dec_burnt_middle01
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 88.297073 -63 -2.6465168 t 6.1035156e-005 0 -3.0625 1.5404073
+	v 88.297073 -63 7.5266743 t 6.1035156e-005 -1024 -3.0625 -1.4079171
+   )
+   (
+	v 88.297073 -73.5 -2.6465168 t 1024 0 -6.96875 1.5404073
+	v 88.297073 -73.5 7.5266743 t 1024 -1024 -6.96875 -1.4079171
+   )
+  }
+ }
+// brush 2
+ {
+  mesh
+  {
+   ch_dec_burntstain_02
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 88.297073 -88.001328 -24.621342 t 0 -0 -3.0625 1.5404073
+	v 88.297073 -88.001328 -2.6369991 t 0 -1024 -3.0625 -1.4079171
+   )
+   (
+	v 88.297073 -111.25844 -24.621342 t 1024 -0 -6.96875 1.5404073
+	v 88.297073 -111.25844 -2.6369991 t 1024 -1024 -6.96875 -1.4079171
+   )
+  }
+ }
 }
 // entity 1
 {
-"origin" "106.0 0.0 0.0"
+"classname" "misc_model"
 "model" "uni_tavolo_130-160"
-"classname" "misc_model"
-}
-// entity 2
-{
-"origin" "106.0 63.0 0.0"
-"model" "uni_tavolo_130-160"
-"classname" "misc_model"
-}
-// entity 3
-{
-"origin" "106.0 110.0 0.0"
-"model" "uni_tavolo_80-160"
-"classname" "misc_model"
+"origin" "101.0 -80.0 -1.0"
+"angles" "87.3 180 0.000368517"
 }
