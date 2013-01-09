@@ -4877,6 +4877,15 @@ iwmap 4
  ( 2210 436 -113 ) ( 2210 436 -106 ) ( 2210 491 -106 ) office_whitewall_01 128 128 1 201 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2100 438 -113 ) ( 2100 438 -106 ) ( 2182 438 -106 ) office_whitewall_01 128 128 0 201 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 483
+{
+ ( 944 154 213 ) ( 864 154 213 ) ( 864 106 213 ) uni_wood_floor 40 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 864 96 216 ) ( 864 144 216 ) ( 944 144 216 ) uni_wood_floor 40 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 864 96 216 ) ( 944 96 216 ) ( 944 96 200 ) uni_wood_floor 40 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 944 96 216 ) ( 944 144 216 ) ( 944 144 200 ) uni_wood_floor 40 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 944 160 216 ) ( 864 160 216 ) ( 864 160 200 ) uni_wood_floor 40 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 888 153 216 ) ( 888 105 216 ) ( 888 105 200 ) uni_wood_floor 40 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
 // entity 1
 {
@@ -8017,64 +8026,433 @@ iwmap 4
 }
 // entity 431
 {
-"origin" "1805.4 409.2 44.2"
-"angles" "90 297 -90.0005"
-"model" "com_books3"
-"classname" "misc_model"
-}
-// entity 432
-{
 "origin" "1792.7 452.5 44.2"
 "angles" "90 23.6 -90.0005"
 "model" "com_books3"
 "classname" "misc_model"
 }
-// entity 433
+// entity 432
 {
 "origin" "1792.3 317.4 44.2"
 "angles" "90 260.6 89.9995"
 "model" "com_books3"
 "classname" "misc_model"
 }
-// entity 434
+// entity 433
 {
 "origin" "1700.3 357.4 44.2"
 "angles" "90 260.6 89.9995"
 "model" "com_books3"
 "classname" "misc_model"
 }
-// entity 435
+// entity 434
 {
 "origin" "1659.8 428.8 44.2"
 "angles" "90 285.6 -90.0005"
 "model" "com_books3"
 "classname" "misc_model"
 }
-// entity 436
+// entity 435
 {
 "origin" "1694.1 455.6 44.2"
 "angles" "90 37.6 89.9995"
 "model" "com_books3"
 "classname" "misc_model"
 }
-// entity 437
+// entity 436
 {
 "origin" "524.0 204.0 16.0"
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/porte/porta_grande_dx_ch.map"
 "classname" "misc_prefab"
 }
-// entity 438
+// entity 437
 {
 "origin" "848.0 360.0 48.0"
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/quadri/jesus.map"
 "classname" "misc_prefab"
 }
-// entity 439
+// entity 438
 {
 "origin" "1416.0 246.0 58.0"
 "angles" "0 90 0"
 "model" "prefabs/aa_mappa_cod/quadri/bec.map"
 "classname" "misc_prefab"
+}
+// entity 439
+{
+"model" "com_cardboardbox05"
+"origin" "953.0 140.0 216.0"
+"classname" "misc_model"
+}
+// entity 440
+{
+"origin" "756.0 262.0 247.0"
+"angles" "0 6.89999 0"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 441
+{
+"origin" "834.0 355.0 247.0"
+"angles" "0 169.8 0"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 442
+{
+"classname" "misc_model"
+"model" "com_office_book_black_open"
+"angles" "0 343.8 0"
+"origin" "446.0 225.0 247.0"
+}
+// entity 443
+{
+"origin" "1170.0 326.0 247.0"
+"angles" "0 6.89999 0"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 444
+{
+"origin" "1702.0 146.0 247.0"
+"angles" "0 60.9 0"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 445
+{
+"origin" "1826.0 264.0 247.0"
+"angles" "0 346.9 0"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 446
+{
+"origin" "1782.0 360.0 43.2"
+"angles" "0 190.6 0"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 447
+{
+"angles" "0 63.5 0"
+"origin" "700.0 138.0 43.0"
+"model" "com_office_book_red_flat"
+"classname" "misc_model"
+}
+// entity 448
+{
+"angles" "0 308.9 0"
+"model" "prefabs/misc_models/com_laptop_open.map"
+"origin" "340.2 401.1 43.0"
+"classname" "misc_prefab"
+}
+// entity 449
+{
+"origin" "314.3 409.4 44.2"
+"angles" "90 260.6 89.9995"
+"model" "com_books3"
+"classname" "misc_model"
+}
+// entity 450
+{
+"origin" "304.0 452.0 43.2"
+"angles" "0 190.6 0"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 451
+{
+"origin" "455.5 449.0 43.2"
+"angles" "0 343.8 0"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 452
+{
+"modelscale" "0.844397"
+"angles" "358.22 129.232 1.63376"
+"model" "prefabs/misc_models/com_laptop_open.map"
+"origin" "199.0 403.5 16.0"
+"classname" "misc_prefab"
+}
+// entity 453
+{
+"modelscale" "1.018182"
+"angles" "359.65 215.607 -1.06872"
+"model" "prefabs/misc_models/com_laptop_open.map"
+"origin" "51.6 319.4 16.0"
+"classname" "misc_prefab"
+}
+// entity 454
+{
+"modelscale" "1.297144"
+"origin" "247.0 460.1 17.0"
+"angles" "357.802 34.6619 0.592804"
+"model" "com_office_book_black_open"
+"classname" "misc_model"
+}
+// entity 455
+{
+"origin" "1225.0 186.0 219.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 456
+{
+"modelscale" "0.995331"
+"angles" "0.518951 191.349 -0.350652"
+"origin" "1204.0 222.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 457
+{
+"modelscale" "1.283447"
+"angles" "1.73203 177.627 -0.114901"
+"origin" "1165.0 193.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 458
+{
+"modelscale" "0.731311"
+"angles" "0.690765 261.475 -1.11375"
+"origin" "275.0 79.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 459
+{
+"modelscale" "1.207788"
+"angles" "357.662 330.985 -0.852042"
+"origin" "254.0 115.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 460
+{
+"modelscale" "1.298773"
+"angles" "0.717163 2.95532 0.602264"
+"origin" "215.0 86.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 461
+{
+"modelscale" "0.885559"
+"angles" "359.65 329.524 -1.45157"
+"origin" "833.0 189.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 462
+{
+"modelscale" "0.741858"
+"angles" "359.52 42.7368 -1.70426"
+"origin" "812.0 225.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 463
+{
+"modelscale" "0.981049"
+"angles" "2.08282 161.422 -1.4099"
+"origin" "773.0 196.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 464
+{
+"modelscale" "0.885559"
+"angles" "359.65 329.524 -1.45157"
+"origin" "1759.0 232.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 465
+{
+"modelscale" "0.741858"
+"angles" "359.52 42.7368 -1.70426"
+"origin" "1738.0 268.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 466
+{
+"modelscale" "0.981049"
+"angles" "2.08282 161.422 -1.4099"
+"origin" "1699.0 239.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 467
+{
+"modelscale" "1.208887"
+"angles" "358.383 23.5547 -2.18628"
+"origin" "1849.0 177.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 468
+{
+"modelscale" "1.046307"
+"angles" "358.102 315.45 1.50757"
+"origin" "1828.0 213.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 469
+{
+"modelscale" "1.142383"
+"angles" "358.766 139.351 2.4295"
+"origin" "1789.0 184.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 470
+{
+"modelscale" "0.916467"
+"angles" "358.525 146.898 -2.24884"
+"origin" "2112.0 182.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 471
+{
+"modelscale" "0.773352"
+"angles" "359.244 207.103 -0.51362"
+"origin" "2091.0 218.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 472
+{
+"modelscale" "1.235327"
+"angles" "359.113 57.821 1.74759"
+"origin" "2052.0 189.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 473
+{
+"modelscale" "0.734753"
+"angles" "1.49307 49.1968 0.919647"
+"origin" "2177.0 196.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 474
+{
+"modelscale" "0.710840"
+"angles" "359.227 348.091 2.3497"
+"origin" "2156.0 232.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 475
+{
+"modelscale" "1.154614"
+"angles" "1.12732 32.0032 -0.357209"
+"origin" "2117.0 203.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 476
+{
+"modelscale" "1.245563"
+"angles" "359.854 201.489 0.159607"
+"origin" "1834.0 356.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 477
+{
+"modelscale" "0.823907"
+"angles" "357.917 299.509 -2.19087"
+"origin" "1813.0 392.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 478
+{
+"modelscale" "1.142126"
+"angles" "1.00571 46.8347 1.72897"
+"origin" "1774.0 363.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 479
+{
+"modelscale" "1.239520"
+"angles" "0.375366 141.877 1.94931"
+"origin" "1152.0 61.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 480
+{
+"modelscale" "0.983667"
+"angles" "358.501 94.032 0.632477"
+"origin" "1131.0 97.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 481
+{
+"modelscale" "1.122260"
+"angles" "359.727 19.0283 -0.0175572"
+"origin" "1092.0 68.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 482
+{
+"modelscale" "1.189386"
+"angles" "0.116882 85.199 0.417633"
+"origin" "1101.0 336.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 483
+{
+"modelscale" "1.209784"
+"angles" "358.243 119.301 0.102539"
+"origin" "1080.0 372.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 484
+{
+"modelscale" "0.844928"
+"angles" "1.11298 260.75 -0.571595"
+"origin" "1041.0 343.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 485
+{
+"modelscale" "0.724609"
+"angles" "1.96243 132.957 1.54083"
+"origin" "858.0 416.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 486
+{
+"modelscale" "0.807904"
+"angles" "359.137 300.498 -2.49511"
+"origin" "837.0 452.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
+}
+// entity 487
+{
+"modelscale" "1.117059"
+"angles" "357.774 240.864 2.20261"
+"origin" "798.0 423.0 216.0"
+"model" "com_debris_paper"
+"classname" "misc_model"
 }
