@@ -5580,84 +5580,77 @@ iwmap 4
 }
 // entity 292
 {
-"classname" "misc_model"
-"model" "ch_bulletinpaperdecals_1"
-"angles" "0 90 0"
-"origin" "1400.0 312.0 287.0"
-}
-// entity 293
-{
-"origin" "1590.0 115.0 288.0"
+"origin" "1589.9 115.0 288.0"
 "angles" "0 270 0"
 "model" "ch_bulletinpaperdecals_1"
 "classname" "misc_model"
 }
-// entity 294
+// entity 293
 {
 "origin" "639.0 493.0 246.0"
 "angles" "0 2.50448e-006 0"
 "model" "com_fire_extinguisher"
 "classname" "misc_model"
 }
-// entity 295
+// entity 294
 {
 "origin" "441.0 419.0 218.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 296
+// entity 295
 {
 "angles" "0 326.4 0"
 "origin" "489.0 443.0 218.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 297
+// entity 296
 {
 "origin" "501.0 379.0 16.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 298
+// entity 297
 {
 "angles" "0 326.4 0"
 "origin" "549.0 403.0 16.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 299
+// entity 298
 {
 "origin" "865.0 411.0 16.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 300
+// entity 299
 {
 "angles" "0 326.4 0"
 "origin" "913.0 435.0 16.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 301
+// entity 300
 {
 "origin" "497.0 437.0 16.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 302
+// entity 301
 {
 "angles" "0 326.4 0"
 "origin" "545.0 461.0 16.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 303
+// entity 302
 {
 "origin" "1059.0 463.0 16.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 304
+// entity 303
 {
 "angles" "0 326.4 0"
 "origin" "1107.0 487.0 16.0"
