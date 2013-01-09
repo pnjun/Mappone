@@ -3,7 +3,7 @@ The files uploaded here are a subset of the ones needed to compile the map using
 
 The script found in the Cod4 install directory "cod_update.sh" is used to add to git the files we need to share, and can be used to check which files need to be downloaded to compile the map.
 
-
-For now, the license is CC-BY-ND-NC (http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US). We choose such a closed license just because we dind't had time to think of a proper licence, but possibly in the future we will change to a more open license. In the meantime, if you want to use the work in a way that is not allowed by the license, just ask in mp_unitn@googlegroups.com .
+LICENSE:
+Right now, the license is CC-BY-ND-NC (http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US). We choose such a closed license just because we dind't had time to think about a licence, but in the future we will probably change to a open license. In the meantime, if you want to use the work in a way which is not allowed by the license, just ask in mp_unitn@googlegroups.com .
 
 Happy gaming!
