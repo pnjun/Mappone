@@ -340,7 +340,7 @@ iwmap 4
 }
 // entity 49
 {
-"origin" "-65.0 7.0 284.9"
+"origin" "-63.0 7.0 284.9"
 "angles" "0.600001 7.32295e-008 -0.000440857"
 "model" "com_books1"
 "classname" "misc_model"

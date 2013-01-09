@@ -4911,7 +4911,7 @@ iwmap 4
 }
 // entity 184
 {
-"origin" "446.0 330.0 86.0"
+"origin" "447.0 330.0 86.0"
 "angles" "0 90 0"
 "model" "ch_bulletinpaperdecals_1"
 "classname" "misc_model"
@@ -5656,4 +5656,10 @@ iwmap 4
 "origin" "1107.0 487.0 16.0"
 "model" "com_debris_paper"
 "classname" "misc_model"
+}
+// entity 304
+{
+"origin" "313.0 239.0 16.0"
+"classname" "misc_prefab"
+"model" "prefabs/aa_mappa_cod/porte/porta_singola_chiusa.map"
 }
