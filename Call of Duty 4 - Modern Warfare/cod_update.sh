@@ -16,4 +16,5 @@ git add zone/english/mp_unitn.ff
 git add zone/english/mp_unitn_load.ff
 
 git add usermaps/mp_unitn/mp_unitn.iwd
+git add raw/maps/mp/mp_unitn.gsc
 
