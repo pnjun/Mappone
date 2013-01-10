@@ -8547,7 +8547,7 @@ iwmap 4
 }
 // entity 492
 {
-"origin" "48.0 48.0 405.0"
+"origin" "166.0 49.0 405.0"
 "angles" "0 225 0"
 "model" "mil_sandbag_desert_curved"
 "classname" "misc_model"
@@ -8555,26 +8555,26 @@ iwmap 4
 // entity 493
 {
 "angles" "0 270 0"
-"origin" "166.0 11.0 403.0"
+"origin" "284.0 12.0 403.0"
 "model" "mil_sandbag_desert_long"
 "classname" "misc_model"
 }
 // entity 494
 {
-"origin" "15.0 143.0 405.0"
+"origin" "133.0 144.0 405.0"
 "model" "mil_sandbag_desert_short"
 "classname" "misc_model"
 }
 // entity 495
 {
-"origin" "14.0 187.0 405.0"
+"origin" "132.0 188.0 405.0"
 "angles" "0 180 0"
 "model" "mil_sandbag_desert_end_left"
 "classname" "misc_model"
 }
 // entity 496
 {
-"origin" "259.0 14.0 405.0"
+"origin" "377.0 15.0 405.0"
 "angles" "0 270 0"
 "model" "mil_sandbag_desert_end_right"
 "classname" "misc_model"
