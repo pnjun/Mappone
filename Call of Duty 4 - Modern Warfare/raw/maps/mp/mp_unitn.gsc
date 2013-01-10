@@ -17,37 +17,44 @@ gas_fire = LoadFX("fire/gas_pump_fire");
 
 
 //Hammer
-PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1830) );
-PlayLoopedFX( vehicle_fire, 3, (-1126, 515, -1830) );
+PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1850) );
+PlayLoopedFX( vehicle_fire, 3, (-1126, 515, -1850) );
 
 //Tank valoni
-PlayLoopedFX( vehicle_fire, 2, (-924, 948, -1800) );
+PlayLoopedFX( vehicle_fire, 2, (-924, 948, -1830) );
 
 //Bidoni cucina
 PlayLoopedFX( vehicle_fire, 2, (688, 1552, -2040) );
 
 //Bidoni mensa sopra
-PlayLoopedFX( vehicle_fire, 3, (822, 922, -1792) );
+PlayLoopedFX( vehicle_fire, 3, (822, 922, -1830) );
 
 //Copertoni
-PlayLoopedFX( gas_fire, 3, (2594, 1047.5, -802.5) );
+PlayLoopedFX( gas_fire, 3, (2594, 1047.5, -1802.5) );
 
 
 //*********Dust*************
 slow_dust_paper = LoadFX("dust/dust_wind_slow_yel_loop");
-//slow_dust = LoadFX("dust/dust_wind_slow_yel");
-ground_dust = LoadFX("dust/dust_ground_gust");
+slow_dust = LoadFX("dust/dust_wind_slow_yel");
+ground_gust= LoadFX("dust/dust_ground_gust");
 
 //Polvere cantiere
 PlayLoopedFX( slow_dust_paper, 1, (3392, 2048, -2048) );
+PlayLoopedFX( ground_gust, 4, (3392, 2048, -2048) );
 
 //Tetti
-PlayLoopedFX( ground_dust, 4, (1984, 1232, -1648) );
-PlayLoopedFX( ground_dust, 5, (2736, 1232, -1648) );
-PlayLoopedFX( ground_dust, 4, (400, 1232, -1648) );
+PlayLoopedFX( slow_dust, 2, (1984, 1232, -1648) );
+PlayLoopedFX( slow_dust, 3, (2736, 1232, -1648) );
+PlayLoopedFX( slow_dust, 4, (400, 1232, -1648) );
 
 //Strada
 PlayLoopedFX( slow_dust_paper, 4, (1136, 560, -1824) );
-PlayLoopedFX( ground_dust, 3, (-1088, 560, -1824) );
-PlayLoopedFX( ground_dust, 3, (2352, 560, -1824) );
+PlayLoopedFX( slow_dust, 3, (-1100, 560, -1824) );
+PlayLoopedFX( slow_dust, 2, (-550, 560, -1824) );
+PlayLoopedFX( slow_dust, 3, (0, 560, -1824) );
+PlayLoopedFX( slow_dust, 4, (550, 560, -1824) );
+PlayLoopedFX( slow_dust, 3, (1000, 560, -1824) );
+PlayLoopedFX( slow_dust, 2, (1400, 560, -1824) );
+PlayLoopedFX( slow_dust, 3, (1800,560, -1824) );
+PlayLoopedFX( slow_dust, 2, (2352, 560, -1824) );
 }
