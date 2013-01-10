@@ -13,4 +13,4 @@ git add map_source/mp_unitn.map
 
 
 git add raw/maps/mp/mp_unitn.gsc
-
+git add cp.sh
