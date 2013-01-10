@@ -10,11 +10,7 @@ git add model_export/uni_modelli/*
 
 
 git add map_source/mp_unitn.map
-git add raw/maps/mp/mp_unitn.gsc
 
-git add zone/english/mp_unitn.ff
-git add zone/english/mp_unitn_load.ff
 
-git add usermaps/mp_unitn/mp_unitn.iwd
 git add raw/maps/mp/mp_unitn.gsc
 
