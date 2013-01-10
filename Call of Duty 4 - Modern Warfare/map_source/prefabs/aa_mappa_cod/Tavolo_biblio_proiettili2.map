@@ -5,15 +5,6 @@ iwmap 4
 {
 "classname" "worldspawn"
 // brush 0
-{
- ( 133 7 -15 ) ( 79 7 -15 ) ( 79 -33 -15 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 79 -33 13 ) ( 79 7 13 ) ( 133 7 13 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 80 -30 12 ) ( 134 -30 12 ) ( 134 -30 -14 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 129 -34 12 ) ( 129 6 12 ) ( 129 6 -14 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 136 125 12 ) ( 82 125 12 ) ( 82 125 -14 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 83 7 12 ) ( 83 -33 12 ) ( 83 -33 -14 ) clip_player 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 1
  {
   mesh
   {
