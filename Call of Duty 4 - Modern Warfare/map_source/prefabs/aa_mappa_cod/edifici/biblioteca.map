@@ -9500,3 +9500,45 @@ iwmap 4
 "type" "clutter"
 "modelscale" "1.088934"
 }
+// entity 615
+{
+"origin" "1646.0 130.0 63.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
+"classname" "misc_prefab"
+}
+// entity 616
+{
+"origin" "1490.0 251.0 64.0"
+"angles" "0 90 0"
+"model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
+"classname" "misc_prefab"
+}
+// entity 617
+{
+"origin" "531.0 212.0 64.0"
+"angles" "0 180 0"
+"model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
+"classname" "misc_prefab"
+}
+// entity 618
+{
+"origin" "554.0 54.0 66.0"
+"angles" "0 90 0"
+"model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
+"classname" "misc_prefab"
+}
+// entity 619
+{
+"origin" "622.0 102.0 61.0"
+"angles" "0 2.50448e-006 0"
+"model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
+"classname" "misc_prefab"
+}
+// entity 620
+{
+"origin" "1991.0 249.0 64.0"
+"angles" "0 2.50448e-006 0"
+"model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
+"classname" "misc_prefab"
+}
