@@ -111,6 +111,24 @@ iwmap 4
  ( 51 1 59 ) ( 1 1 59 ) ( 1 1 1 ) com_glass_clear 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 1 59 ) ( 0 0 59 ) ( 0 0 1 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 12
+ {
+  mesh
+  {
+   uni_verdino_decal
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v -0 1 1 t 0 -16 0 -0.0625
+	v 51 1 1 t 816 -16 3.1875 -0.0625
+   )
+   (
+	v 0 1 176 t 0 -2816 0 -11
+	v 51 1 176 t 816 -2816 3.1875 -11
+   )
+  }
+ }
 }
 // entity 1
 {
