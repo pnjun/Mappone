@@ -34614,7 +34614,6 @@ iwmap 4
  {
   mesh
   {
-  toolFlags;
    ch_rubble_clump01_decal
    lightmap_gray
    smoothing smoothing_hard
@@ -35316,7 +35315,7 @@ iwmap 4
 "angles" "357.523 287.611 -0.267952"
 "classname" "misc_prefab"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
-"origin" "58.0 1406.0 -803.0"
+"origin" "71.5 1437.0 -803.0"
 }
 // entity 113
 {
@@ -37804,7 +37803,7 @@ iwmap 4
 "classname" "misc_model"
 "model" "mil_sandbag_desert_end_right"
 "angles" "0 270 0"
-"origin" "91.0 1352.0 -803.0"
+"origin" "81.5 1411.0 -803.0"
 }
 // entity 446
 {
@@ -37831,7 +37830,7 @@ iwmap 4
 {
 "classname" "misc_model"
 "model" "mil_sandbag_desert_long"
-"origin" "-2.0 1349.0 -805.0"
+"origin" "-11.5 1408.0 -805.0"
 "angles" "0 270 0"
 }
 // entity 450
