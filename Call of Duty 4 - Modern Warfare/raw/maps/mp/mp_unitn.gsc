@@ -14,7 +14,7 @@ game["axis_soldiertype"] = "desert";
 //********Fuoco*************
 vehicle_fire = LoadFX("fire/tank_fire_engine");
 gas_fire = LoadFX("fire/gas_pump_fire");
-
+fire_large = LoadFX("fire/firelp_large_pm");
 
 //Hammer
 PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1850) );
@@ -30,7 +30,8 @@ PlayLoopedFX( vehicle_fire, 2, (688, 1562, -2040) );
 PlayLoopedFX( vehicle_fire, 3, (822, 928, -1830) );
 
 //Copertoni
-PlayLoopedFX( gas_fire, 3, (2594, 1047.5, -1802.5) );
+PlayLoopedFX( gas_fire, 3, (3615, 1555, -2030) );
+PlayLoopedFX( fire_large, 3, (3589, 1583, -2030) );
 
 
 //*********Dust*************
@@ -50,23 +51,23 @@ PlayLoopedFX( slow_dust, 4, (400, 1232, -1648) );
 //Piazzale
 PlayLoopedFX( slow_dust_paper, 4, (1136, 1770, -2032) );
 PlayLoopedFX( slow_dust, 3, (-1100, 1770, -2032) );
-PlayLoopedFX( slow_dust, 2, (-550, 1770, -2032) );
+PlayLoopedFX( slow_dust, 4, (-550, 1770, -2032) );
 PlayLoopedFX( slow_dust, 3, (0, 1770, -2032) );
 PlayLoopedFX( slow_dust, 4, (550, 1770, -2032) );
 PlayLoopedFX( slow_dust_paper, 3, (1000, 1770, -2032) );
-PlayLoopedFX( slow_dust, 2, (1400, 1770, -2032) );
+PlayLoopedFX( slow_dust, 5, (1400, 1770, -2032) );
 PlayLoopedFX( slow_dust, 3, (1800,1770, -2032) );
-PlayLoopedFX( slow_dust_paper, 2, (2352, 1770, -2032) );
+PlayLoopedFX( slow_dust_paper, 4, (2352, 1770, -2032) );
 
 
 //Strada
 PlayLoopedFX( slow_dust_paper, 4, (1136, 560, -1824) );
-PlayLoopedFX( slow_dust, 3, (-1100, 560, -1824) );
-PlayLoopedFX( slow_dust, 2, (-550, 560, -1824) );
+PlayLoopedFX( slow_dust, 4, (-1100, 560, -1824) );
+PlayLoopedFX( slow_dust, 4, (-550, 560, -1824) );
 PlayLoopedFX( slow_dust, 3, (0, 560, -1824) );
 PlayLoopedFX( slow_dust, 4, (550, 560, -1824) );
 PlayLoopedFX( slow_dust_paper, 3, (1000, 560, -1824) );
-PlayLoopedFX( slow_dust, 2, (1400, 560, -1824) );
+PlayLoopedFX( slow_dust, 4, (1400, 560, -1824) );
 PlayLoopedFX( slow_dust_paper, 3, (1800,560, -1824) );
-PlayLoopedFX( slow_dust, 2, (2352, 560, -1824) );
+PlayLoopedFX( slow_dust, 3, (2352, 560, -1824) );
 }
