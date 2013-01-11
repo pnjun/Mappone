@@ -6,12 +6,12 @@ iwmap 4
 "classname" "worldspawn"
 // brush 0
 {
- ( 0 6 12 ) ( -0.5 6 12 ) ( -0.5 2.5 12 ) uni_locale_tecnico 0.5 -13 -43 -7 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -0.5 -9 19.5 ) ( -0.5 -5.5 19.5 ) ( 0 -5.5 19.5 ) uni_locale_tecnico 0.5 -13 -43 -7 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -0.5 -7 19.5 ) ( 0 -7 19.5 ) ( 0 -7 19 ) uni_locale_tecnico 0.5 -7.5 -43 -3 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 -6.5 19.5 ) ( 0 -3 19.5 ) ( 0 -3 19 ) uni_locale_tecnico 13 -7.5 7 -3 -180 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 6 54.5 ) ( -0.5 6 54.5 ) ( -0.5 6 54 ) uni_locale_tecnico 0.5 -7.5 -43 -3 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -0.5 -3 19.5 ) ( -0.5 -6.5 19.5 ) ( -0.5 -6.5 19 ) uni_locale_tecnico 13 -7.5 7 -3 -180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 6 12 ) ( -0.5 6 12 ) ( -0.5 2.5 12 ) uni_cartello_piccolo -0.5 13 0 7 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -0.5 -9 19.5 ) ( -0.5 -5.5 19.5 ) ( 0 -5.5 19.5 ) uni_cartello_piccolo -0.5 13 0 7 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -0.5 -7 19.5 ) ( 0 -7 19.5 ) ( 0 -7 19 ) uni_cartello_piccolo -0.5 7.5 0 3 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 -6.5 19.5 ) ( 0 -3 19.5 ) ( 0 -3 19 ) uni_cartello_piccolo -13 7.5 -7 3 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 6 54.5 ) ( -0.5 6 54.5 ) ( -0.5 6 54 ) uni_cartello_piccolo -0.5 7.5 0 3 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -0.5 -3 19.5 ) ( -0.5 -6.5 19.5 ) ( -0.5 -6.5 19 ) uni_cartello_piccolo -13 7.5 -7 3 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
 // entity 1
