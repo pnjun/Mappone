@@ -3,12 +3,13 @@ iwmap 4
 "The Map" flags 
 // entity 0
 {
+"spawnflags" "0"
 "sunradiosity" "1"
 "sunlight" ".9"
 "sundirection" "-70 80 60"
 "sundiffusecolor" "1 1 1"
 "suncolor" "1 1 1"
-"ambient" ".3"
+"ambient" ".4"
 "classname" "worldspawn"
 // brush 0
 {
