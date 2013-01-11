@@ -5,11 +5,11 @@ iwmap 4
 {
 "spawnflags" "0"
 "sunradiosity" "1"
-"sunlight" ".9"
+"sunlight" "1"
 "sundirection" "-70 80 60"
 "sundiffusecolor" "1 1 1"
 "suncolor" "1 1 1"
-"ambient" ".4"
+"ambient" ".3"
 "classname" "worldspawn"
 // brush 0
 {
