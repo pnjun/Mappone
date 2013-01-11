@@ -6189,7 +6189,7 @@ iwmap 4
 }
 // entity 196
 {
-"origin" "673.0 356.0 66.0"
+"origin" "649.0 356.0 65.0"
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/quadri/primordi2.map"
 "classname" "misc_prefab"
@@ -7419,7 +7419,7 @@ iwmap 4
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/quadri/mesiano_flir.map"
 "classname" "misc_prefab"
-"origin" "1078.0 102.0 72.0"
+"origin" "1190.0 -67.0 83.0"
 }
 // entity 337
 {
@@ -9542,5 +9542,33 @@ iwmap 4
 "origin" "349.0 143.0 266.0"
 "angles" "0 180 0"
 "model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
+"classname" "misc_prefab"
+}
+// entity 621
+{
+"origin" "663.0 102.0 76.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/cartello_orizzontale.map"
+"classname" "misc_prefab"
+}
+// entity 622
+{
+"origin" "622.0 322.0 81.0"
+"angles" "0 2.50448e-006 0"
+"model" "prefabs/aa_mappa_cod/cartello_orizzontale.map"
+"classname" "misc_prefab"
+}
+// entity 623
+{
+"origin" "734.0 355.0 76.0"
+"angles" "0 270 0"
+"model" "prefabs/aa_mappa_cod/cartello_verticale.map"
+"classname" "misc_prefab"
+}
+// entity 624
+{
+"origin" "632.0 169.0 73.0"
+"angles" "0 180 0"
+"model" "prefabs/aa_mappa_cod/cartello_verticale.map"
 "classname" "misc_prefab"
 }
