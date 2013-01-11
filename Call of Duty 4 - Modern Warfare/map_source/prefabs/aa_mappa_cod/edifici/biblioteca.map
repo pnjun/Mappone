@@ -9542,3 +9542,10 @@ iwmap 4
 "model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
 "classname" "misc_prefab"
 }
+// entity 621
+{
+"origin" "349.0 143.0 266.0"
+"angles" "0 180 0"
+"model" "prefabs/aa_mappa_cod/cartello_piccolo.map"
+"classname" "misc_prefab"
+}
