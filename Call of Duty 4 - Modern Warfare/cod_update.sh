@@ -11,6 +11,6 @@ git add model_export/uni_modelli/*
 
 git add map_source/mp_unitn.map
 
-
+git add zone_source/mp_unitn.csv
 git add raw/maps/mp/mp_unitn.gsc
 git add cp.sh
