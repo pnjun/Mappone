@@ -6,6 +6,7 @@ iwmap 4
 "classname" "worldspawn"
 // brush 0
 {
+  contents detail;
  ( 0 6 12 ) ( -0.5 6 12 ) ( -0.5 2.5 12 ) uni_cartello_piccolo -0.5 13 0 7 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -0.5 -9 19.5 ) ( -0.5 -5.5 19.5 ) ( 0 -5.5 19.5 ) uni_cartello_piccolo -0.5 13 0 7 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -0.5 -7 19.5 ) ( 0 -7 19.5 ) ( 0 -7 19 ) uni_cartello_piccolo -0.5 7.5 0 3 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -22,6 +23,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
   toolFlags splitGeo;
    uni_metal_dark
    lightmap_gray
@@ -47,6 +49,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_black
    lightmap_gray
    3 3 16 8
@@ -71,6 +74,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_dark
    lightmap_gray
    9 3 16 8
@@ -130,6 +134,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_dark
    lightmap_gray
    3 3 16 8
@@ -154,6 +159,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_black
    lightmap_gray
    3 3 16 8
@@ -178,6 +184,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_bright
    lightmap_gray
    9 3 16 8

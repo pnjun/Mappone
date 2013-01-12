@@ -6,6 +6,7 @@ iwmap 4
 "classname" "worldspawn"
 // brush 0
 {
+  contents detail;
  ( -54.5 36 287 ) ( -70.5 36 287 ) ( -70.5 20 287 ) uni_cartello_libreria 0.5 -13.5 -1.5 5.5 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( -70.5 19 305 ) ( -70.5 35 305 ) ( -54.5 35 305 ) uni_cartello_libreria 0.5 -13.5 -1.5 5.5 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( -70.5 19 305 ) ( -54.5 19 305 ) ( -54.5 19 273 ) uni_cartello_libreria 0.5 -18 -1.5 -19 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -15,6 +16,7 @@ iwmap 4
 }
 // brush 1
 {
+  contents detail;
  ( -54.5 18 287 ) ( -70.5 18 287 ) ( -70.5 2 287 ) uni_cartello_libreria 0.5 -13.5 -1.5 -12.5 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( -70.5 1 305 ) ( -70.5 17 305 ) ( -54.5 17 305 ) uni_cartello_libreria 0.5 -13.5 -1.5 -12.5 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( -70.5 1 305 ) ( -54.5 1 305 ) ( -54.5 1 273 ) uni_cartello_libreria 0.5 -18 -1.5 -19 180 0 lightmap_gray 16384 16384 0 0 0 0
