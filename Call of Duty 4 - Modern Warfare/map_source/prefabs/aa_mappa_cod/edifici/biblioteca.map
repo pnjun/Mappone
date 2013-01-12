@@ -9605,3 +9605,38 @@ iwmap 4
 "model" "prefabs/aa_mappa_cod/estintore.map"
 "origin" "1881.0 -991.0 287.0"
 }
+// entity 630
+{
+"angles" "0 270 0"
+"origin" "1454.0 509.0 405.0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"classname" "misc_prefab"
+}
+// entity 631
+{
+"angles" "0 270 0"
+"origin" "1345.0 514.0 405.0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"classname" "misc_prefab"
+}
+// entity 632
+{
+"angles" "0 180 0"
+"origin" "1471.0 505.0 453.0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"classname" "misc_prefab"
+}
+// entity 633
+{
+"angles" "0 250.2 0"
+"origin" "1399.0 507.0 453.0"
+"model" "prefabs/misc_models/ch_crate48x64.map"
+"classname" "misc_prefab"
+}
+// entity 634
+{
+"origin" "516.0 451.0 405.0"
+"classname" "misc_model"
+"model" "com_plasticcase_bomb"
+"angles" "0 270 0"
+}
