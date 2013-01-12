@@ -1,4 +1,4 @@
-main()
+1main()
 {
 maps\mp\_explosive_barrels::main();
 
@@ -30,8 +30,8 @@ PlayLoopedFX( vehicle_fire, 2, (688, 1562, -2040) );
 PlayLoopedFX( vehicle_fire, 3, (822, 928, -1830) );
 
 //Copertoni
-PlayLoopedFX( gas_fire, 3, (3615, 1555, -2030) );
-PlayLoopedFX( fire_large, 3, (3589, 1583, -2030) );
+PlayLoopedFX( gas_fire, 3, (3608, 2436, -2030) );
+PlayLoopedFX( fire_large, 3, (3586, 2410, -2030) );
 
 
 //*********Dust*************
