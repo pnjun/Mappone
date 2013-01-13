@@ -4519,10 +4519,10 @@ iwmap 4
   contents detail;
  ( 2806 3 0 ) ( 2806 -26 0 ) ( 2839 -26 0 ) office_whitewall_01 128 128 936 -6 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2806 -26 176 ) ( 2806 3 176 ) ( 2839 3 176 ) office_whitewall_01 128 128 936 -6 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2806 -26 -0 ) ( 2806 -26 176 ) ( 2839 -26 176 ) office_whitewall_01 128 128 936 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2839 3 176 ) ( 2839 3 -0 ) ( 2839 -26 -0 ) office_whitewall_01 128 128 6 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2806 3 176 ) ( 2806 3 -0 ) ( 2839 3 -0 ) office_whitewall_01 128 128 936 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2806 3 -0 ) ( 2806 3 176 ) ( 2806 -26 176 ) office_whitewall_01 128 128 6 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2806 -26 0 ) ( 2806 -26 176 ) ( 2839 -26 176 ) office_whitewall_01 128 128 936 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2839 3 176 ) ( 2839 3 0 ) ( 2839 -26 0 ) office_whitewall_01 128 128 6 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2806 3 176 ) ( 2806 3 0 ) ( 2839 3 0 ) office_whitewall_01 128 128 936 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2806 3 0 ) ( 2806 3 176 ) ( 2806 -26 176 ) office_whitewall_01 128 128 6 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 452
 {
@@ -4917,16 +4917,6 @@ iwmap 4
 // brush 491
 {
   contents detail;
- ( 1580 2 200 ) ( 1566 2 200 ) ( 1566 -1872 200 ) ship_plaster01 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 1565 -1872 512 ) ( 1565 2 512 ) ( 1579 2 512 ) ship_plaster01 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 1566 -1872 250 ) ( 1580 -1872 250 ) ( 1580 -1872 200 ) ship_plaster01 64 64 0 1 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 3120 -1834 250 ) ( 3120 40 250 ) ( 3120 40 200 ) ship_plaster01 64 64 0 1 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 1580 -25 250 ) ( 1566 -25 250 ) ( 1566 -25 200 ) ship_plaster01 64 64 0 1 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 26 -124 250 ) ( 26 -1998 250 ) ( 26 -1998 200 ) ship_plaster01 64 64 0 1 0 0 lightmap_gray 16384 16384 0 0 0 0
-}
-// brush 492
-{
-  contents detail;
  ( 102 -50 0 ) ( 10 -50 0 ) ( 10 -234 0 ) ship_plaster01 64 64 -24 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -12 -234 176 ) ( -12 -50 176 ) ( 80 -50 176 ) ship_plaster01 64 64 -24 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 26 -1872 322 ) ( 118 -1872 322 ) ( 118 -1872 10 ) ship_plaster01 64 64 -24 190 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -4934,7 +4924,7 @@ iwmap 4
  ( 104 -50 322 ) ( 12 -50 322 ) ( 12 -50 10 ) ship_plaster01 64 64 -24 190 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 12 -50 322 ) ( 12 -234 322 ) ( 12 -234 10 ) ship_plaster01 64 64 0 190 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 493
+// brush 492
 {
   contents detail;
  ( 2288 -10 0 ) ( 2196 -10 0 ) ( 2196 -194 0 ) ship_plaster01 64 64 2162 -40 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -4944,7 +4934,7 @@ iwmap 4
  ( 2304 -36 322 ) ( 2212 -36 322 ) ( 2212 -36 10 ) ship_plaster01 64 64 2162 190 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2198 -10 322 ) ( 2198 -194 322 ) ( 2198 -194 10 ) ship_plaster01 64 64 40 190 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 494
+// brush 493
 {
   contents detail;
  ( -2 -1840 -12 ) ( -18 -1840 -12 ) ( -18 -1872 -12 ) uni_ceiling_tile 24 24 0 -0.12854004 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -4954,7 +4944,7 @@ iwmap 4
  ( -16 -1840 4 ) ( -16 -1872 4 ) ( -16 -1872 -28 ) ap_wood_tile_big 128 128 0 364 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 792 -200 0 ) ( 792 -224 0 ) ( 792 -200 32 ) nodraw_decal 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 495
+// brush 494
 {
   contents detail;
  ( -2 -1840 -12 ) ( -18 -1840 -12 ) ( -18 -1872 -12 ) uni_ceiling_tile 24 24 0 -0.12854004 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -4964,7 +4954,7 @@ iwmap 4
  ( 296 11 4 ) ( 280 11 4 ) ( 280 11 -28 ) ap_wood_tile_big 128 128 14 364 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2456 -336 0 ) ( 2456 -312 0 ) ( 2456 -312 32 ) nodraw_decal 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 496
+// brush 495
 {
   contents detail;
  ( -2 -1840 -12 ) ( -18 -1840 -12 ) ( -18 -1872 -12 ) uni_ceiling_tile 24 24 0 -0.12854004 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -4974,7 +4964,7 @@ iwmap 4
  ( 2456 -312 0 ) ( 2456 -336 0 ) ( 2456 -312 32 ) nodraw_decal 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2400 -472 0 ) ( 2424 -472 0 ) ( 2400 -472 32 ) nodraw_decal 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 497
+// brush 496
 {
   contents detail;
  ( -2 -1840 -12 ) ( -18 -1840 -12 ) ( -18 -1872 -12 ) uni_floor_tile_biblio 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -4984,7 +4974,7 @@ iwmap 4
  ( 2424 -472 0 ) ( 2400 -472 0 ) ( 2400 -472 32 ) uni_floor_tile_biblio 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1872 -124 0 ) ( 1872 -120 0 ) ( 1872 -120 32 ) nodraw_decal 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 498
+// brush 497
 {
   contents detail;
  ( -2 -1840 -12 ) ( -18 -1840 -12 ) ( -18 -1872 -12 ) uni_floor_tile_biblio 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -4994,7 +4984,7 @@ iwmap 4
  ( 1872 -120 0 ) ( 1872 -124 0 ) ( 1872 -120 32 ) nodraw_decal 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1828 -152 0 ) ( 1832 -152 0 ) ( 1828 -152 32 ) nodraw_decal 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
-// brush 499
+// brush 498
 {
   contents detail;
  ( 510 -504 0 ) ( 498 -504 0 ) ( 498 -512 0 ) office_whitewall_01 128 128 -1682 224 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -5003,6 +4993,16 @@ iwmap 4
  ( 2712 -448 176 ) ( 2712 -440 176 ) ( 2712 -440 0 ) office_whitewall_01 128 128 -224 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 630 -504 176 ) ( 618 -504 176 ) ( 618 -504 0 ) office_whitewall_01 128 128 -1682 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 306 -504 176 ) ( 306 -512 176 ) ( 306 -512 0 ) office_whitewall_01 128 128 -224 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+// brush 499
+{
+  contents detail;
+ ( 1580 2 200 ) ( 1566 2 200 ) ( 1566 -1872 200 ) ship_plaster01 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1565 -1872 512 ) ( 1565 2 512 ) ( 1579 2 512 ) ship_plaster01 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1566 -1912 250 ) ( 1580 -1912 250 ) ( 1580 -1912 200 ) ship_plaster01 64 64 0 1 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 3144 -1834 250 ) ( 3144 40 250 ) ( 3144 40 200 ) ship_plaster01 64 64 0 1 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1580 -1 250 ) ( 1566 -1 250 ) ( 1566 -1 200 ) ship_plaster01 64 64 0 1 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 18 -124 250 ) ( 18 -1998 250 ) ( 18 -1998 200 ) ship_plaster01 64 64 0 1 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
 // entity 1
