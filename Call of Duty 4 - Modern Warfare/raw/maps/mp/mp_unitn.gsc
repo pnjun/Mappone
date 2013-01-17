@@ -1,5 +1,9 @@
-1main()
+main()
 {
+//MINIMAP
+maps\mp\_compass::setupMiniMap("compass_map_mp_unitn");
+setdvar("compassmaxrange","2000");
+
 maps\mp\_explosive_barrels::main();
 
 game["allies"] = "marines";
@@ -70,4 +74,6 @@ PlayLoopedFX( slow_dust_paper, 6, (1000, 560, -1824) );
 PlayLoopedFX( slow_dust, 6, (1400, 560, -1824) );
 PlayLoopedFX( slow_dust_paper, 4, (1800,560, -1824) );
 PlayLoopedFX( slow_dust, 5, (2352, 560, -1824) );
+
+
 }
