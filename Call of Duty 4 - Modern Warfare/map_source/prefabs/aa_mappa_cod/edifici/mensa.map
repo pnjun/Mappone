@@ -3692,6 +3692,15 @@ iwmap 4
    )
   }
  }
+// brush 333
+{
+ ( 1399 472 406 ) ( 1197 472 406 ) ( 1197 420 406 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1197 420 482 ) ( 1197 472 482 ) ( 1399 472 482 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1197 411 482 ) ( 1399 411 482 ) ( 1399 411 406 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1406 420 482 ) ( 1406 472 482 ) ( 1406 472 406 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1400 485 482 ) ( 1198 485 482 ) ( 1198 485 406 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1191 472 482 ) ( 1191 420 482 ) ( 1191 420 406 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
 }
 // entity 1
 {
@@ -4711,7 +4720,7 @@ iwmap 4
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/ch_crate48x64.map"
-"origin" "746.2 353.7 405.0"
+"origin" "746.2 353.7 406.0"
 "angles" "0 15 0"
 }
 // entity 144
@@ -4725,7 +4734,7 @@ iwmap 4
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/ch_crate48x64.map"
-"origin" "757.8 433.2 405.0"
+"origin" "757.8 433.2 406.0"
 "angles" "0 360 0"
 }
 // entity 146
@@ -6444,7 +6453,7 @@ iwmap 4
 }
 // entity 382
 {
-"origin" "923.4 168.7 462.5"
+"origin" "923.4 168.7 461.5"
 "angles" "0 70.1 0"
 "model" "com_barrel_tan_rust_h"
 "classname" "misc_model"
