@@ -1,12 +1,5 @@
 
 {
-	"aa_mappa_cod" ( "level.gdf" )
-	{
-		"bspName" "aa_mappa_cod"
-		"victoryBackdrop" "victory"
-		"defeatBackdrop" "$default"
-		"levelBriefing" "$default"
-	}
 	"compass_map_mp_unitn" ( "material.gdf" )
 	{
 		"template" "material.template"
@@ -1064,26 +1057,12 @@
 		"stencilFunc2" "Always"
 		"stencil" "Disable"
 	}
-	"mp_test" ( "level.gdf" )
-	{
-		"bspName" "mp/mp_test"
-		"victoryBackdrop" "victory"
-		"defeatBackdrop" "$default"
-		"levelBriefing" "$default"
-	}
 	"mp_unitn" ( "level.gdf" )
 	{
 		"bspName" "mp/mp_unitn"
 		"victoryBackdrop" "victory"
 		"defeatBackdrop" "$default"
 		"levelBriefing" "loadscreen_mp_unitn"
-	}
-	"test" ( "level.gdf" )
-	{
-		"bspName" "test"
-		"victoryBackdrop" "victory_sas"
-		"defeatBackdrop" "$default"
-		"levelBriefing" "$default"
 	}
 	"uni_anta_g_d" ( "xmodel.gdf" )
 	{
@@ -2125,33 +2104,6 @@
 		"stencilFunc1" "Always"
 		"stencilFunc2" "Always"
 		"stencil" "Disable"
-	}
-	"uni_bibbia" ( "xmodel.gdf" )
-	{
-		"type" "rigid"
-		"filename" "uni_modelli\\Libro\\bibbia.XMODEL_EXPORT"
-		"highLodDist" "0"
-		"forceMediumLodRigid" "0"
-		"mediumLod" ""
-		"mediumLodDist" "0"
-		"forceLowLodRigid" "0"
-		"lowLod" ""
-		"lowLodDist" "0"
-		"forceLowestLodRigid" "0"
-		"lowestLod" ""
-		"lowestLodDist" "0"
-		"groundLit" "0"
-		"noRadialNormals" "0"
-		"radialOriginX" "0"
-		"radialOriginY" "0"
-		"radialOriginZ" "0"
-		"allowHidingAllParts" "0"
-		"collisionLOD" "None"
-		"hitBoxModel" ""
-		"skinOverride" ""
-		"boneControllers" ""
-		"boneStabilizers" ""
-		"physicsPreset" ""
 	}
 	"uni_bibbia_mat" ( "material.gdf" )
 	{
@@ -3662,60 +3614,6 @@
 		"stencilFunc1" "Always"
 		"stencilFunc2" "Always"
 		"stencil" "Disable"
-	}
-	"uni_corrimano_120_incl" ( "xmodel.gdf" )
-	{
-		"type" "rigid"
-		"filename" "uni_modelli\\Corrimano\\corrim120inclinato.XMODEL_EXPORT"
-		"highLodDist" "0"
-		"forceMediumLodRigid" "0"
-		"mediumLod" ""
-		"mediumLodDist" "0"
-		"forceLowLodRigid" "0"
-		"lowLod" ""
-		"lowLodDist" "0"
-		"forceLowestLodRigid" "0"
-		"lowestLod" ""
-		"lowestLodDist" "0"
-		"groundLit" "0"
-		"noRadialNormals" "0"
-		"radialOriginX" "0"
-		"radialOriginY" "0"
-		"radialOriginZ" "0"
-		"allowHidingAllParts" "0"
-		"collisionLOD" "None"
-		"hitBoxModel" ""
-		"skinOverride" ""
-		"boneControllers" ""
-		"boneStabilizers" ""
-		"physicsPreset" ""
-	}
-	"uni_corrimano_85_incl" ( "xmodel.gdf" )
-	{
-		"type" "rigid"
-		"filename" "uni_modelli\\Corrimano\\corrim85inclinato.XMODEL_EXPORT"
-		"highLodDist" "0"
-		"forceMediumLodRigid" "0"
-		"mediumLod" ""
-		"mediumLodDist" "0"
-		"forceLowLodRigid" "0"
-		"lowLod" ""
-		"lowLodDist" "0"
-		"forceLowestLodRigid" "0"
-		"lowestLod" ""
-		"lowestLodDist" "0"
-		"groundLit" "0"
-		"noRadialNormals" "0"
-		"radialOriginX" "0"
-		"radialOriginY" "0"
-		"radialOriginZ" "0"
-		"allowHidingAllParts" "0"
-		"collisionLOD" "None"
-		"hitBoxModel" ""
-		"skinOverride" ""
-		"boneControllers" ""
-		"boneStabilizers" ""
-		"physicsPreset" ""
 	}
 	"uni_desk_wood" ( "material.gdf" )
 	{
