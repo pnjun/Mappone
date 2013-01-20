@@ -7,22 +7,22 @@ iwmap 4
 // brush 0
 {
   contents detail;
- ( -17.5 19 85 ) ( -33.5 19 85 ) ( -33.5 3 85 ) uni_cartello_libreria 0.5 -13.5 -38.5 -11.5 -180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -33.5 2 103 ) ( -33.5 18 103 ) ( -17.5 18 103 ) uni_cartello_libreria 0.5 -13.5 -38.5 -11.5 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -33.5 2 103 ) ( -17.5 2 103 ) ( -17.5 2 71 ) uni_cartello_libreria 0.5 -18 -38.5 -221 -180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -33 -0.5 30 ) ( -33 15.5 30 ) ( -33 15.5 -2 ) uni_cartello_libreria 13.5 -18 11.5 -221 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -17.5 14.5 102.5 ) ( -33.5 14.5 102.5 ) ( -33.5 14.5 70.5 ) uni_cartello_libreria 0.5 -18 -38.5 -221 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -33.5 91 103 ) ( -33.5 75 103 ) ( -33.5 75 71 ) uni_cartello_libreria 13.5 -18 11.5 -221 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -17.5 17 84 ) ( -33.5 17 84 ) ( -33.5 1 84 ) uni_cartello_libreria 0.5 -11.5 -37 -8.5 -180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -33.5 0 99 ) ( -33.5 16 99 ) ( -17.5 16 99 ) uni_cartello_libreria 0.5 -11.5 -37 -8.5 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -33.5 3 99 ) ( -17.5 3 99 ) ( -17.5 3 67 ) uni_cartello_libreria 0.5 -15 -36.5 -216 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -33 -1.5 99 ) ( -33 14.5 99 ) ( -33 14.5 67 ) uni_cartello_libreria 11.5 -15 8.5 -216 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -17.5 14.5 98.5 ) ( -33.5 14.5 98.5 ) ( -33.5 14.5 66.5 ) uni_cartello_libreria 0.5 -15 -36.5 -216 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -33.5 89 99 ) ( -33.5 73 99 ) ( -33.5 73 67 ) uni_cartello_libreria 11.5 -15 8.5 -216 180 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 1
 {
   contents detail;
- ( -17.5 36 85 ) ( -33.5 36 85 ) ( -33.5 20 85 ) uni_cartello_libreria 0.5 -13.5 -38.5 5.5 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -33.5 19 103 ) ( -33.5 35 103 ) ( -17.5 35 103 ) uni_cartello_libreria 0.5 -13.5 -38.5 5.5 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -33.5 19 103 ) ( -17.5 19 103 ) ( -17.5 19 71 ) uni_cartello_libreria 0.5 -18 -38.5 -221 -180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -33 16.5 30 ) ( -33 32.5 30 ) ( -33 32.5 -2 ) uni_cartello_libreria 13.5 -18 -5.5 -221 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -17.5 32.5 102.5 ) ( -33.5 32.5 102.5 ) ( -33.5 32.5 70.5 ) uni_cartello_libreria 0.5 -18 -38.5 -221 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( -33.5 108 103 ) ( -33.5 92 103 ) ( -33.5 92 71 ) uni_cartello_libreria 13.5 -18 -5.5 -221 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -17.5 33 84 ) ( -33.5 33 84 ) ( -33.5 17 84 ) uni_cartello_libreria 0.5 -11.5 -37 7.5 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -33.5 16 99 ) ( -33.5 32 99 ) ( -17.5 32 99 ) uni_cartello_libreria 0.5 -11.5 -37 7.5 -180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -33.5 19 99 ) ( -17.5 19 99 ) ( -17.5 19 67 ) uni_cartello_libreria 0.5 -15 -36.5 -216 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -33 14.5 99 ) ( -33 30.5 99 ) ( -33 30.5 67 ) uni_cartello_libreria 11.5 -15 -7.5 -216 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -17.5 30.5 98.5 ) ( -33.5 30.5 98.5 ) ( -33.5 30.5 66.5 ) uni_cartello_libreria 0.5 -15 -36.5 -216 180 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -33.5 105 99 ) ( -33.5 89 99 ) ( -33.5 89 67 ) uni_cartello_libreria 11.5 -15 -7.5 -216 -180 0 lightmap_gray 16384 16384 0 0 0 0
 }
 }
 // entity 1

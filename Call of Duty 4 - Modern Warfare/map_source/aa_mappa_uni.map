@@ -7740,7 +7740,7 @@ iwmap 4
  ( 3520 748 -1080 ) ( 3520 972 -1080 ) ( 3408 972 -1080 ) caulk 64 64 -3324 -2512 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3408 1084 -984 ) ( 3520 1084 -984 ) ( 3520 860 -984 ) caulk 64 64 -3324 -2512 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3408 978 -296 ) ( 3408 754 -296 ) ( 3408 754 -1080 ) ch_concrete_02 256 -128 -3330 -88 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( 3408 756 -296 ) ( 3520 756 -296 ) ( 3520 756 -1080 ) ch_concrete_02 256 128 2444 88 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 3408 756 -296 ) ( 3520 756 -296 ) ( 3520 756 -1080 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3416 764 -296 ) ( 3416 988 -296 ) ( 3416 988 -1080 ) caulk 64 -64 -3324 -88 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3520 972 -296 ) ( 3408 972 -296 ) ( 3408 972 -1080 ) caulk 64 64 2512 88 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
@@ -7769,8 +7769,8 @@ iwmap 4
   contents detail;
  ( 3436 672 -1080 ) ( 3436 896 -1080 ) ( 3324 896 -1080 ) caulk 64 64 -3248 -2428 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3324 1008 -984 ) ( 3436 1008 -984 ) ( 3436 784 -984 ) caulk 64 64 -3248 -2428 -90 0 lightmap_gray 16384 16384 0 0 0 0
- ( 3324 902 -296 ) ( 3324 678 -296 ) ( 3324 678 -1080 ) ch_concrete_02 256 -128 -3254 -88 180 0 lightmap_gray 16384 16384 0 0 0 0
- ( 3332 756 -296 ) ( 3444 756 -296 ) ( 3444 756 -1080 ) ch_concrete_02 256 128 2360 88 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 3324 902 -296 ) ( 3324 678 -296 ) ( 3324 678 -1080 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 3332 756 -296 ) ( 3444 756 -296 ) ( 3444 756 -1080 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3332 688 -296 ) ( 3332 912 -296 ) ( 3332 912 -1080 ) caulk 64 -64 -3248 -88 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3436 896 -296 ) ( 3324 896 -296 ) ( 3324 896 -1080 ) ch_trim_stainlessteel_1_wet 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
@@ -7851,7 +7851,7 @@ iwmap 4
  ( 3108 1036 -1088 ) ( 3096 1036 -1088 ) ( 3096 1036 -1364 ) ch_concrete_02 256 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3100 824 -1156 ) ( 3100 816 -1156 ) ( 3100 816 -1432 ) ch_concrete_02 256 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3100 832 -1088 ) ( 3112 832 -1088 ) ( 3112 832 -1364 ) ch_concrete_02 256 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 3108 1028 -1088 ) ( 3108 1036 -1088 ) ( 3108 1036 -1364 ) ch_concrete_02 256 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 3108 1028 -1088 ) ( 3108 1036 -1088 ) ( 3108 1036 -1364 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3108 952 -1000 ) ( 3108 912 -1000 ) ( 3140 912 -1000 ) ch_concrete_02 256 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 269
@@ -40635,6 +40635,456 @@ iwmap 4
  ( 2334 995 -670 ) ( 2108 995 -670 ) ( 2108 995 -746 ) clip 64 64 0 1152 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2107 1018 -670 ) ( 2107 956 -670 ) ( 2107 956 -746 ) clip 64 64 0 1152 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
+// brush 724
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 4796.1641 580.79248 -803 t 0 -0 -108.5 -116
+	v 4882.4541 548.81824 -803 t 0 -1024 164.8125 -116
+   )
+   (
+	v 4766.5459 480.68176 -803 t 1024 -0 -108.5 -62.71875
+	v 4852.8359 448.70752 -803 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 725
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3036.323 180.15137 -592 t 0 -0 -108.5 -116
+	v 3130.4417 156.68494 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 3010.5583 76.815063 -592 t 1024 -0 -108.5 -62.71875
+	v 3104.677 53.348633 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 726
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 2682.7493 65.983017 -592 t 0 -0 -108.5 -116
+	v 2662.3738 -28.853218 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 2578.6262 88.35321 -592 t 1024 -0 -108.5 -62.71875
+	v 2558.2507 -6.4830017 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 727
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 2688.2458 15.775947 -592 t 0 -0 -108.5 -116
+	v 2760.1892 -49.287647 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 2616.8108 -63.212379 -592 t 1024 -0 -108.5 -62.71875
+	v 2688.7542 -128.27594 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 728
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 2708.2458 101.77595 -592 t 0 -0 -108.5 -116
+	v 2780.1892 36.712353 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 2636.8108 22.787621 -592 t 1024 -0 -108.5 -62.71875
+	v 2708.7542 -42.27594 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 729
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3032.2458 43.77594 -592 t 0 -0 -108.5 -116
+	v 3104.1892 -21.287659 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 2960.8108 -35.212372 -592 t 1024 -0 -108.5 -62.71875
+	v 3032.7542 -100.27594 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 730
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3186.7495 29.983019 -592 t 0 -0 -108.5 -116
+	v 3166.3743 -64.853477 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 3082.6257 52.353466 -592 t 1024 -0 -108.5 -62.71875
+	v 3062.2505 -42.483021 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 731
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3426.333 5.0276213 -592 t 0 -0 -108.5 -116
+	v 3366.4463 -71.278999 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 3342.5537 70.778984 -592 t 1024 -0 -108.5 -62.71875
+	v 3282.667 -5.5276299 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 732
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3552.333 33.027622 -592 t 0 -0 -108.5 -116
+	v 3492.4463 -43.278999 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 3468.5537 98.778984 -592 t 1024 -0 -108.5 -62.71875
+	v 3408.667 22.47237 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 733
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3509.7168 -40.93655 -592 t 0 -0 -108.5 -116
+	v 3418.6389 -7.5607195 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 3546.3611 59.060722 -592 t 1024 -0 -108.5 -62.71875
+	v 3455.2832 92.436531 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 734
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3458.8833 8.3937035 -592 t 0 -0 -108.5 -116
+	v 3361.8831 8.6064339 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 3459.1169 114.89358 -592 t 1024 -0 -108.5 -62.71875
+	v 3362.1167 115.10628 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 735
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3776.8833 -95.606293 -592 t 0 -0 -108.5 -116
+	v 3679.8831 -95.39357 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 3777.1169 10.893578 -592 t 1024 -0 -108.5 -62.71875
+	v 3680.1167 11.106277 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 736
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 3748.2395 -82.241074 -592 t 0 -0 -108.5 -116
+	v 3678.6113 -14.706206 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 3822.3887 -5.7937913 -592 t 1024 -0 -108.5 -62.71875
+	v 3752.7605 61.741066 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 737
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 2258.7495 69.983017 -592 t 0 -0 -108.5 -116
+	v 2238.3743 -24.853477 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 2154.6257 92.35347 -592 t 1024 -0 -108.5 -62.71875
+	v 2134.2505 -2.4830208 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 738
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 2211.2261 -11.889187 -592 t 0 -0 -108.5 -116
+	v 2208.0527 85.059494 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 2317.6687 -8.4051781 -592 t 1024 -0 -108.5 -62.71875
+	v 2314.4963 88.542984 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 739
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 2124.7495 131.98302 -592 t 0 -0 -108.5 -116
+	v 2104.3743 37.146523 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 2020.6257 154.35347 -592 t 1024 -0 -108.5 -62.71875
+	v 2000.2505 59.516979 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 740
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 2142.5388 -121.72646 -592 t 0 -0 -108.5 -116
+	v 2048.4709 -98.053619 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 2168.5291 -18.446411 -592 t 1024 -0 -108.5 -62.71875
+	v 2074.4614 5.226347 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 741
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v -71.75415 21.775948 -592 t 0 -0 -108.5 -116
+	v 0.18920898 -43.287643 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v -143.18921 -57.212379 -592 t 1024 -0 -108.5 -62.71875
+	v -71.24585 -122.27594 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 742
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v -77.250732 71.983017 -592 t 0 -0 -108.5 -116
+	v -97.626221 -22.853218 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v -181.37378 94.35321 -592 t 1024 -0 -108.5 -62.71875
+	v -201.74927 -0.48300171 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 743
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 426.74951 35.983017 -592 t 0 -0 -108.5 -116
+	v 406.37427 -58.853477 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 322.62573 58.35347 -592 t 1024 -0 -108.5 -62.71875
+	v 302.25049 -36.483017 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 744
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 666.33301 11.027622 -592 t 0 -0 -108.5 -116
+	v 606.44629 -65.278999 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 582.55371 76.778984 -592 t 1024 -0 -108.5 -62.71875
+	v 522.66699 0.47237015 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 745
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 1630.3717 33.247887 -592 t 0 -0 -108.5 -116
+	v 1550.0734 87.665947 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 1690.1187 121.40939 -592 t 1024 -0 -108.5 -62.71875
+	v 1609.8203 175.82721 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 746
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 1642.8024 -15.705497 -592 t 0 -0 -108.5 -116
+	v 1649.7809 81.04332 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 1749.0251 -23.367245 -592 t 1024 -0 -108.5 -62.71875
+	v 1756.0039 73.381607 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 747
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 1138.6963 -50.198463 -592 t 0 -0 -108.5 -116
+	v 1145.6746 46.550522 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 1244.9204 -57.859898 -592 t 1024 -0 -108.5 -62.71875
+	v 1251.8987 38.889057 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
+// brush 748
+ {
+  mesh
+  {
+   me_decal_papers
+   lightmap_gray
+   smoothing smoothing_hard
+   2 2 0 8
+   (
+	v 897.97107 -58.829178 -592 t 0 -0 -108.5 -116
+	v 946.65546 25.069508 -592 t 0 -1024 164.8125 -116
+   )
+   (
+	v 990.086 -112.28095 -592 t 1024 -0 -108.5 -62.71875
+	v 1038.77 -28.382288 -592 t 1024 -1024 164.8125 -62.71875
+   )
+  }
+ }
 }
 // entity 1
 {
@@ -46853,4 +47303,905 @@ iwmap 4
 {
 "origin" "1032.0 744.0 -504.0"
 "classname" "reflection_probe"
+}
+// entity 867
+{
+"modelscale" "0.794867"
+"angles" "359.995 65.6162 1.46683"
+"origin" "2598.3 40.6 -595.1"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 868
+{
+"origin" "2616.0 27.5 -595.5"
+"modelscale" "0.853754"
+"angles" "1.63119 250.84 -0.873747"
+"model" "bog_b_cinderblock_clutter_02"
+"classname" "misc_model"
+}
+// entity 869
+{
+"origin" "2649.7 45.0 -595.3"
+"modelscale" "0.907642"
+"angles" "359.443 49.0795 2.81074"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 870
+{
+"origin" "2645.9 -9.2 -596.1"
+"modelscale" "0.706775"
+"angles" "359.054 46.2195 -0.571995"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 871
+{
+"origin" "2637.7 41.5 -595.1"
+"modelscale" "0.862689"
+"angles" "357.598 71.192 -0.0355593"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 872
+{
+"origin" "2649.6 -2.5 -596.0"
+"modelscale" "0.948016"
+"angles" "0.636518 140.208 -0.90432"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 873
+{
+"modelscale" "0.705292"
+"angles" "34.9143 90.2576 88.7942"
+"model" "prefabs/misc_models/com_bottle4.map"
+"origin" "4836.5 553.5 -799.0"
+"classname" "misc_prefab"
+}
+// entity 874
+{
+"type" "clutter"
+"origin" "4825.1 607.0 -803.0"
+"modelscale" "0.993536"
+"angles" "2.24182 45.1868 -0.841688"
+"model" "me_plastic_crate10"
+"classname" "dyn_model"
+}
+// entity 875
+{
+"origin" "4894.9 531.3 -803.0"
+"modelscale" "1.138959"
+"angles" "0.054779 250.818 -0.487666"
+"model" "prefabs/trash/trash_pot03.map"
+"classname" "misc_prefab"
+}
+// entity 876
+{
+"modelscale" "0.803693"
+"origin" "4908.2 517.5 -803.0"
+"angles" "357.571 4.3396 -1.04066"
+"model" "prefabs/bog/rubble/cinderblock_clutter.map"
+"classname" "misc_prefab"
+}
+// entity 877
+{
+"modelscale" "0.780585"
+"angles" "1.61216 113.926 2.6231"
+"origin" "2597.5 -29.9 -594.7"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 878
+{
+"origin" "2636.8 -54.2 -593.1"
+"modelscale" "0.936389"
+"angles" "356.03 280.706 -0.348998"
+"model" "bog_b_cinderblock_clutter_02"
+"classname" "misc_model"
+}
+// entity 879
+{
+"origin" "2639.8 -34.5 -594.6"
+"modelscale" "1.278137"
+"angles" "3.42858 137.216 3.83201"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 880
+{
+"origin" "2661.2 -72.9 -592.1"
+"modelscale" "0.926630"
+"angles" "0.487237 7.01188 -0.563676"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 881
+{
+"origin" "2657.1 -33.9 -594.7"
+"modelscale" "1.270081"
+"angles" "356.637 318.185 -3.88944"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 882
+{
+"origin" "2643.9 -68.9 -592.1"
+"modelscale" "0.846832"
+"angles" "3.98627 82.6642 -0.0955725"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 883
+{
+"modelscale" "1.151190"
+"angles" "14.9608 86.1156 1.29791"
+"origin" "2782.1 389.9 -613.7"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 884
+{
+"origin" "2800.0 352.6 -607.5"
+"modelscale" "0.806110"
+"angles" "2.44566 142.891 6.5214"
+"model" "bog_b_cinderblock_clutter_02"
+"classname" "misc_model"
+}
+// entity 885
+{
+"origin" "2795.7 367.3 -609.6"
+"modelscale" "0.846338"
+"angles" "3.96905 142.442 8.37668"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 886
+{
+"origin" "2853.7 342.7 -607.8"
+"modelscale" "0.955890"
+"angles" "0.947408 355.54 -8.05513"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 887
+{
+"origin" "2861.1 372.8 -614.8"
+"modelscale" "1.003571"
+"angles" "346.957 298.941 -12.5935"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 888
+{
+"origin" "2838.0 325.9 -605.5"
+"modelscale" "0.920294"
+"angles" "352.565 229.295 5.43828"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 889
+{
+"modelscale" "1.261969"
+"angles" "357.423 322.14 -7.09206"
+"origin" "2798.6 331.9 -604.9"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 890
+{
+"origin" "2815.4 304.2 -600.6"
+"modelscale" "1.101660"
+"angles" "10.6906 73.8194 -0.859023"
+"model" "bog_b_cinderblock_clutter_02"
+"classname" "misc_model"
+}
+// entity 891
+{
+"origin" "2802.5 285.4 -598.4"
+"modelscale" "0.994745"
+"angles" "355.493 225.245 1.50391"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 892
+{
+"origin" "2859.2 295.4 -601.1"
+"modelscale" "1.060974"
+"angles" "4.75583 73.3544 0.441736"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 893
+{
+"origin" "2872.5 309.1 -603.2"
+"modelscale" "0.727045"
+"angles" "351.44 287.342 -3.39108"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 894
+{
+"origin" "2847.3 263.6 -600.2"
+"modelscale" "0.973395"
+"angles" "3.45457 221.034 -4.47906"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 895
+{
+"modelscale" "1.229102"
+"angles" "3.57348 162.114 6.64167"
+"origin" "2782.5 473.4 -638.2"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 896
+{
+"origin" "2830.1 470.6 -634.2"
+"modelscale" "0.758630"
+"angles" "356.8 25.7141 -7.7459"
+"model" "bog_b_cinderblock_clutter_02"
+"classname" "misc_model"
+}
+// entity 897
+{
+"origin" "2829.6 429.6 -629.1"
+"modelscale" "0.884039"
+"angles" "346.983 272.147 -2.88075"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 898
+{
+"origin" "2851.0 447.9 -631.5"
+"modelscale" "1.086517"
+"angles" "3.55319 147.42 4.0067"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 899
+{
+"origin" "2874.2 471.9 -632.2"
+"modelscale" "0.930951"
+"angles" "3.36862 95.2742 -1.21781"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 900
+{
+"origin" "2841.4 400.3 -622.3"
+"modelscale" "0.857379"
+"angles" "344.43 217.276 11.9559"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 901
+{
+"modelscale" "0.982935"
+"angles" "353.251 158.96 1.96561"
+"origin" "2795.2 29.5 -595.6"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 902
+{
+"origin" "2862.0 32.3 -599.8"
+"modelscale" "0.878821"
+"angles" "358.565 197.199 -0.192755"
+"model" "bog_b_cinderblock_clutter_02"
+"classname" "misc_model"
+}
+// entity 903
+{
+"origin" "2860.3 16.9 -599.8"
+"modelscale" "0.809460"
+"angles" "357.372 109.359 -1.73033"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 904
+{
+"origin" "2870.3 40.9 -599.4"
+"modelscale" "1.207825"
+"angles" "354.611 137.189 -5.50419"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 905
+{
+"origin" "2932.2 34.6 -594.5"
+"modelscale" "0.844928"
+"angles" "2.37677 318.557 -0.398109"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 906
+{
+"origin" "2865.2 -9.2 -598.6"
+"modelscale" "0.768903"
+"angles" "3.59487 64.5547 -2.55081"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 907
+{
+"modelscale" "1.119843"
+"angles" "0.834195 330.489 -3.92889"
+"origin" "2740.9 -33.1 -596.5"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 908
+{
+"origin" "2777.1 -29.8 -596.1"
+"modelscale" "0.895703"
+"angles" "3.68134 131.286 1.45928"
+"model" "bog_b_cinderblock_clutter_02"
+"classname" "misc_model"
+}
+// entity 909
+{
+"origin" "2775.0 -80.7 -592.9"
+"modelscale" "0.731018"
+"angles" "0.425436 195.407 2.05496"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 910
+{
+"origin" "2797.9 -50.1 -594.3"
+"modelscale" "0.919379"
+"angles" "358.014 218.669 3.49632"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 911
+{
+"origin" "2832.8 -51.1 -593.9"
+"modelscale" "0.967169"
+"angles" "359.378 194.961 4.17796"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 912
+{
+"origin" "2791.2 -71.9 -592.9"
+"modelscale" "0.948053"
+"angles" "0.0568376 28.6503 -2.09775"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 913
+{
+"modelscale" "0.867084"
+"angles" "0.0328866 93.2492 -0.25937"
+"origin" "2979.0 155.6 -592.1"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 914
+{
+"origin" "3042.1 169.7 -592.4"
+"modelscale" "1.294836"
+"angles" "1.25677 61.0676 -0.228172"
+"model" "bog_b_cinderblock_clutter_02"
+"classname" "misc_model"
+}
+// entity 915
+{
+"origin" "3032.5 146.0 -592.0"
+"modelscale" "0.915076"
+"angles" "0.242004 156.985 0.569685"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 916
+{
+"origin" "3090.6 165.2 -592.9"
+"modelscale" "0.791919"
+"angles" "0.593749 345.193 -3.60252"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 917
+{
+"origin" "3079.8 153.8 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 129.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 918
+{
+"origin" "3031.9 124.8 -592.0"
+"modelscale" "0.770404"
+"angles" "359.997 82.6826 0.0208381"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 919
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "3156.5 64.2 -595.1"
+"angles" "357.86 98.9138 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 920
+{
+"origin" "3162.0 98.9 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 285.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 921
+{
+"origin" "2989.2 -66.5 -592.3"
+"modelscale" "1.104150"
+"angles" "0.851471 173.361 3.89354"
+"model" "prefabs/trash/trash_cardboardbox04.map"
+"classname" "misc_prefab"
+}
+// entity 922
+{
+"origin" "3104.8 -7.9 -596.9"
+"modelscale" "1.240363"
+"angles" "359.376 8.96279 3.92784"
+"model" "prefabs/trash/trash_pot03.map"
+"classname" "misc_prefab"
+}
+// entity 923
+{
+"modelscale" "1.004083"
+"origin" "3085.2 -23.3 -596.6"
+"angles" "358.906 160.512 2.20304"
+"model" "prefabs/bog/rubble/cinderblock_clutter.map"
+"classname" "misc_prefab"
+}
+// entity 924
+{
+"origin" "3348.2 12.7 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 193.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 925
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "3462.3 42.3 -595.1"
+"angles" "357.86 162.914 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 926
+{
+"origin" "3433.6 62.5 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 349.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 927
+{
+"origin" "3504.5 -35.7 -596.9"
+"modelscale" "1.240363"
+"angles" "359.376 72.9628 3.92784"
+"model" "prefabs/trash/trash_pot03.map"
+"classname" "misc_prefab"
+}
+// entity 928
+{
+"modelscale" "1.004083"
+"origin" "3509.7 -60.1 -596.6"
+"angles" "358.906 224.512 2.20304"
+"model" "prefabs/bog/rubble/cinderblock_clutter.map"
+"classname" "misc_prefab"
+}
+// entity 929
+{
+"origin" "3288.8 -37.2 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 265.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 930
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "3295.9 80.5 -595.1"
+"angles" "357.86 234.914 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 931
+{
+"origin" "3267.9 59.4 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 61.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 932
+{
+"origin" "3383.2 96.5 -596.9"
+"modelscale" "1.240363"
+"angles" "359.376 144.963 3.92784"
+"model" "prefabs/trash/trash_pot03.map"
+"classname" "misc_prefab"
+}
+// entity 933
+{
+"modelscale" "1.004083"
+"origin" "3408.0 93.9 -596.6"
+"angles" "358.906 296.512 2.20304"
+"model" "prefabs/bog/rubble/cinderblock_clutter.map"
+"classname" "misc_prefab"
+}
+// entity 934
+{
+"origin" "3682.4 75.9 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 159.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 935
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "3793.6 36.6 -595.1"
+"angles" "357.86 128.914 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 936
+{
+"origin" "3781.0 69.3 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 315.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 937
+{
+"origin" "3784.9 -51.7 -596.9"
+"modelscale" "1.240363"
+"angles" "359.376 38.963 3.92784"
+"model" "prefabs/trash/trash_pot03.map"
+"classname" "misc_prefab"
+}
+// entity 938
+{
+"modelscale" "1.004083"
+"origin" "3775.6 -74.9 -596.6"
+"angles" "358.906 190.512 2.20304"
+"model" "prefabs/bog/rubble/cinderblock_clutter.map"
+"classname" "misc_prefab"
+}
+// entity 939
+{
+"origin" "3656.7 25.8 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 197.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 940
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "3768.5 63.3 -595.1"
+"angles" "357.86 166.914 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 941
+{
+"origin" "3738.4 81.3 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 353.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 942
+{
+"origin" "3816.0 -11.6 -596.9"
+"modelscale" "1.240363"
+"angles" "359.376 76.963 3.92784"
+"model" "prefabs/trash/trash_pot03.map"
+"classname" "misc_prefab"
+}
+// entity 943
+{
+"modelscale" "1.004083"
+"origin" "3823.0 -35.6 -596.6"
+"angles" "358.906 228.512 2.20304"
+"model" "prefabs/bog/rubble/cinderblock_clutter.map"
+"classname" "misc_prefab"
+}
+// entity 944
+{
+"origin" "3700.5 42.8 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 87.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 945
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "3697.5 -75.1 -595.1"
+"angles" "357.86 56.914 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 946
+{
+"origin" "3724.7 -53.0 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 243.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 947
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "3715.1 -43.0 -595.1"
+"angles" "357.86 94.914 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 948
+{
+"origin" "3723.0 -8.8 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 281.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 949
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "2228.5 104.2 -593.1"
+"angles" "357.86 98.9138 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 950
+{
+"origin" "2234.0 138.9 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 285.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 951
+{
+"modelscale" "1.004083"
+"origin" "2157.2 16.7 -596.6"
+"angles" "358.906 160.512 2.20304"
+"model" "prefabs/bog/rubble/cinderblock_clutter.map"
+"classname" "misc_prefab"
+}
+// entity 952
+{
+"origin" "2360.8 2.8 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 265.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 953
+{
+"origin" "2339.9 99.4 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 61.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 954
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "2248.9 -37.8 -593.1"
+"angles" "357.86 292.914 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 955
+{
+"origin" "2251.9 -72.8 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 119.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 956
+{
+"modelscale" "1.004083"
+"origin" "2296.9 64.4 -596.6"
+"angles" "358.906 354.512 2.20304"
+"model" "prefabs/bog/rubble/cinderblock_clutter.map"
+"classname" "misc_prefab"
+}
+// entity 957
+{
+"origin" "2096.0 28.6 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 99.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 958
+{
+"origin" "2139.6 -60.1 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 255.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 959
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "2066.5 -69.8 -592.0"
+"angles" "0 98.9138 0"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 960
+{
+"origin" "2072.0 -35.1 -592.0"
+"modelscale" "0.950012"
+"angles" "0 285.587 0"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 961
+{
+"origin" "2177.9 -74.6 -592.3"
+"modelscale" "0.950012"
+"angles" "0.264223 61.6079 -0.428006"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 962
+{
+"origin" "-110.3 51.0 -595.3"
+"modelscale" "0.907642"
+"angles" "359.443 49.0795 2.81074"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 963
+{
+"modelscale" "0.982935"
+"angles" "353.251 158.96 1.96561"
+"origin" "35.2 35.5 -595.6"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 964
+{
+"origin" "37.9 -44.1 -594.3"
+"modelscale" "0.919379"
+"angles" "358.014 218.669 3.49632"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 965
+{
+"origin" "72.8 -45.1 -593.9"
+"modelscale" "0.967169"
+"angles" "359.378 194.961 4.17796"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 966
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "396.5 70.2 -595.1"
+"angles" "357.86 98.9138 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 967
+{
+"origin" "402.0 104.9 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 285.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 968
+{
+"origin" "588.2 18.7 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 193.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 969
+{
+"origin" "507.9 65.4 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 61.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 970
+{
+"origin" "1672.6 9.7 -595.3"
+"modelscale" "0.907642"
+"angles" "359.443 237.079 2.81074"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 971
+{
+"modelscale" "0.982935"
+"angles" "353.251 346.96 1.96561"
+"origin" "1526.4 4.8 -595.6"
+"model" "bog_b_block_01"
+"classname" "misc_model"
+}
+// entity 972
+{
+"origin" "1512.6 83.2 -594.3"
+"modelscale" "0.919379"
+"angles" "358.014 46.669 3.49632"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 973
+{
+"origin" "1477.9 79.4 -593.9"
+"modelscale" "0.967169"
+"angles" "359.378 22.961 4.17796"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 974
+{
+"modelscale" "0.785107"
+"type" "clutter"
+"origin" "1173.4 -79.9 -595.1"
+"angles" "357.86 286.914 2.11207"
+"model" "me_plastic_crate1"
+"classname" "dyn_model"
+}
+// entity 975
+{
+"origin" "1172.8 -115.0 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 113.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
+}
+// entity 976
+{
+"origin" "976.4 -55.6 -592.2"
+"modelscale" "1.282459"
+"angles" "0.919577 21.22 0.787483"
+"model" "bog_b_cinderblock_clutter_03"
+"classname" "misc_model"
+}
+// entity 977
+{
+"origin" "1062.4 -90.6 -593.3"
+"modelscale" "0.950012"
+"angles" "3.0612 249.587 1.06838"
+"model" "prefabs/trash/trash_cardboardbox03.map"
+"classname" "misc_prefab"
 }

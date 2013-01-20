@@ -74,6 +74,10 @@ PlayLoopedFX( slow_dust_paper, 6, (1000, 560, -1824) );
 PlayLoopedFX( slow_dust, 6, (1400, 560, -1824) );
 PlayLoopedFX( slow_dust_paper, 4, (1800,560, -1824) );
 PlayLoopedFX( slow_dust, 5, (2352, 560, -1824) );
+PlayLoopedFX( slow_dust, 6, (3200, 560, -1824) );
+PlayLoopedFX( slow_dust_paper, 4, (3760,560, -1824) );
+PlayLoopedFX( slow_dust, 5, (4320, 560, -1824) );
+
 
 
 }
