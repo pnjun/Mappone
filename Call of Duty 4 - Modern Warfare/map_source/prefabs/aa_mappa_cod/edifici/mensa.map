@@ -2071,7 +2071,7 @@ iwmap 4
   contents detail;
  ( 7 -52 16 ) ( 0 -52 16 ) ( 0 -59 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 -59 192 ) ( 0 -52 192 ) ( 7 -52 192 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 -58 192 ) ( 7 -58 192 ) ( 7 -58 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 -58 192 ) ( 7 -58 192 ) ( 7 -58 16 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1590 -46 192 ) ( 1590 -39 192 ) ( 1590 -39 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 7 -52 192 ) ( 0 -52 192 ) ( 0 -52 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 -52 192 ) ( 0 -59 192 ) ( 0 -59 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -2082,7 +2082,7 @@ iwmap 4
  ( 1588 -4 16 ) ( 1585 -4 16 ) ( 1585 -52 16 ) office_whitewall_01 128 128 -2 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1585 -52 192 ) ( 1585 -4 192 ) ( 1588 -4 192 ) office_whitewall_01 128 128 -2 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1585 -52 192 ) ( 1588 -52 192 ) ( 1588 -52 16 ) office_whitewall_01 128 128 -2 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 1590 -51 192 ) ( 1590 -3 192 ) ( 1590 -3 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1590 -51 192 ) ( 1590 -3 192 ) ( 1590 -3 16 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1588 -3 192 ) ( 1585 -3 192 ) ( 1585 -3 16 ) office_whitewall_01 128 128 -2 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1584 -5 192 ) ( 1584 -53 192 ) ( 1584 -53 16 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
@@ -3344,9 +3344,9 @@ iwmap 4
 // brush 300
 {
   contents detail;
- ( -113 250 0 ) ( -625 250 0 ) ( -625 -150 0 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -113 250 0 ) ( -625 250 0 ) ( -625 -150 0 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -633 -75 16 ) ( -633 325 16 ) ( -121 325 16 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -634 -58 33 ) ( -122 -58 33 ) ( -122 -58 17 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -634 -58 33 ) ( -122 -58 33 ) ( -122 -58 17 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -131 542 32 ) ( -643 542 32 ) ( -643 542 16 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 261 33 ) ( 0 -139 33 ) ( 0 -139 17 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 224 352 94.5 ) ( 224 320 94.5 ) ( 224 352 126.5 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -3354,10 +3354,10 @@ iwmap 4
 // brush 301
 {
   contents detail;
- ( -113 250 0 ) ( -625 250 0 ) ( -625 -150 0 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -113 250 0 ) ( -625 250 0 ) ( -625 -150 0 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -633 -75 16 ) ( -633 325 16 ) ( -121 325 16 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -634 -58 33 ) ( -122 -58 33 ) ( -122 -58 17 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 1590 -194 32 ) ( 1590 206 32 ) ( 1590 206 16 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -634 -58 33 ) ( -122 -58 33 ) ( -122 -58 17 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1590 -194 32 ) ( 1590 206 32 ) ( 1590 206 16 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -131 542 32 ) ( -643 542 32 ) ( -643 542 16 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 224 320 94.5 ) ( 224 352 94.5 ) ( 224 352 126.5 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
@@ -3615,7 +3615,7 @@ iwmap 4
  ( 311 536 392 ) ( 7 536 392 ) ( 7 296 392 ) uni_metal_bright 128 128 0 8 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -1 296 406 ) ( -1 536 406 ) ( 303 536 406 ) me_floor_concrete 128 128 0 8 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1591 300 406 ) ( 1591 540 406 ) ( 1591 540 358 ) uni_metal_bright 128 128 -8 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 303 536 406 ) ( -1 536 406 ) ( -1 536 358 ) uni_metal_bright 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 306 544 406 ) ( 2 544 406 ) ( 2 544 358 ) uni_metal_bright 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 520 238 406 ) ( 520 286 406 ) ( 520 286 438 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 624 288 406 ) ( 576 288 406 ) ( 576 288 438 ) uni_metal_bright 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
@@ -3633,7 +3633,7 @@ iwmap 4
  ( 311 536 392 ) ( 7 536 392 ) ( 7 296 392 ) uni_metal_bright 128 128 0 8 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -1 296 406 ) ( -1 536 406 ) ( 303 536 406 ) me_floor_concrete 128 128 0 8 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 39 -7 406 ) ( 343 -7 406 ) ( 343 -7 358 ) uni_metal_bright 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 303 536 406 ) ( -1 536 406 ) ( -1 536 358 ) uni_metal_bright 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 303 544 406 ) ( -1 544 406 ) ( -1 544 358 ) uni_metal_bright 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 273 536 406 ) ( 273 296 406 ) ( 273 296 358 ) uni_metal_bright 128 128 -8 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 520 288 406 ) ( 520 240 406 ) ( 520 288 438 ) uni_metal_bright 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
@@ -6906,5 +6906,12 @@ iwmap 4
 "angles" "0 320 85.8"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "1039.9 320.8 216.0"
+"classname" "misc_prefab"
+}
+// entity 446
+{
+"origin" "412.0 343.0 256.0"
+"angles" "0 180 0"
+"model" "prefabs/aa_mappa_cod/quadri/bec.map"
 "classname" "misc_prefab"
 }
