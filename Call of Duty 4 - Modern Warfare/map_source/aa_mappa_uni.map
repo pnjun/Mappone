@@ -41181,57 +41181,80 @@ iwmap 4
 }
 // brush 759
 {
- ( -992 3264 -1024 ) ( -2624 3264 -1024 ) ( -2624 2944 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2656 2912 -480 ) ( -2656 3232 -480 ) ( -1024 3232 -480 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2464 1568 32 ) ( -832 1568 32 ) ( -832 1568 0 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -1024 2944 32 ) ( -1024 3264 32 ) ( -1024 3264 0 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -1024 3328 32 ) ( -2656 3328 32 ) ( -2656 3328 0 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2688 3264 32 ) ( -2688 2944 32 ) ( -2688 2944 0 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2800 256 -496 ) ( -2928 256 -496 ) ( -2928 144 -496 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2912 144 -464 ) ( -2912 256 -464 ) ( -2784 256 -464 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2928 -1264 -464 ) ( -2800 -1264 -464 ) ( -2800 -1264 -752 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2784 144 -464 ) ( -2784 256 -464 ) ( -2784 256 -752 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2784 256 -464 ) ( -2912 256 -464 ) ( -2912 256 -752 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2896 -272 -464 ) ( -2896 -384 -464 ) ( -2896 -384 -752 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 760
 {
- ( -32 1568 -1024 ) ( -1728 1568 -1024 ) ( -1728 352 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -1728 352 -704 ) ( -1728 1568 -704 ) ( -32 1568 -704 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -1632 384 -480 ) ( 64 384 -480 ) ( 64 384 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2656 128 -480 ) ( 2656 1344 -480 ) ( 2656 1344 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -32 1568 -480 ) ( -1728 1568 -480 ) ( -1728 1568 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -1728 1568 -480 ) ( -1728 352 -480 ) ( -1728 352 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2624 -368 -496 ) ( -2784 -368 -496 ) ( -2784 -512 -496 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2784 -512 -464 ) ( -2784 -368 -464 ) ( -2624 -368 -464 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2816 -1264 -464 ) ( -2656 -1264 -464 ) ( -2656 -1264 -496 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2624 -512 -464 ) ( -2624 -368 -464 ) ( -2624 -368 -496 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2624 -368 -464 ) ( -2784 -368 -464 ) ( -2784 -368 -496 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2784 -368 -464 ) ( -2784 -512 -464 ) ( -2784 -512 -496 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 761
 {
- ( -800 1056 -672 ) ( -2240 1056 -672 ) ( -2240 -160 -672 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2272 -160 -512 ) ( -2272 1056 -512 ) ( -832 1056 -512 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2272 -160 -704 ) ( -832 -160 -704 ) ( -832 -160 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2752 -256 -704 ) ( 2752 960 -704 ) ( 2752 960 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -832 1088 -704 ) ( -2272 1088 -704 ) ( -2272 1088 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -2272 1056 -704 ) ( -2272 -160 -704 ) ( -2272 -160 -1024 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2624 -544 -496 ) ( -2672 -544 -496 ) ( -2672 -736 -496 ) ladder 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2640 -736 -288 ) ( -2640 -544 -288 ) ( -2592 -544 -288 ) ladder 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2672 -736 -464 ) ( -2624 -736 -464 ) ( -2624 -736 -496 ) ladder 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2608 -736 -160 ) ( -2608 -544 -160 ) ( -2608 -544 -192 ) ladder 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2624 -544 -464 ) ( -2672 -544 -464 ) ( -2672 -544 -496 ) ladder 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -2656 -560 -464 ) ( -2656 -752 -464 ) ( -2656 -752 -496 ) ladder 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 762
 {
- ( 256 1472 -416 ) ( -192 1472 -416 ) ( -192 480 -416 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -224 480 -288 ) ( -224 1472 -288 ) ( 224 1472 -288 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -224 480 -512 ) ( 224 480 -512 ) ( 224 480 -672 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 480 -512 ) ( 224 1472 -512 ) ( 224 1472 -672 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 1472 -512 ) ( -224 1472 -512 ) ( -224 1472 -672 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -224 1472 -512 ) ( -224 480 -512 ) ( -224 480 -672 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+  contents detail;
+ ( -2010.54 -363.66241 -624 ) ( -2115.3206 -347.62854 -624 ) ( -2116.228 -353.55954 -624 ) clip_weap 64 64 179.58836 287.60858 -8.7000418 -1.716734e-005 lightmap_gray 16383.994 16384.061 179.59123 287.59738 -8.7000418 -1.7174043e-005
+ ( -2100.4121 -355.9798 -96 ) ( -2099.5044 -350.04877 -96 ) ( -1994.7245 -366.08261 -96 ) clip_weap 64 64 179.62842 287.57465 -8.7000084 2.2847977e-005 lightmap_gray 16384.014 16384.244 179.57408 287.59454 -8.7000427 -5.9117516e-005
+ ( -2114.251 -353.86209 -624 ) ( -2114.251 -353.86209 -288 ) ( -1970.7964 -434.48904 -288 ) clip_weap 59.61768 64 -49.991959 0 0 0 lightmap_gray 15262.103 16384 -49.99205 0 0 0
+ ( -2215.1191 -285.82153 -288 ) ( -2215.1191 -285.82153 -624 ) ( -2071.665 -366.44861 -624 ) clip_weap 59.617664 64 -48.40411 0 0 0 lightmap_gray 15262.025 16384 -48.403065 0 0 0
+ ( -2217.7012 -289.47308 -288 ) ( -2217.7012 -289.47308 -624 ) ( -2215.1191 -285.82153 -624 ) clip_weap 58.425697 64 15.431617 0 0 0 lightmap_gray 14956.75 16384 15.431227 0 0 0
+ ( -2073.501 -352.00464 -96 ) ( -2090.3657 -369.6568 -96 ) ( -2090.3657 -369.6568 -64 ) caulk 56.486916 64 -39.561367 0 0 0 lightmap_gray 14460.65 16384 -39.561367 0 0 0
 }
 // brush 763
 {
- ( -224 1024 -416 ) ( -1472 1024 -416 ) ( -1472 448 -416 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -1472 448 -288 ) ( -1472 1024 -288 ) ( -224 1024 -288 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -1472 448 -288 ) ( -224 448 -288 ) ( -224 448 -416 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -224 448 -288 ) ( -224 1024 -288 ) ( -224 1024 -416 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -224 1024 -288 ) ( -1472 1024 -288 ) ( -1472 1024 -416 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( -1472 1024 -288 ) ( -1472 448 -288 ) ( -1472 448 -416 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+  contents detail;
+ ( -2010.54 -363.66241 -624 ) ( -2115.3206 -347.62854 -624 ) ( -2116.228 -353.55954 -624 ) clip_weap 64 64 179.58836 287.60858 -8.7000418 -1.716734e-005 lightmap_gray 16383.994 16384.061 179.59123 287.59738 -8.7000418 -1.7174043e-005
+ ( -2100.4121 -355.9798 -96 ) ( -2099.5044 -350.04877 -96 ) ( -1994.7245 -366.08261 -96 ) clip_weap 64 64 179.62842 287.57465 -8.7000084 2.2847977e-005 lightmap_gray 16384.014 16384.244 179.57408 287.59454 -8.7000427 -5.9117516e-005
+ ( -2114.251 -353.86209 -624 ) ( -2114.251 -353.86209 -288 ) ( -1970.7964 -434.48904 -288 ) clip_weap 59.61768 64 -49.991959 0 0 0 lightmap_gray 15262.103 16384 -49.99205 0 0 0
+ ( -1970.7964 -434.48904 -624 ) ( -1970.7964 -434.48904 -288 ) ( -1968.214 -430.83771 -288 ) clip_weap 58.421387 64 -32.840954 0 0 0 lightmap_gray 14955.875 16384 -32.840981 0 0 0
+ ( -2215.1191 -285.82153 -288 ) ( -2215.1191 -285.82153 -624 ) ( -2071.665 -366.44861 -624 ) clip_weap 59.617664 64 -48.40411 0 0 0 lightmap_gray 15262.025 16384 -48.403065 0 0 0
+ ( -2023.2672 -420.38998 -96 ) ( -1995.3081 -396.3425 -96 ) ( -2023.2672 -420.38998 -64 ) caulk 63.907642 64 -1609.8929 0 0 0 lightmap_gray 16359.857 16384 -1609.8767 0 0 0
 }
 // brush 764
 {
- ( 1472 1024 -416 ) ( 224 1024 -416 ) ( 224 448 -416 ) lightgrid_volume 64 64 1696 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 448 -288 ) ( 224 1024 -288 ) ( 1472 1024 -288 ) lightgrid_volume 64 64 1696 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 448 -288 ) ( 1472 448 -288 ) ( 1472 448 -416 ) lightgrid_volume 64 64 1696 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2368 480 -288 ) ( 2368 1056 -288 ) ( 2368 1056 -416 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 1472 1024 -288 ) ( 224 1024 -288 ) ( 224 1024 -416 ) lightgrid_volume 64 64 1696 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 1024 -288 ) ( 224 448 -288 ) ( 224 448 -416 ) lightgrid_volume 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+  contents detail;
+ ( -1986 -425 -288 ) ( -1989 -423 -288 ) ( -2009.5 -452.5 -288 ) uni_wood_floor 64.004547 128 574.6684 1089.9604 -34.700764 -5.9517795e-005 lightmap_gray 16382.959 16383.953 574.40991 1089.9988 -34.70076 -8.3870844e-005
+ ( -2041 -447.5 -286 ) ( -2021 -418 -286 ) ( -2017.5 -420 -286 ) uni_wood_floor 64.003746 128 574.63409 1090.1603 -34.701077 -0.00027132436 lightmap_gray 16383.799 16384.074 574.51807 1090.0011 -34.701107 -2.0501628e-005
+ ( -2041 -447.5 -96 ) ( -2038 -449.5 -96 ) ( -2038 -449.5 -624 ) uni_wood_floor 53.130119 128 -382.60562 0 0 0 lightmap_gray 13601.311 16384 -382.60562 0 0 0
+ ( -2038 -449.5 -272 ) ( -2017.5 -420 -272 ) ( -2017.5 -420 -800 ) uni_wood_floor 52.710804 128 -87.380516 0 0 0 lightmap_gray 13493.966 16384 -87.379662 0 0 0
+ ( -2017.5 -420 -272 ) ( -2021 -418 -272 ) ( -2021 -418 -800 ) uni_wood_floor 53.136269 128 -361.93735 0 0 0 lightmap_gray 13602.885 16384 -361.91342 0 0 0
+ ( -2023 -419 -96 ) ( -2043 -448.5 -96 ) ( -2043 -448.5 -624 ) uni_wood_floor 52.710754 128 -85.13533 0 0 0 lightmap_gray 13493.953 16384 -85.13533 0 0 0
+}
+// brush 765
+{
+  contents detail;
+ ( -2060 -378 -288 ) ( -2063 -376 -288 ) ( -2083.5 -405.5 -288 ) uni_wood_floor 64.004547 128 487.0701 1093.4639 -34.700764 -5.9517795e-005 lightmap_gray 16382.963 16383.953 -87.606552 3.4899454 -34.700764 -9.066386e-005
+ ( -2115 -400.5 -286 ) ( -2095 -371 -286 ) ( -2091.5 -373 -286 ) uni_wood_floor 64.003746 128 487.0274 1093.6444 -34.701077 -0.00027132436 lightmap_gray 16383.799 16384.07 -87.596649 3.5367219 -34.70285 -5.0886236e-005
+ ( -2115 -400.5 -96 ) ( -2112 -402.5 -96 ) ( -2112 -402.5 -624 ) uni_wood_floor 53.130119 128 -456.60562 0 0 0 lightmap_gray 13601.311 16384 -74 0 0 0
+ ( -2112 -402.5 -272 ) ( -2091.5 -373 -272 ) ( -2091.5 -373 -800 ) uni_wood_floor 52.71085 128 -40.380306 0 0 0 lightmap_gray 13493.953 16384 47 0 0 0
+ ( -2091.5 -373 -272 ) ( -2095 -371 -272 ) ( -2095 -371 -800 ) uni_wood_floor 53.136269 128 -435.93652 0 0 0 lightmap_gray 13602.885 16384 -74 0 0 0
+ ( -2097 -372 -96 ) ( -2117 -401.5 -96 ) ( -2117 -401.5 -624 ) uni_wood_floor 52.710754 128 -38.135353 0 0 0 lightmap_gray 13493.978 16384 47 0 0 0
+}
+// brush 766
+{
+  contents detail;
+ ( -2020.5 -362 -232 ) ( -2125 -346 -232 ) ( -2126 -352 -232 ) clip_weap 64 64 179.62149 287.62314 -8.7002201 2.2249174e-005 lightmap_gray 16384.029 16383.746 179.56952 287.60342 -8.7000217 -5.5690085e-005
+ ( -2100.5 -356 -96 ) ( -2099.5 -350 -96 ) ( -1994.5 -366 -96 ) clip_weap 64 64 179.62842 287.57465 -8.7000084 2.2847977e-005 lightmap_gray 16384.014 16384.244 179.57408 287.59454 -8.7000427 -5.9117516e-005
+ ( -2114.5 -354 -624 ) ( -2114.5 -354 -288 ) ( -1971 -434.5 -288 ) clip_weap 59.61768 64 -49.991959 0 0 0 lightmap_gray 15262.103 16384 -49.99205 0 0 0
+ ( -2215 -286 -288 ) ( -2215 -286 -624 ) ( -2071.5 -366.5 -624 ) clip_weap 59.617664 64 -48.40411 0 0 0 lightmap_gray 15262.025 16384 -48.403065 0 0 0
+ ( -2090.5 -369.5 -96 ) ( -2073.5 -352 -96 ) ( -2090.5 -369.5 -64 ) caulk 56.486916 64 -39.561367 0 0 0 lightmap_gray 14460.65 16384 -39.561367 0 0 0
+ ( -1995.5 -396.5 -96 ) ( -2023.5 -420.5 -96 ) ( -2023.5 -420.5 -64 ) caulk 63.907642 64 -1609.8929 0 0 0 lightmap_gray 16359.857 16384 -1609.8767 0 0 0
 }
 }
 // entity 1
@@ -41290,220 +41313,190 @@ iwmap 4
 }
 // entity 9
 {
-"origin" "-1016.0 392.0 -504.0"
+"origin" "-632.0 392.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 10
 {
-"origin" "-632.0 392.0 -504.0"
+"origin" "904.0 392.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 11
 {
-"origin" "520.0 392.0 -504.0"
+"origin" "1288.0 392.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 12
 {
-"origin" "904.0 392.0 -504.0"
+"origin" "2056.0 392.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 13
 {
-"origin" "1288.0 392.0 -504.0"
+"origin" "2440.0 392.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 14
 {
-"origin" "1672.0 392.0 -504.0"
+"origin" "-1400.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 15
 {
-"origin" "2056.0 392.0 -504.0"
+"origin" "-1016.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 16
 {
-"origin" "2440.0 392.0 -504.0"
+"origin" "-632.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 17
 {
-"origin" "-1400.0 1032.0 -504.0"
+"origin" "-248.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 18
 {
-"origin" "-1016.0 1032.0 -504.0"
+"origin" "520.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 19
 {
-"origin" "-632.0 1032.0 -504.0"
+"origin" "904.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 20
 {
-"origin" "-248.0 1032.0 -504.0"
+"origin" "1288.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 21
 {
-"origin" "520.0 1032.0 -504.0"
+"origin" "2056.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 22
 {
-"origin" "904.0 1032.0 -504.0"
+"origin" "2440.0 1032.0 -504.0"
 "classname" "reflection_probe"
 }
 // entity 23
 {
-"origin" "1288.0 1032.0 -504.0"
-"classname" "reflection_probe"
-}
-// entity 24
-{
-"origin" "1672.0 1032.0 -504.0"
-"classname" "reflection_probe"
-}
-// entity 25
-{
-"origin" "2056.0 1032.0 -504.0"
-"classname" "reflection_probe"
-}
-// entity 26
-{
-"origin" "2440.0 1032.0 -504.0"
-"classname" "reflection_probe"
-}
-// entity 27
-{
 "classname" "reflection_probe"
 "origin" "2440.0 1032.0 -696.0"
 }
-// entity 28
+// entity 24
 {
 "classname" "reflection_probe"
 "origin" "2056.0 1032.0 -696.0"
 }
-// entity 29
+// entity 25
 {
 "classname" "reflection_probe"
 "origin" "1672.0 1032.0 -696.0"
 }
-// entity 30
+// entity 26
 {
 "classname" "reflection_probe"
 "origin" "1288.0 1032.0 -696.0"
 }
-// entity 31
-{
-"classname" "reflection_probe"
-"origin" "904.0 1032.0 -696.0"
-}
-// entity 32
+// entity 27
 {
 "classname" "reflection_probe"
 "origin" "520.0 1032.0 -696.0"
 }
-// entity 33
+// entity 28
 {
 "classname" "reflection_probe"
 "origin" "-632.0 1032.0 -696.0"
 }
-// entity 34
+// entity 29
 {
 "classname" "reflection_probe"
 "origin" "-1016.0 1032.0 -696.0"
 }
-// entity 35
+// entity 30
 {
 "classname" "reflection_probe"
 "origin" "-1400.0 1032.0 -696.0"
 }
-// entity 36
+// entity 31
 {
 "classname" "reflection_probe"
 "origin" "2056.0 1416.0 -312.0"
 }
-// entity 37
+// entity 32
 {
 "classname" "reflection_probe"
 "origin" "1672.0 1416.0 -312.0"
 }
-// entity 38
+// entity 33
 {
 "classname" "reflection_probe"
 "origin" "1288.0 1416.0 -312.0"
 }
-// entity 39
+// entity 34
 {
 "classname" "reflection_probe"
 "origin" "904.0 1416.0 -312.0"
 }
-// entity 40
+// entity 35
 {
 "classname" "reflection_probe"
 "origin" "520.0 1416.0 -312.0"
 }
-// entity 41
+// entity 36
 {
 "classname" "reflection_probe"
 "origin" "-632.0 1416.0 -312.0"
 }
-// entity 42
+// entity 37
 {
 "classname" "reflection_probe"
 "origin" "-1016.0 1416.0 -312.0"
 }
-// entity 43
+// entity 38
 {
 "classname" "reflection_probe"
 "origin" "-1400.0 1416.0 -312.0"
 }
-// entity 44
+// entity 39
 {
 "classname" "reflection_probe"
 "origin" "2056.0 1416.0 -568.0"
 }
-// entity 45
+// entity 40
 {
 "classname" "reflection_probe"
 "origin" "1672.0 1416.0 -568.0"
 }
-// entity 46
+// entity 41
 {
 "classname" "reflection_probe"
 "origin" "1288.0 1416.0 -568.0"
 }
-// entity 47
+// entity 42
 {
 "classname" "reflection_probe"
 "origin" "904.0 1416.0 -568.0"
 }
-// entity 48
+// entity 43
 {
 "classname" "reflection_probe"
 "origin" "520.0 1416.0 -568.0"
 }
-// entity 49
+// entity 44
 {
 "classname" "reflection_probe"
 "origin" "-632.0 1416.0 -568.0"
 }
-// entity 50
+// entity 45
 {
 "classname" "reflection_probe"
 "origin" "-1016.0 1416.0 -568.0"
 }
-// entity 51
-{
-"classname" "reflection_probe"
-"origin" "-1400.0 1416.0 -568.0"
-}
-// entity 52
+// entity 46
 {
 "origin" "2240.0 840.0 -824.0"
 "def" "light_point_linear"
@@ -41512,7 +41505,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 53
+// entity 47
 {
 "origin" "2240.0 840.0 -888.0"
 "def" "light_point_linear"
@@ -41521,372 +41514,372 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 54
+// entity 48
 {
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_ts.map"
 "origin" "-1026.0 1256.0 -814.0"
 "classname" "misc_prefab"
 }
-// entity 55
+// entity 49
 {
 "angles" "0 356.9 0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1278.2 2856.5 -803.0"
 "classname" "misc_prefab"
 }
-// entity 56
+// entity 50
 {
 "angles" "0 350 0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1252.0 2920.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 57
+// entity 51
 {
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1224.0 2804.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 58
+// entity 52
 {
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1276.0 2748.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 59
+// entity 53
 {
 "origin" "2322.0 -130.0 -578.0"
 "angles" "0 180 0"
 "model" "prefabs/aa_mappa_cod/cartello_oltre.map"
 "classname" "misc_prefab"
 }
-// entity 60
+// entity 54
 {
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_ts.map"
 "origin" "-450.0 1256.0 -814.0"
 "classname" "misc_prefab"
 }
-// entity 61
+// entity 55
 {
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_ts.map"
 "origin" "542.0 1336.0 -814.0"
 "classname" "misc_prefab"
 }
-// entity 62
+// entity 56
 {
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_ts.map"
 "origin" "1406.0 1272.0 -814.0"
 "classname" "misc_prefab"
 }
-// entity 63
+// entity 57
 {
 "angles" "0 268.3 0"
 "origin" "2288.3 3438.1 -802.0"
 "model" "prefabs/mp_backlot/cargo_container_backlot.map"
 "classname" "misc_prefab"
 }
-// entity 64
+// entity 58
 {
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1467.5 3267.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 65
+// entity 59
 {
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1519.5 3211.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 66
+// entity 60
 {
 "angles" "0 272.4 0"
 "origin" "2227.3 3325.2 -802.0"
 "model" "prefabs/mp_backlot/cargo_container_backlot.map"
 "classname" "misc_prefab"
 }
-// entity 67
+// entity 61
 {
 "origin" "-624.0 1424.0 -784.0"
 "classname" "info_player_start"
 }
-// entity 68
+// entity 62
 {
 "origin" "-225.6 360.4 -589.0"
 "angles" "0 315 -90"
 "model" "prefabs/misc_models/com_barrel_green_rust.map"
 "classname" "misc_prefab"
 }
-// entity 69
+// entity 63
 {
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2592.0 256.0 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 70
+// entity 64
 {
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2288.0 248.0 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 71
+// entity 65
 {
 "angles" "0 75 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2277.1 461.6 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 72
+// entity 66
 {
 "angles" "0 29 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2266.8 674.2 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 73
+// entity 67
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2332.2 868.7 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 74
+// entity 68
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2396.2 980.7 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 75
+// entity 69
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2564.2 996.7 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 76
+// entity 70
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2652.2 1124.7 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 77
+// entity 71
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2668.2 1300.7 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 78
+// entity 72
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2700.2 1492.7 -1032.0"
 "classname" "misc_prefab"
 }
-// entity 79
+// entity 73
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2668.2 1692.7 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 80
+// entity 74
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2812.2 1684.7 -984.0"
 "classname" "misc_prefab"
 }
-// entity 81
+// entity 75
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2828.2 1884.7 -1088.0"
 "classname" "misc_prefab"
 }
-// entity 82
+// entity 76
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2700.2 2068.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 83
+// entity 77
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2692.2 2244.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 84
+// entity 78
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2660.2 2372.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 85
+// entity 79
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2620.2 2564.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 86
+// entity 80
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2636.2 2876.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 87
+// entity 81
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2540.2 2756.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 88
+// entity 82
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2684.2 3044.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 89
+// entity 83
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2676.2 3300.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 90
+// entity 84
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2692.2 3732.7 -1224.0"
 "classname" "misc_prefab"
 }
-// entity 91
+// entity 85
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2644.2 3884.7 -1224.0"
 "classname" "misc_prefab"
 }
-// entity 92
+// entity 86
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2596.2 3996.7 -1224.0"
 "classname" "misc_prefab"
 }
-// entity 93
+// entity 87
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2396.2 3988.7 -1224.0"
 "classname" "misc_prefab"
 }
-// entity 94
+// entity 88
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2308.2 4020.7 -1312.0"
 "classname" "misc_prefab"
 }
-// entity 95
+// entity 89
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2244.2 4012.7 -1344.0"
 "classname" "misc_prefab"
 }
-// entity 96
+// entity 90
 {
 "angles" "0 73 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2604.2 3172.7 -1128.0"
 "classname" "misc_prefab"
 }
-// entity 97
+// entity 91
 {
 "angles" "0 75 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2333.1 589.6 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 98
+// entity 92
 {
 "angles" "0 29 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2450.8 738.2 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 99
+// entity 93
 {
 "classname" "misc_prefab"
 "origin" "-2674.8 722.2 -1048.0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "angles" "0 29 0"
 }
-// entity 100
+// entity 94
 {
 "classname" "misc_prefab"
 "origin" "-2685.1 509.6 -1048.0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "angles" "0 75 0"
 }
-// entity 101
+// entity 95
 {
 "angles" "0 75 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2301.1 373.6 -1048.0"
 "classname" "misc_prefab"
 }
-// entity 102
+// entity 96
 {
 "classname" "misc_prefab"
 "origin" "-2812.2 1292.7 -984.0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "angles" "0 73 0"
 }
-// entity 103
+// entity 97
 {
 "origin" "-2396.0 3109.0 -757.0"
 "model" "prefabs/misc_models/foliage_tree_river_birch_xl_a.map"
 "classname" "misc_prefab"
 }
-// entity 104
+// entity 98
 {
 "origin" "-2100.9 1176.5 -918.1"
 "angles" "0 90 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 105
+// entity 99
 {
 "angles" "0 80 0"
 "origin" "-2328.3 1797.0 -744.0"
 "model" "prefabs/aa_mappa_cod/gabbiotto.map"
 "classname" "misc_prefab"
 }
-// entity 106
+// entity 100
 {
 "origin" "-2445.7 1886.5 -820.1"
 "angles" "0 254 -9.9002"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 107
+// entity 101
 {
 "origin" "-2247.9 1972.6 -866.0"
 "angles" "0 346 0"
 "model" "prefabs/misc_models/foliage_red_pine_lg.map"
 "classname" "misc_prefab"
 }
-// entity 108
+// entity 102
 {
 "modelscale" "0.800964"
 "angles" "357.523 287.611 -0.267952"
@@ -41894,94 +41887,94 @@ iwmap 4
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "origin" "71.5 1437.0 -803.0"
 }
-// entity 109
+// entity 103
 {
 "classname" "misc_prefab"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "origin" "123.0 803.0 -703.5"
 }
-// entity 110
+// entity 104
 {
 "origin" "-1360.0 932.0 -801.5"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 111
+// entity 105
 {
 "classname" "misc_prefab"
 "origin" "-1194.0 1204.3 -774.3"
 "model" "prefabs/misc_models/com_office_chair_black.map"
 "angles" "4.57787 54.4406 138.64"
 }
-// entity 112
+// entity 106
 {
 "origin" "-1389.0 3285.0 -803.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 113
+// entity 107
 {
 "origin" "-1350.0 3288.0 -803.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 114
+// entity 108
 {
 "angles" "0 342 0"
 "origin" "-1402.5 3249.1 -803.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 115
+// entity 109
 {
 "angles" "0 342 0"
 "origin" "-1364.5 3239.9 -803.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 116
+// entity 110
 {
 "angles" "0 5.99999 0"
 "origin" "2101.3 755.0 -803.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 117
+// entity 111
 {
 "angles" "0 5.99999 0"
 "origin" "2115.7 808.0 -803.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 118
+// entity 112
 {
 "angles" "0 5.99999 0"
 "origin" "1337.3 937.0 -803.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 119
+// entity 113
 {
 "angles" "0 5.99999 0"
 "origin" "1241.7 934.0 -803.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 120
+// entity 114
 {
 "angles" "0 18 85.8"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "723.3 1256.6 -801.7"
 "classname" "misc_prefab"
 }
-// entity 121
+// entity 115
 {
 "angles" "0 320 85.8"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "689.9 1204.8 -801.7"
 "classname" "misc_prefab"
 }
-// entity 122
+// entity 116
 {
 "modelscale" "0.705292"
 "angles" "34.9143 90.2576 88.7942"
@@ -41989,186 +41982,186 @@ iwmap 4
 "origin" "-779.5 1193.5 -799.0"
 "classname" "misc_prefab"
 }
-// entity 123
+// entity 117
 {
 "angles" "0 320 85.8"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "-1600.1 1200.8 -801.7"
 "classname" "misc_prefab"
 }
-// entity 124
+// entity 118
 {
 "angles" "0 320 85.8"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "-1474.1 1150.8 -801.7"
 "classname" "misc_prefab"
 }
-// entity 125
+// entity 119
 {
 "angles" "2.76334 320.078 89.0964"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "-1519.7 2599.3 -768.7"
 "classname" "misc_prefab"
 }
-// entity 126
+// entity 120
 {
 "angles" "0.0759811 359.461 -0.606979"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "-1557.9 2606.5 -771.0"
 "classname" "misc_prefab"
 }
-// entity 127
+// entity 121
 {
 "classname" "misc_prefab"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "origin" "83.0 802.0 -703.5"
 }
-// entity 128
+// entity 122
 {
 "origin" "115.0 772.0 -703.5"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 129
+// entity 123
 {
 "origin" "-1809.0 1575.0 -870.9"
 "model" "prefabs/misc_models/com_trashcan_metal_with_trash.map"
 "classname" "misc_prefab"
 }
-// entity 130
+// entity 124
 {
 "origin" "-1856.0 1578.0 -871.4"
 "model" "prefabs/misc_models/com_trashcan_metal_with_trash.map"
 "classname" "misc_prefab"
 }
-// entity 131
+// entity 125
 {
 "origin" "-1809.0 1530.0 -866.4"
 "model" "prefabs/misc_models/com_trashcan_metal_with_trash.map"
 "classname" "misc_prefab"
 }
-// entity 132
+// entity 126
 {
 "origin" "-2331.1 1635.4 -706.0"
 "angles" "0 251 0"
 "model" "prefabs/misc_models/foliage_red_pine_lg.map"
 "classname" "misc_prefab"
 }
-// entity 133
+// entity 127
 {
 "origin" "2460.1 415.0 -603.0"
 "angles" "0 264 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 134
+// entity 128
 {
 "origin" "2494.1 359.0 -603.0"
 "angles" "0 264 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 135
+// entity 129
 {
 "origin" "-2328.0 1264.0 -648.0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_med_a.map"
 "classname" "misc_prefab"
 }
-// entity 136
+// entity 130
 {
 "origin" "-2328.0 2504.0 -820.0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_med_a.map"
 "classname" "misc_prefab"
 }
-// entity 137
+// entity 131
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "angles" "0 272 0"
 "origin" "2430.0 28.0 -593.0"
 }
-// entity 138
+// entity 132
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "angles" "0 181 0"
 "origin" "-1634.0 3346.0 -804.0"
 }
-// entity 139
+// entity 133
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "angles" "0 176 0"
 "origin" "-1530.0 3330.0 -804.0"
 }
-// entity 140
+// entity 134
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "angles" "0 182 0"
 "origin" "-1420.0 3338.0 -804.0"
 }
-// entity 141
+// entity 135
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "angles" "0 174 0"
 "origin" "-1319.0 3345.9 -804.0"
 }
-// entity 142
+// entity 136
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "angles" "0 182 0"
 "origin" "-1216.0 3344.0 -804.0"
 }
-// entity 143
+// entity 137
 {
 "origin" "-1527.0 954.0 -603.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 144
+// entity 138
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/ringhiera_terrazzino.map"
 "origin" "-1736.0 498.0 -602.0"
 }
-// entity 145
+// entity 139
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
 "angles" "1.00179e-005 300 0.00151723"
 "origin" "-1516.1 1501.6 -819.0"
 }
-// entity 146
+// entity 140
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_tent_dome.map"
 "origin" "-2530.0 1407.7 -627.1"
 "angles" "16 0 -0.500212"
 }
-// entity 147
+// entity 141
 {
 "angles" "0 6 0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-352.0 1172.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 148
+// entity 142
 {
 "angles" "0 350 0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-272.0 1260.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 149
+// entity 143
 {
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-292.0 1244.0 -755.0"
 "classname" "misc_prefab"
 }
-// entity 150
+// entity 144
 {
 "modelscale" "0.770258"
 "angles" "357.887 343.312 0.211639"
@@ -42176,14 +42169,14 @@ iwmap 4
 "origin" "-334.2 1272.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 151
+// entity 145
 {
 "angles" "0 356.9 0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-298.2 1196.5 -803.0"
 "classname" "misc_prefab"
 }
-// entity 152
+// entity 146
 {
 "modelscale" "0.891144"
 "angles" "359.418 258.915 2.07245"
@@ -42191,55 +42184,55 @@ iwmap 4
 "origin" "-244.0 1144.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 153
+// entity 147
 {
 "origin" "4.0 1093.0 -851.0"
 "model" "prefabs/aa_mappa_cod/riparo_vetro.map"
 "classname" "misc_prefab"
 }
-// entity 154
+// entity 148
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "2509.2 297.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 155
+// entity 149
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "1957.2 289.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 156
+// entity 150
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "1202.2 289.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 157
+// entity 151
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "764.2 298.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 158
+// entity 152
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "302.2 293.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 159
+// entity 153
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "-282.8 289.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 160
+// entity 154
 {
 "modelscale" "0.853296"
 "angles" "1.24695 231.053 -1.3063"
@@ -42247,280 +42240,280 @@ iwmap 4
 "origin" "-640.6 293.6 -591.0"
 "classname" "misc_prefab"
 }
-// entity 161
+// entity 155
 {
 "origin" "-1578.0 231.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 162
+// entity 156
 {
 "origin" "-1322.0 233.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 163
+// entity 157
 {
 "origin" "-1063.0 232.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 164
+// entity 158
 {
 "origin" "-797.0 229.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 165
+// entity 159
 {
 "origin" "-530.0 230.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 166
+// entity 160
 {
 "origin" "-280.0 232.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 167
+// entity 161
 {
 "origin" "-161.0 311.0 -592.0"
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 168
+// entity 162
 {
 "origin" "-152.0 276.0 -592.0"
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 169
+// entity 163
 {
 "origin" "-151.0 318.0 -592.0"
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 170
+// entity 164
 {
 "origin" "305.0 236.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 171
+// entity 165
 {
 "origin" "543.0 231.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 172
+// entity 166
 {
 "origin" "787.0 234.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 173
+// entity 167
 {
 "origin" "1045.0 229.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 174
+// entity 168
 {
 "origin" "1304.0 230.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 175
+// entity 169
 {
 "origin" "1554.0 231.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 176
+// entity 170
 {
 "origin" "1802.0 228.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 177
+// entity 171
 {
 "origin" "2054.0 229.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 178
+// entity 172
 {
 "origin" "2306.0 230.0 -591.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 179
+// entity 173
 {
 "origin" "-1855.0 1621.0 -822.0"
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 180
+// entity 174
 {
 "origin" "145.0 466.0 -819.0"
 "model" "prefabs/aa_mappa_cod/edifici/biblioteca.map"
 "classname" "misc_prefab"
 }
-// entity 181
+// entity 175
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/edifici/mensa.map"
 "origin" "-1727.0 466.0 -819.0"
 }
-// entity 182
+// entity 176
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/edifici/polo_aule.map"
 "angles" "0 180 0"
 "origin" "2042.0 1541.0 -804.0"
 }
-// entity 183
+// entity 177
 {
 "angles" "0 270 0"
 "origin" "-1950.0 2454.0 -835.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 184
+// entity 178
 {
 "angles" "0 270 0"
 "origin" "-1954.0 2762.0 -851.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 185
+// entity 179
 {
 "angles" "358 270 -2.3845e-008"
 "origin" "-1956.0 3099.4 -861.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 186
+// entity 180
 {
 "angles" "356 270 -4.76605e-008"
 "origin" "-1954.0 3421.2 -876.9"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 187
+// entity 181
 {
 "angles" "354 270 -7.14189e-008"
 "origin" "-1964.0 3752.8 -890.8"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 188
+// entity 182
 {
 "angles" "0 270 0"
 "origin" "-1854.0 2784.0 -845.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 189
+// entity 183
 {
 "angles" "358 270 -2.3845e-008"
 "origin" "-1872.0 3157.4 -863.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 190
+// entity 184
 {
 "angles" "0 270 0"
 "origin" "-1862.0 3464.0 -873.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 191
+// entity 185
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "origin" "-1870.0 3763.9 -887.0"
 "angles" "360 270 -2.82005e-013"
 }
-// entity 192
+// entity 186
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "origin" "-1844.0 1766.0 -819.0"
 "angles" "0 270 0"
 }
-// entity 193
+// entity 187
 {
 "angles" "354 178 -2.42316e-006"
 "origin" "-1761.6 4038.0 -898.8"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 194
+// entity 188
 {
 "angles" "356 270 -4.76609e-008"
 "origin" "-1856.0 2125.2 -826.9"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 195
+// entity 189
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "origin" "-1942.0 1797.6 -817.0"
 "angles" "358 270 -2.3845e-008"
 }
-// entity 196
+// entity 190
 {
 "angles" "358 270 -2.38442e-008"
 "origin" "-1844.0 2449.6 -837.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 197
+// entity 191
 {
 "angles" "358 270 -2.3845e-008"
 "origin" "-1938.0 2115.6 -825.0"
 "model" "prefabs/aa_mappa_cod/erba_grande.map"
 "classname" "misc_prefab"
 }
-// entity 198
+// entity 192
 {
 "angles" "0 182 0"
 "origin" "923.8 107.5 -596.0"
 "model" "prefabs/misc_models/vehicle_bus_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 199
+// entity 193
 {
 "angles" "0 15.8 0"
 "model" "foliage_grass_short_squareclump"
 "origin" "542.3 1337.3 -800.0"
 "classname" "misc_model"
 }
-// entity 200
+// entity 194
 {
 "angles" "0 15.8 0"
 "model" "foliage_grass_short_squareclump"
 "origin" "1402.3 1273.3 -809.0"
 "classname" "misc_model"
 }
-// entity 201
+// entity 195
 {
 "angles" "0 15.8 0"
 "model" "foliage_grass_short_squareclump"
 "origin" "-1021.7 1265.3 -809.0"
 "classname" "misc_model"
 }
-// entity 202
+// entity 196
 {
 "angles" "0 15.8 0"
 "model" "foliage_grass_short_squareclump"
 "origin" "-445.7 1265.3 -809.0"
 "classname" "misc_model"
 }
-// entity 203
+// entity 197
 {
 "modelscale" "0.820044"
 "angles" "357.363 258.341 -2.52387"
@@ -42528,34 +42521,34 @@ iwmap 4
 "model" "prefabs/mp_destructibles/vehicle_80s_wagon1_silv_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 204
+// entity 198
 {
 "origin" "195.0 -80.0 -590.0"
 "model" "prefabs/mp_destructibles/vehicle_80s_hatch2_yel_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 205
+// entity 199
 {
 "origin" "2466.4 233.9 -583.0"
 "angles" "0 254 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 206
+// entity 200
 {
 "origin" "2478.0 123.0 -594.0"
 "angles" "0 279 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 207
+// entity 201
 {
 "origin" "1191.5 185.2 -803.0"
 "angles" "8.94102e-006 180 0.0997999"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "classname" "misc_prefab"
 }
-// entity 208
+// entity 202
 {
 "modelscale" "0.710144"
 "angles" "0.545349 42.616 -2.36908"
@@ -42563,212 +42556,212 @@ iwmap 4
 "origin" "-1552.0 1996.0 -803.0"
 "classname" "misc_prefab"
 }
-// entity 209
+// entity 203
 {
 "angles" "0 356.9 0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1614.2 2008.5 -803.0"
 "classname" "misc_prefab"
 }
-// entity 210
+// entity 204
 {
 "angles" "0 230 0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1460.9 1980.7 -803.0"
 "classname" "misc_prefab"
 }
-// entity 211
+// entity 205
 {
 "angles" "0 236.9 0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1419.0 2028.3 -803.0"
 "classname" "misc_prefab"
 }
-// entity 212
+// entity 206
 {
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "origin" "-1616.0 2004.0 -755.0"
 "classname" "misc_prefab"
 }
-// entity 213
+// entity 207
 {
 "angles" "0 42.6 0"
 "origin" "0.0 -80.0 -320.0"
 "classname" "mp_global_intermission"
 }
-// entity 214
+// entity 208
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-1134.0 -164.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 215
+// entity 209
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-1916.0 32.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 216
+// entity 210
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-212.0 -16.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 217
+// entity 211
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "1636.0 -66.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 218
+// entity 212
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "2114.0 24.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 219
+// entity 213
 {
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-1274.0 652.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 220
+// entity 214
 {
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-762.0 632.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 221
+// entity 215
 {
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "268.0 552.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 222
+// entity 216
 {
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "348.0 910.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 223
+// entity 217
 {
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "710.0 822.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 224
+// entity 218
 {
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "1232.0 680.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 225
+// entity 219
 {
 "angles" "0 270 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "1490.0 850.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 226
+// entity 220
 {
 "angles" "0 180 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "1908.0 690.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 227
+// entity 221
 {
 "angles" "0 180 0"
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "2086.0 946.0 -244.0"
 "classname" "misc_prefab"
 }
-// entity 228
+// entity 222
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-1556.0 1632.0 -450.0"
 "classname" "misc_prefab"
 }
-// entity 229
+// entity 223
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-1592.0 2066.0 -450.0"
 "classname" "misc_prefab"
 }
-// entity 230
+// entity 224
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "938.0 914.0 -450.0"
 "classname" "misc_prefab"
 }
-// entity 231
+// entity 225
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "1808.0 666.0 -450.0"
 "classname" "misc_prefab"
 }
-// entity 232
+// entity 226
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "2252.0 658.0 -450.0"
 "classname" "misc_prefab"
 }
-// entity 233
+// entity 227
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "708.0 532.0 -450.0"
 "classname" "misc_prefab"
 }
-// entity 234
+// entity 228
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-786.0 880.0 -450.0"
 "classname" "misc_prefab"
 }
-// entity 235
+// entity 229
 {
 "model" "prefabs/aa_mappa_cod/dm_dtm_spawn.map"
 "origin" "-1246.0 934.0 -450.0"
 "classname" "misc_prefab"
 }
-// entity 236
+// entity 230
 {
 "origin" "-1516.0 860.0 -786.0"
 "classname" "mp_tdm_spawn_allies_start"
 }
-// entity 237
+// entity 231
 {
 "origin" "2424.0 526.0 -562.0"
 "classname" "mp_tdm_spawn_axis_start"
 }
-// entity 238
+// entity 232
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
 "angles" "1.00179e-005 250 0.00151723"
 "origin" "-1459.9 3038.5 -819.0"
 }
-// entity 239
+// entity 233
 {
 "origin" "-283.4 1021.0 -789.5"
 "angles" "0 32.2 0"
 "model" "com_barrel_blue_h"
 "classname" "misc_model"
 }
-// entity 240
+// entity 234
 {
 "origin" "-326.5 1002.9 -780.1"
 "angles" "89.7767 116.566 116.565"
 "model" "com_barrel_blue_h"
 "classname" "misc_model"
 }
-// entity 241
+// entity 235
 {
 "origin" "2452.0 916.0 -948.0"
 "def" "light_point_linear"
@@ -42777,7 +42770,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 242
+// entity 236
 {
 "origin" "2708.0 916.0 -988.0"
 "def" "light_point_linear"
@@ -42786,7 +42779,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 243
+// entity 237
 {
 "origin" "2836.0 916.0 -980.0"
 "def" "light_point_linear"
@@ -42795,7 +42788,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 244
+// entity 238
 {
 "origin" "3372.0 804.0 -1028.0"
 "def" "light_point_linear"
@@ -42804,7 +42797,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 245
+// entity 239
 {
 "origin" "3216.0 936.0 -1028.0"
 "def" "light_point_linear"
@@ -42813,7 +42806,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 246
+// entity 240
 {
 "origin" "2908.0 916.0 -1424.0"
 "def" "light_point_linear"
@@ -42822,7 +42815,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 247
+// entity 241
 {
 "origin" "2912.0 916.0 -1160.0"
 "def" "light_point_linear"
@@ -42831,7 +42824,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 248
+// entity 242
 {
 "origin" "2916.0 916.0 -1284.0"
 "def" "light_point_linear"
@@ -42840,7 +42833,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 249
+// entity 243
 {
 "origin" "2952.0 708.0 -824.0"
 "def" "light_point_linear"
@@ -42849,7 +42842,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 250
+// entity 244
 {
 "origin" "2948.0 324.0 -824.0"
 "def" "light_point_linear"
@@ -42858,7 +42851,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 251
+// entity 245
 {
 "origin" "2956.0 -4.0 -824.0"
 "def" "light_point_linear"
@@ -42867,7 +42860,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 252
+// entity 246
 {
 "origin" "2708.0 -152.0 -824.0"
 "def" "light_point_linear"
@@ -42876,7 +42869,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 253
+// entity 247
 {
 "origin" "2048.0 -168.0 -824.0"
 "def" "light_point_linear"
@@ -42885,7 +42878,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 254
+// entity 248
 {
 "origin" "500.0 -164.0 -824.0"
 "def" "light_point_linear"
@@ -42894,7 +42887,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 255
+// entity 249
 {
 "origin" "-1852.0 -152.0 -824.0"
 "def" "light_point_linear"
@@ -42903,7 +42896,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 256
+// entity 250
 {
 "origin" "-2746.0 -152.0 -824.0"
 "def" "light_point_linear"
@@ -42912,7 +42905,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 257
+// entity 251
 {
 "origin" "-2748.0 106.0 -824.0"
 "def" "light_point_linear"
@@ -42921,21 +42914,21 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 258
+// entity 252
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "angles" "0 270 0"
 "origin" "-2728.0 200.0 -910.0"
 }
-// entity 259
+// entity 253
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/scala_legno.map"
 "angles" "0 270 0"
 "origin" "-2728.0 200.0 -693.0"
 }
-// entity 260
+// entity 254
 {
 "origin" "-482.0 -158.0 -1448.0"
 "def" "light_point_linear"
@@ -42944,7 +42937,7 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 261
+// entity 255
 {
 "origin" "-488.0 -158.0 -976.0"
 "def" "light_point_linear"
@@ -42953,47 +42946,47 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 262
+// entity 256
 {
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2402.0 178.0 -856.0"
 "classname" "misc_prefab"
 }
-// entity 263
+// entity 257
 {
 "classname" "misc_prefab"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "origin" "-1704.0 1800.0 -803.0"
 }
-// entity 264
+// entity 258
 {
 "angles" "0 2.50448e-006 0"
 "origin" "-974.0 -62.0 -596.0"
 "model" "prefabs/misc_models/vehicle_bus_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 265
+// entity 259
 {
 "origin" "2430.0 -76.0 -593.0"
 "angles" "0 266 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 266
+// entity 260
 {
 "origin" "-2213.0 -134.0 -580.2"
 "angles" "358.239 17.0117 96.0366"
 "model" "prefabs/misc_models/com_barrel_green_rust.map"
 "classname" "misc_prefab"
 }
-// entity 267
+// entity 261
 {
 "classname" "misc_prefab"
 "origin" "-2204.2 61.5 -551.3"
 "model" "prefabs/misc_models/vehicle_humvee_camo_static.map"
 "angles" "0.0523876 48.231 81.7051"
 }
-// entity 268
+// entity 262
 {
 "modelscale" "1.075128"
 "angles" "358.409 276.471 -1.57334"
@@ -43001,7 +42994,7 @@ iwmap 4
 "origin" "-2477.9 1906.4 -687.7"
 "classname" "misc_model"
 }
-// entity 269
+// entity 263
 {
 "modelscale" "0.849066"
 "angles" "0.0357056 254.114 1.64886"
@@ -43009,7 +43002,7 @@ iwmap 4
 "origin" "-2389.4 1932.3 -729.4"
 "classname" "misc_model"
 }
-// entity 270
+// entity 264
 {
 "modelscale" "1.188287"
 "angles" "1.203 335.984 -0.903925"
@@ -43017,7 +43010,7 @@ iwmap 4
 "origin" "-2474.5 2056.2 -708.5"
 "classname" "misc_model"
 }
-// entity 271
+// entity 265
 {
 "modelscale" "1.244812"
 "angles" "359.25 214.717 0.516815"
@@ -43025,7 +43018,7 @@ iwmap 4
 "origin" "-2371.9 2058.0 -744.3"
 "classname" "misc_model"
 }
-// entity 272
+// entity 266
 {
 "modelscale" "0.996375"
 "angles" "0.793609 343.433 0.522766"
@@ -43033,7 +43026,7 @@ iwmap 4
 "origin" "-2475.9 2186.6 -718.0"
 "classname" "misc_model"
 }
-// entity 273
+// entity 267
 {
 "modelscale" "1.066779"
 "angles" "1.75781 354.749 0.453949"
@@ -43041,7 +43034,7 @@ iwmap 4
 "origin" "-2350.1 2286.3 -778.2"
 "classname" "misc_model"
 }
-// entity 274
+// entity 268
 {
 "modelscale" "1.075549"
 "angles" "0.983581 305.76 2.38358"
@@ -43049,7 +43042,7 @@ iwmap 4
 "origin" "-2474.1 2299.7 -739.8"
 "classname" "misc_model"
 }
-// entity 275
+// entity 269
 {
 "modelscale" "1.073114"
 "angles" "358.207 260.057 1.66748"
@@ -43057,7 +43050,7 @@ iwmap 4
 "origin" "-2355.4 2350.1 -785.5"
 "classname" "misc_model"
 }
-// entity 276
+// entity 270
 {
 "modelscale" "0.717743"
 "angles" "359.681 18.0835 1.94458"
@@ -43065,7 +43058,7 @@ iwmap 4
 "origin" "-2325.7 2195.6 -780.4"
 "classname" "misc_model"
 }
-// entity 277
+// entity 271
 {
 "modelscale" "0.750592"
 "angles" "2.22778 267.209 -1.00463"
@@ -43073,7 +43066,7 @@ iwmap 4
 "origin" "-2320.5 1998.6 -752.3"
 "classname" "misc_model"
 }
-// entity 278
+// entity 272
 {
 "modelscale" "0.992950"
 "angles" "358.54 106.414 0.910187"
@@ -43081,7 +43074,7 @@ iwmap 4
 "origin" "-2486.4 2955.8 -733.5"
 "classname" "misc_model"
 }
-// entity 279
+// entity 273
 {
 "modelscale" "0.776886"
 "angles" "1.9931 102.184 0.00213624"
@@ -43089,7 +43082,7 @@ iwmap 4
 "origin" "-2382.3 2984.0 -767.6"
 "classname" "misc_model"
 }
-// entity 280
+// entity 274
 {
 "modelscale" "1.279382"
 "angles" "0.72403 107.952 2.14035"
@@ -43097,7 +43090,7 @@ iwmap 4
 "origin" "-2477.6 3122.6 -728.1"
 "classname" "misc_model"
 }
-// entity 281
+// entity 275
 {
 "modelscale" "0.765167"
 "angles" "358.571 345.696 1.92322"
@@ -43105,7 +43098,7 @@ iwmap 4
 "origin" "-2339.1 3106.1 -794.8"
 "classname" "misc_model"
 }
-// entity 282
+// entity 276
 {
 "modelscale" "1.293774"
 "angles" "359.929 36.6284 2.34436"
@@ -43113,7 +43106,7 @@ iwmap 4
 "origin" "-2453.8 3251.9 -732.8"
 "classname" "misc_model"
 }
-// entity 283
+// entity 277
 {
 "modelscale" "0.993683"
 "angles" "359.821 41.0669 1.22757"
@@ -43121,7 +43114,7 @@ iwmap 4
 "origin" "-2331.6 3350.1 -768.4"
 "classname" "misc_model"
 }
-// entity 284
+// entity 278
 {
 "modelscale" "0.972058"
 "angles" "2.08511 145.382 -0.0445501"
@@ -43129,7 +43122,7 @@ iwmap 4
 "origin" "-2498.6 3318.2 -717.1"
 "classname" "misc_model"
 }
-// entity 285
+// entity 279
 {
 "modelscale" "0.703754"
 "angles" "359.889 164.817 -1.91026"
@@ -43137,7 +43130,7 @@ iwmap 4
 "origin" "-2352.0 3381.2 -756.1"
 "classname" "misc_model"
 }
-// entity 286
+// entity 280
 {
 "modelscale" "1.043506"
 "angles" "0.307312 170.87 -0.0291412"
@@ -43145,7 +43138,7 @@ iwmap 4
 "origin" "-2317.4 3214.3 -779.1"
 "classname" "misc_model"
 }
-// entity 287
+// entity 281
 {
 "modelscale" "0.704706"
 "angles" "2.16141 12.0959 1.89529"
@@ -43153,7 +43146,7 @@ iwmap 4
 "origin" "-2291.2 3057.1 -850.2"
 "classname" "misc_model"
 }
-// entity 288
+// entity 282
 {
 "classname" "misc_model"
 "origin" "-2292.1 2597.8 -848.2"
@@ -43161,7 +43154,7 @@ iwmap 4
 "angles" "359.775 111.632 2.30377"
 "modelscale" "1.190393"
 }
-// entity 289
+// entity 283
 {
 "classname" "misc_model"
 "origin" "-2307.9 2727.9 -827.5"
@@ -43169,7 +43162,7 @@ iwmap 4
 "angles" "2.04529 223.253 -1.67238"
 "modelscale" "0.936554"
 }
-// entity 290
+// entity 284
 {
 "classname" "misc_model"
 "origin" "-2362.7 2913.1 -786.4"
@@ -43177,7 +43170,7 @@ iwmap 4
 "angles" "1.26907 124.958 -0.325025"
 "modelscale" "0.712671"
 }
-// entity 291
+// entity 285
 {
 "classname" "misc_model"
 "origin" "-2458.8 2852.3 -738.5"
@@ -43185,7 +43178,7 @@ iwmap 4
 "angles" "1.3797 329.436 -1.23399"
 "modelscale" "1.192792"
 }
-// entity 292
+// entity 286
 {
 "classname" "misc_model"
 "origin" "-2287.1 2866.2 -837.5"
@@ -43193,7 +43186,7 @@ iwmap 4
 "angles" "1.31714 242.402 1.39099"
 "modelscale" "0.989636"
 }
-// entity 293
+// entity 287
 {
 "classname" "misc_model"
 "origin" "-2428.1 2806.1 -747.8"
@@ -43201,7 +43194,7 @@ iwmap 4
 "angles" "0.818329 17.1716 -1.67787"
 "modelscale" "1.052332"
 }
-// entity 294
+// entity 288
 {
 "classname" "misc_model"
 "origin" "-2314.5 2675.3 -835.8"
@@ -43209,7 +43202,7 @@ iwmap 4
 "angles" "358.853 37.5513 -0.623641"
 "modelscale" "0.805762"
 }
-// entity 295
+// entity 289
 {
 "classname" "misc_model"
 "origin" "-2453.1 2679.7 -763.1"
@@ -43217,7 +43210,7 @@ iwmap 4
 "angles" "0.486145 20.3137 1.33606"
 "modelscale" "0.788239"
 }
-// entity 296
+// entity 290
 {
 "classname" "misc_model"
 "origin" "-2360.4 2510.1 -796.2"
@@ -43225,7 +43218,7 @@ iwmap 4
 "angles" "0.451508 268.583 -1.36657"
 "modelscale" "1.043231"
 }
-// entity 297
+// entity 291
 {
 "classname" "misc_model"
 "origin" "-2461.8 2480.9 -754.0"
@@ -43233,7 +43226,7 @@ iwmap 4
 "angles" "359.213 227.318 -1.79581"
 "modelscale" "1.021735"
 }
-// entity 298
+// entity 292
 {
 "classname" "misc_model"
 "origin" "-2369.3 1605.9 -698.8"
@@ -43241,7 +43234,7 @@ iwmap 4
 "angles" "2.38159 89.9451 -0.827181"
 "modelscale" "0.965155"
 }
-// entity 299
+// entity 293
 {
 "classname" "misc_model"
 "origin" "-2460.0 1540.6 -646.9"
@@ -43249,7 +43242,7 @@ iwmap 4
 "angles" "358.71 7.14111 0.358276"
 "modelscale" "1.268524"
 }
-// entity 300
+// entity 294
 {
 "classname" "misc_model"
 "origin" "-2426.6 1493.1 -658.7"
@@ -43257,7 +43250,7 @@ iwmap 4
 "angles" "0.472565 356.331 1.9931"
 "modelscale" "0.712872"
 }
-// entity 301
+// entity 295
 {
 "classname" "misc_model"
 "origin" "-2446.1 1324.8 -637.7"
@@ -43265,7 +43258,7 @@ iwmap 4
 "angles" "0.136108 247.522 -1.83578"
 "modelscale" "1.185761"
 }
-// entity 302
+// entity 296
 {
 "classname" "misc_model"
 "origin" "-2337.3 1125.9 -698.8"
@@ -43273,7 +43266,7 @@ iwmap 4
 "angles" "2.38159 89.9451 -0.827181"
 "modelscale" "0.965155"
 }
-// entity 303
+// entity 297
 {
 "classname" "misc_model"
 "origin" "-2428.0 1060.6 -646.9"
@@ -43281,7 +43274,7 @@ iwmap 4
 "angles" "358.71 7.14111 0.358276"
 "modelscale" "1.268524"
 }
-// entity 304
+// entity 298
 {
 "classname" "misc_model"
 "origin" "-2394.6 1013.1 -658.7"
@@ -43289,7 +43282,7 @@ iwmap 4
 "angles" "0.472565 356.331 1.9931"
 "modelscale" "0.712872"
 }
-// entity 305
+// entity 299
 {
 "classname" "misc_model"
 "origin" "-2414.1 844.8 -637.7"
@@ -43297,7 +43290,7 @@ iwmap 4
 "angles" "0.136108 247.522 -1.83578"
 "modelscale" "1.185761"
 }
-// entity 306
+// entity 300
 {
 "classname" "misc_model"
 "model" "ch_rubble_woodplank01"
@@ -43305,7 +43298,7 @@ iwmap 4
 "angles" "1.01944 242.655 -2.03828"
 "modelscale" "0.917914"
 }
-// entity 307
+// entity 301
 {
 "classname" "misc_model"
 "model" "ch_rubble_woodplank01"
@@ -43313,7 +43306,7 @@ iwmap 4
 "angles" "2.07367 214.091 1.3295"
 "modelscale" "1.017468"
 }
-// entity 308
+// entity 302
 {
 "origin" "2195.4 1511.4 -803.0"
 "modelscale" "1.054364"
@@ -43321,7 +43314,7 @@ iwmap 4
 "model" "prefabs/bog/general/trash_tire_01.map"
 "classname" "misc_prefab"
 }
-// entity 309
+// entity 303
 {
 "origin" "2207.4 1434.5 -803.0"
 "modelscale" "1.270831"
@@ -43329,7 +43322,7 @@ iwmap 4
 "model" "prefabs/bog/general/trash_tire_01.map"
 "classname" "misc_prefab"
 }
-// entity 310
+// entity 304
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_trashbag2_green.map"
@@ -43337,7 +43330,7 @@ iwmap 4
 "origin" "2133.8 1806.6 -803.0"
 "modelscale" "0.848114"
 }
-// entity 311
+// entity 305
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_trashbag2_green.map"
@@ -43345,7 +43338,7 @@ iwmap 4
 "origin" "2091.5 1772.7 -803.0"
 "modelscale" "0.727704"
 }
-// entity 312
+// entity 306
 {
 "modelscale" "0.817792"
 "type" "clutter"
@@ -43354,7 +43347,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 313
+// entity 307
 {
 "modelscale" "0.829291"
 "type" "clutter"
@@ -43363,7 +43356,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 314
+// entity 308
 {
 "modelscale" "1.084778"
 "type" "clutter"
@@ -43372,7 +43365,7 @@ iwmap 4
 "model" "me_plastic_crate9"
 "classname" "dyn_model"
 }
-// entity 315
+// entity 309
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_trashbag2_green.map"
@@ -43380,7 +43373,7 @@ iwmap 4
 "origin" "-1903.8 1496.4 -862.5"
 "modelscale" "1.144196"
 }
-// entity 316
+// entity 310
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_trashbag2_green.map"
@@ -43388,7 +43381,7 @@ iwmap 4
 "origin" "-1944.6 1536.9 -876.6"
 "modelscale" "0.991266"
 }
-// entity 317
+// entity 311
 {
 "modelscale" "1.028217"
 "origin" "-1417.9 -1.5 -592.2"
@@ -43396,7 +43389,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 318
+// entity 312
 {
 "modelscale" "0.856152"
 "origin" "-1236.3 -12.5 -592.5"
@@ -43404,7 +43397,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 319
+// entity 313
 {
 "modelscale" "0.758649"
 "origin" "-1221.2 35.2 -591.8"
@@ -43412,7 +43405,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64a.map"
 "classname" "misc_prefab"
 }
-// entity 320
+// entity 314
 {
 "origin" "-1211.4 4.5 -591.6"
 "modelscale" "0.775275"
@@ -43420,7 +43413,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 321
+// entity 315
 {
 "origin" "-1292.5 -43.2 -592.1"
 "modelscale" "0.889478"
@@ -43428,7 +43421,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 322
+// entity 316
 {
 "modelscale" "0.828448"
 "origin" "90.2 -26.1 -593.4"
@@ -43436,7 +43429,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 323
+// entity 317
 {
 "modelscale" "0.961292"
 "origin" "87.9 73.7 -592.6"
@@ -43444,7 +43437,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 324
+// entity 318
 {
 "modelscale" "0.938660"
 "origin" "97.6 72.9 -592.7"
@@ -43452,7 +43445,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64a.map"
 "classname" "misc_prefab"
 }
-// entity 325
+// entity 319
 {
 "origin" "89.0 35.4 -592.5"
 "modelscale" "0.818286"
@@ -43460,7 +43453,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 326
+// entity 320
 {
 "origin" "34.9 37.6 -592.1"
 "modelscale" "0.719537"
@@ -43468,7 +43461,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 327
+// entity 321
 {
 "modelscale" "0.751215"
 "origin" "965.5 1272.3 -803.0"
@@ -43476,7 +43469,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64a.map"
 "classname" "misc_prefab"
 }
-// entity 328
+// entity 322
 {
 "origin" "895.6 1242.0 -803.0"
 "modelscale" "1.115338"
@@ -43484,7 +43477,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 329
+// entity 323
 {
 "origin" "1599.6 1338.0 -803.0"
 "modelscale" "1.115338"
@@ -43492,7 +43485,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 330
+// entity 324
 {
 "origin" "1105.0 1234.7 -803.0"
 "modelscale" "0.959296"
@@ -43500,7 +43493,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 331
+// entity 325
 {
 "modelscale" "0.823431"
 "origin" "-9.8 685.7 -663.0"
@@ -43508,7 +43501,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 332
+// entity 326
 {
 "origin" "-69.8 638.9 -636.0"
 "modelscale" "1.003772"
@@ -43516,7 +43509,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 333
+// entity 327
 {
 "modelscale" "0.992877"
 "type" "clutter"
@@ -43525,7 +43518,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 334
+// entity 328
 {
 "type" "clutter"
 "origin" "-1860.3 1295.1 -843.7"
@@ -43534,7 +43527,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 335
+// entity 329
 {
 "modelscale" "1.153955"
 "classname" "dyn_model"
@@ -43543,7 +43536,7 @@ iwmap 4
 "type" "clutter"
 "origin" "-1803.3 1311.3 -847.7"
 }
-// entity 336
+// entity 330
 {
 "origin" "-1711.2 1307.5 -803.0"
 "modelscale" "0.910168"
@@ -43551,7 +43544,7 @@ iwmap 4
 "model" "prefabs/trash/trash_hubcap01.map"
 "classname" "misc_prefab"
 }
-// entity 337
+// entity 331
 {
 "origin" "-1716.7 1342.8 -803.0"
 "modelscale" "1.169409"
@@ -43559,7 +43552,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 338
+// entity 332
 {
 "origin" "-1911.6 1210.3 -838.5"
 "modelscale" "0.985370"
@@ -43567,7 +43560,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox04.map"
 "classname" "misc_prefab"
 }
-// entity 339
+// entity 333
 {
 "origin" "-1816.9 1266.1 -843.4"
 "modelscale" "0.959003"
@@ -43575,7 +43568,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 340
+// entity 334
 {
 "modelscale" "1.111914"
 "origin" "-1867.1 1199.2 -839.5"
@@ -43583,7 +43576,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 341
+// entity 335
 {
 "modelscale" "1.132825"
 "origin" "-1794.5 1219.0 -842.5"
@@ -43591,7 +43584,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 342
+// entity 336
 {
 "origin" "-1710.0 1263.6 -803.0"
 "modelscale" "0.840826"
@@ -43599,7 +43592,7 @@ iwmap 4
 "model" "prefabs/bog/general/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 343
+// entity 337
 {
 "modelscale" "0.809222"
 "type" "clutter"
@@ -43608,7 +43601,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 344
+// entity 338
 {
 "type" "clutter"
 "origin" "-790.9 1247.0 -803.0"
@@ -43617,7 +43610,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 345
+// entity 339
 {
 "origin" "-624.6 1276.9 -803.0"
 "modelscale" "0.917383"
@@ -43625,7 +43618,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 346
+// entity 340
 {
 "origin" "-858.0 1110.0 -803.0"
 "modelscale" "1.065808"
@@ -43633,7 +43626,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox04.map"
 "classname" "misc_prefab"
 }
-// entity 347
+// entity 341
 {
 "origin" "-721.1 1171.3 -803.0"
 "modelscale" "1.138959"
@@ -43641,7 +43634,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 348
+// entity 342
 {
 "modelscale" "0.929340"
 "origin" "-778.9 1107.0 -803.0"
@@ -43649,7 +43642,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 349
+// entity 343
 {
 "modelscale" "0.803693"
 "origin" "-707.8 1157.5 -803.0"
@@ -43657,7 +43650,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 350
+// entity 344
 {
 "origin" "-621.9 1199.8 -803.0"
 "modelscale" "0.940601"
@@ -43665,7 +43658,7 @@ iwmap 4
 "model" "prefabs/bog/general/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 351
+// entity 345
 {
 "modelscale" "1.065863"
 "type" "clutter"
@@ -43674,7 +43667,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 352
+// entity 346
 {
 "type" "clutter"
 "origin" "2209.1 1271.1 -803.0"
@@ -43683,7 +43676,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 353
+// entity 347
 {
 "modelscale" "0.870819"
 "classname" "dyn_model"
@@ -43692,7 +43685,7 @@ iwmap 4
 "type" "clutter"
 "origin" "2246.3 1285.5 -803.0"
 }
-// entity 354
+// entity 348
 {
 "origin" "2364.5 1226.2 -803.0"
 "modelscale" "0.906012"
@@ -43700,7 +43693,7 @@ iwmap 4
 "model" "prefabs/trash/trash_hubcap01.map"
 "classname" "misc_prefab"
 }
-// entity 355
+// entity 349
 {
 "origin" "2367.5 1317.7 -803.0"
 "modelscale" "1.297968"
@@ -43708,7 +43701,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 356
+// entity 350
 {
 "origin" "2194.8 1138.7 -803.0"
 "modelscale" "1.235986"
@@ -43716,7 +43709,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox04.map"
 "classname" "misc_prefab"
 }
-// entity 357
+// entity 351
 {
 "origin" "2306.1 1192.1 -803.0"
 "modelscale" "0.978778"
@@ -43724,7 +43717,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 358
+// entity 352
 {
 "modelscale" "1.101294"
 "origin" "2258.2 1130.2 -803.0"
@@ -43732,7 +43725,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 359
+// entity 353
 {
 "modelscale" "1.189661"
 "origin" "2287.8 1191.4 -803.0"
@@ -43740,7 +43733,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 360
+// entity 354
 {
 "origin" "2410.7 1269.7 -803.0"
 "modelscale" "1.227893"
@@ -43748,7 +43741,7 @@ iwmap 4
 "model" "prefabs/bog/general/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 361
+// entity 355
 {
 "modelscale" "1.109351"
 "angles" "359.795 182.802 -1.95924"
@@ -43756,7 +43749,7 @@ iwmap 4
 "origin" "-1836.1 1864.0 -814.2"
 "classname" "misc_prefab"
 }
-// entity 362
+// entity 356
 {
 "modelscale" "1.098529"
 "angles" "1.48026 330.293 -2.2937"
@@ -43764,7 +43757,7 @@ iwmap 4
 "origin" "-1856.0 1964.0 -817.7"
 "classname" "misc_prefab"
 }
-// entity 363
+// entity 357
 {
 "modelscale" "1.164154"
 "angles" "359.843 324.393 1.79825"
@@ -43772,7 +43765,7 @@ iwmap 4
 "origin" "-1308.0 1971.9 -803.0"
 "classname" "misc_prefab"
 }
-// entity 364
+// entity 358
 {
 "modelscale" "1.135699"
 "angles" "0.69397 172.837 0.899658"
@@ -43780,7 +43773,7 @@ iwmap 4
 "origin" "-1356.0 2004.1 -803.0"
 "classname" "misc_prefab"
 }
-// entity 365
+// entity 359
 {
 "modelscale" "0.789062"
 "type" "clutter"
@@ -43789,7 +43782,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 366
+// entity 360
 {
 "origin" "317.1 1331.7 -803.0"
 "modelscale" "0.829840"
@@ -43797,7 +43790,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 367
+// entity 361
 {
 "origin" "144.8 1151.8 -803.0"
 "modelscale" "1.088458"
@@ -43805,7 +43798,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox04.map"
 "classname" "misc_prefab"
 }
-// entity 368
+// entity 362
 {
 "modelscale" "0.822571"
 "origin" "205.0 1139.3 -803.0"
@@ -43813,7 +43806,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 369
+// entity 363
 {
 "origin" "363.2 1280.1 -803.0"
 "modelscale" "1.134930"
@@ -43821,7 +43814,7 @@ iwmap 4
 "model" "prefabs/bog/general/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 370
+// entity 364
 {
 "modelscale" "1.282404"
 "origin" "-662.9 638.6 -603.0"
@@ -43829,7 +43822,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64a.map"
 "classname" "misc_prefab"
 }
-// entity 371
+// entity 365
 {
 "modelscale" "0.711920"
 "classname" "dyn_model"
@@ -43838,7 +43831,7 @@ iwmap 4
 "type" "clutter"
 "origin" "-602.6 207.4 -583.0"
 }
-// entity 372
+// entity 366
 {
 "origin" "-723.2 182.6 -583.0"
 "type" "clutter"
@@ -43847,7 +43840,7 @@ iwmap 4
 "classname" "dyn_model"
 "modelscale" "0.786133"
 }
-// entity 373
+// entity 367
 {
 "modelscale" "0.928406"
 "classname" "dyn_model"
@@ -43856,7 +43849,7 @@ iwmap 4
 "type" "clutter"
 "origin" "439.8 148.3 -592.0"
 }
-// entity 374
+// entity 368
 {
 "modelscale" "0.927655"
 "classname" "dyn_model"
@@ -43865,7 +43858,7 @@ iwmap 4
 "type" "clutter"
 "origin" "566.8 119.3 -591.9"
 }
-// entity 375
+// entity 369
 {
 "origin" "321.5 125.7 -593.8"
 "type" "clutter"
@@ -43874,7 +43867,7 @@ iwmap 4
 "classname" "dyn_model"
 "modelscale" "1.038580"
 }
-// entity 376
+// entity 370
 {
 "modelscale" "0.952997"
 "classname" "dyn_model"
@@ -43883,7 +43876,7 @@ iwmap 4
 "type" "clutter"
 "origin" "1615.7 1284.1 -803.0"
 }
-// entity 377
+// entity 371
 {
 "modelscale" "1.232178"
 "classname" "dyn_model"
@@ -43892,7 +43885,7 @@ iwmap 4
 "type" "clutter"
 "origin" "1743.4 1254.7 -803.0"
 }
-// entity 378
+// entity 372
 {
 "origin" "1494.6 1258.3 -803.0"
 "type" "clutter"
@@ -43901,7 +43894,7 @@ iwmap 4
 "classname" "dyn_model"
 "modelscale" "1.217090"
 }
-// entity 379
+// entity 373
 {
 "origin" "1491.4 1192.1 -803.0"
 "type" "clutter"
@@ -43910,21 +43903,21 @@ iwmap 4
 "classname" "dyn_model"
 "modelscale" "1.271362"
 }
-// entity 380
+// entity 374
 {
 "origin" "1020.3 366.7 -589.0"
 "angles" "0 345 -90"
 "model" "prefabs/misc_models/com_barrel_green_rust.map"
 "classname" "misc_prefab"
 }
-// entity 381
+// entity 375
 {
 "classname" "misc_prefab"
 "origin" "-1464.8 2006.0 -755.0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "angles" "0 240 0"
 }
-// entity 382
+// entity 376
 {
 "origin" "-2096.0 3286.0 -993.6"
 "modelscale" "1.060242"
@@ -43932,7 +43925,7 @@ iwmap 4
 "model" "bc_hesco_barrier_sm"
 "classname" "misc_model"
 }
-// entity 383
+// entity 377
 {
 "origin" "-2052.0 3264.0 -992.8"
 "modelscale" "1.035797"
@@ -43940,7 +43933,7 @@ iwmap 4
 "model" "bc_hesco_barrier_sm"
 "classname" "misc_model"
 }
-// entity 384
+// entity 378
 {
 "origin" "-2016.0 3292.0 -992.8"
 "modelscale" "1.211121"
@@ -43948,7 +43941,7 @@ iwmap 4
 "model" "bc_hesco_barrier_sm"
 "classname" "misc_model"
 }
-// entity 385
+// entity 379
 {
 "origin" "-2142.0 3272.0 -991.8"
 "modelscale" "1.211121"
@@ -43956,21 +43949,21 @@ iwmap 4
 "model" "bc_hesco_barrier_sm"
 "classname" "misc_model"
 }
-// entity 386
+// entity 380
 {
 "origin" "-2234.0 -181.9 -555.0"
 "angles" "8.60585e-006 1.19583e-005 -154.8"
 "model" "prefabs/misc_models/com_barrel_green_rust.map"
 "classname" "misc_prefab"
 }
-// entity 387
+// entity 381
 {
 "origin" "2479.5 1022.5 -801.5"
 "angles" "0 90 0"
 "model" "mil_sandbag_desert_single_bent"
 "classname" "misc_model"
 }
-// entity 388
+// entity 382
 {
 "modelscale" "1.147620"
 "angles" "1.70746 260.98 2.44476"
@@ -43978,7 +43971,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 389
+// entity 383
 {
 "modelscale" "1.057202"
 "angles" "0.883636 169.706 -1.89225"
@@ -43986,7 +43979,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 390
+// entity 384
 {
 "modelscale" "0.795544"
 "angles" "2.20123 236.777 1.39893"
@@ -43994,7 +43987,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 391
+// entity 385
 {
 "modelscale" "1.177173"
 "angles" "0.715332 182.878 1.77063"
@@ -44002,7 +43995,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 392
+// entity 386
 {
 "modelscale" "0.905701"
 "origin" "1653.2 1161.5 -803.0"
@@ -44010,7 +44003,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 393
+// entity 387
 {
 "modelscale" "1.184607"
 "origin" "1660.6 1260.6 -803.0"
@@ -44018,7 +44011,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64a.map"
 "classname" "misc_prefab"
 }
-// entity 394
+// entity 388
 {
 "origin" "1652.1 1223.1 -803.0"
 "modelscale" "0.749292"
@@ -44026,7 +44019,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 395
+// entity 389
 {
 "origin" "1598.1 1225.1 -803.0"
 "modelscale" "0.867487"
@@ -44034,7 +44027,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 396
+// entity 390
 {
 "modelscale" "0.760626"
 "angles" "359.864 199.204 -0.545039"
@@ -44042,7 +44035,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 397
+// entity 391
 {
 "modelscale" "1.110742"
 "angles" "1.70853 148.788 2.02591"
@@ -44050,7 +44043,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 398
+// entity 392
 {
 "modelscale" "1.203650"
 "angles" "357.869 358.308 1.59103"
@@ -44058,7 +44051,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 399
+// entity 393
 {
 "modelscale" "1.056653"
 "angles" "357.763 117.499 2.0256"
@@ -44066,13 +44059,13 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 400
+// entity 394
 {
 "origin" "823.5 1209.5 -788.5"
 "model" "com_barrel_black_rust_h"
 "classname" "misc_model"
 }
-// entity 401
+// entity 395
 {
 "modelscale" "1.034753"
 "origin" "806.7 1078.5 -801.9"
@@ -44080,7 +44073,7 @@ iwmap 4
 "model" "com_cellphone_off_anim"
 "classname" "misc_model"
 }
-// entity 402
+// entity 396
 {
 "modelscale" "1.094226"
 "angles" "2.06589 209.07 2.49542"
@@ -44088,7 +44081,7 @@ iwmap 4
 "model" "com_barrel_piece2"
 "classname" "misc_model"
 }
-// entity 403
+// entity 397
 {
 "origin" "1355.0 1149.0 -803.0"
 "modelscale" "1.234979"
@@ -44096,7 +44089,7 @@ iwmap 4
 "model" "com_barrel_piece"
 "classname" "misc_model"
 }
-// entity 404
+// entity 398
 {
 "modelscale" "1.006683"
 "angles" "357.559 241.556 1.45493"
@@ -44104,7 +44097,7 @@ iwmap 4
 "model" "com_cardboardbox_decal"
 "classname" "misc_model"
 }
-// entity 405
+// entity 399
 {
 "modelscale" "1.109607"
 "angles" "1.30585 33.3655 -1.11145"
@@ -44112,7 +44105,7 @@ iwmap 4
 "model" "com_cardboardbox_decal"
 "classname" "misc_model"
 }
-// entity 406
+// entity 400
 {
 "modelscale" "1.162195"
 "angles" "357.885 138.779 1.83762"
@@ -44120,7 +44113,7 @@ iwmap 4
 "model" "com_cardboardbox_decal"
 "classname" "misc_model"
 }
-// entity 407
+// entity 401
 {
 "origin" "1185.0 1067.0 -803.0"
 "modelscale" "1.240985"
@@ -44128,41 +44121,41 @@ iwmap 4
 "model" "com_cardboardboxshortopen_3"
 "classname" "misc_model"
 }
-// entity 408
+// entity 402
 {
 "classname" "misc_model"
 "model" "mil_sandbag_desert_end_right"
 "angles" "0 270 0"
 "origin" "81.5 1411.0 -803.0"
 }
-// entity 409
+// entity 403
 {
 "classname" "misc_model"
 "model" "mil_sandbag_desert_end_left"
 "angles" "0 180 0"
 "origin" "-361.0 1386.0 -803.0"
 }
-// entity 410
+// entity 404
 {
 "classname" "reflection_probe"
 "model" "mil_sandbag_desert_curved"
 "angles" "0 226.4 0"
 "origin" "1086.0 1433.0 -803.0"
 }
-// entity 411
+// entity 405
 {
 "classname" "misc_model"
 "model" "mil_sandbag_desert_long"
 "origin" "-11.5 1408.0 -805.0"
 "angles" "0 270 0"
 }
-// entity 412
+// entity 406
 {
 "origin" "-360.0 1342.0 -803.0"
 "model" "mil_sandbag_desert_short"
 "classname" "misc_model"
 }
-// entity 413
+// entity 407
 {
 "classname" "misc_model"
 "model" "ch_rubble_woodplank01"
@@ -44170,7 +44163,7 @@ iwmap 4
 "angles" "0.0411987 242.93 0.0917053"
 "modelscale" "1.054309"
 }
-// entity 414
+// entity 408
 {
 "classname" "misc_model"
 "model" "ch_rubble_woodplank01"
@@ -44178,7 +44171,7 @@ iwmap 4
 "angles" "358.831 97.7344 -2.1338"
 "modelscale" "0.945270"
 }
-// entity 415
+// entity 409
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_trashbag2_green.map"
@@ -44186,7 +44179,7 @@ iwmap 4
 "origin" "-292.6 1093.9 -803.0"
 "modelscale" "1.172009"
 }
-// entity 416
+// entity 410
 {
 "modelscale" "0.772858"
 "type" "clutter"
@@ -44195,7 +44188,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 417
+// entity 411
 {
 "modelscale" "0.782361"
 "type" "clutter"
@@ -44204,7 +44197,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 418
+// entity 412
 {
 "modelscale" "1.269678"
 "type" "clutter"
@@ -44213,7 +44206,7 @@ iwmap 4
 "model" "me_plastic_crate9"
 "classname" "dyn_model"
 }
-// entity 419
+// entity 413
 {
 "modelscale" "1.153186"
 "type" "clutter"
@@ -44222,7 +44215,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 420
+// entity 414
 {
 "modelscale" "0.885138"
 "classname" "dyn_model"
@@ -44231,7 +44224,7 @@ iwmap 4
 "type" "clutter"
 "origin" "228.0 1206.6 -803.0"
 }
-// entity 421
+// entity 415
 {
 "origin" "196.0 1327.6 -803.0"
 "modelscale" "1.199768"
@@ -44239,7 +44232,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 422
+// entity 416
 {
 "modelscale" "1.019006"
 "origin" "384.2 1218.1 -803.0"
@@ -44247,7 +44240,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 423
+// entity 417
 {
 "modelscale" "0.909198"
 "origin" "321.5 1247.6 -803.0"
@@ -44255,7 +44248,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 424
+// entity 418
 {
 "modelscale" "0.970026"
 "angles" "359.751 301.509 -1.21126"
@@ -44263,7 +44256,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 425
+// entity 419
 {
 "modelscale" "0.948474"
 "angles" "1.8869 133.682 2.42294"
@@ -44271,7 +44264,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 426
+// entity 420
 {
 "modelscale" "0.703278"
 "angles" "2.29889 247.709 -1.1853"
@@ -44279,7 +44272,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 427
+// entity 421
 {
 "modelscale" "1.284143"
 "angles" "2.20322 61.2488 1.064"
@@ -44287,7 +44280,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 428
+// entity 422
 {
 "modelscale" "0.782965"
 "angles" "1.99158 92.4609 -1.43097"
@@ -44295,7 +44288,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 429
+// entity 423
 {
 "modelscale" "1.239484"
 "angles" "358.469 97.9211 1.28098"
@@ -44303,7 +44296,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 430
+// entity 424
 {
 "modelscale" "0.837439"
 "angles" "358.526 124.178 -1.42837"
@@ -44311,7 +44304,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 431
+// entity 425
 {
 "modelscale" "1.093878"
 "angles" "1.89758 141.328 2.05139"
@@ -44319,47 +44312,47 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 432
+// entity 426
 {
 "classname" "misc_prefab"
 "model" "prefabs/mp_backlot/cargo_container_backlot.map"
 "origin" "1188.0 1275.7 -802.0"
 "angles" "0 172.1 0"
 }
-// entity 433
+// entity 427
 {
 "classname" "misc_prefab"
 "model" "prefabs/mp_crash/misc/pallet.map"
 "origin" "1128.7 1349.5 -776.0"
 "angles" "310.8 352.1 2.29972e-005"
 }
-// entity 434
+// entity 428
 {
 "classname" "misc_prefab"
 "model" "prefabs/mp_crash/misc/pallet.map"
 "origin" "-649.0 1507.7 -778.0"
 "angles" "310.8 90.2 8.28818e-005"
 }
-// entity 435
+// entity 429
 {
 "classname" "misc_prefab"
 "model" "prefabs/mp_crash/misc/pallet.map"
 "origin" "-705.0 1507.7 -778.0"
 "angles" "310.8 90.2 8.28818e-005"
 }
-// entity 436
+// entity 430
 {
 "model" "ch_furniture_school_lunch_table"
 "origin" "-1557.0 2606.0 -803.0"
 "classname" "misc_model"
 }
-// entity 437
+// entity 431
 {
 "model" "ch_furniture_school_lunch_table"
 "origin" "-1558.0 2313.0 -803.0"
 "classname" "misc_model"
 }
-// entity 438
+// entity 432
 {
 "origin" "-486.0 1323.0 -803.0"
 "modelscale" "0.770404"
@@ -44367,7 +44360,7 @@ iwmap 4
 "model" "rope_coil_obj"
 "classname" "misc_model"
 }
-// entity 439
+// entity 433
 {
 "origin" "-1376.4 1140.8 -800.6"
 "modelscale" "1.120758"
@@ -44375,7 +44368,7 @@ iwmap 4
 "model" "me_trash_line01"
 "classname" "misc_model"
 }
-// entity 440
+// entity 434
 {
 "modelscale" "1.099646"
 "angles" "358.818 201.863 1.14822"
@@ -44383,7 +44376,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 441
+// entity 435
 {
 "modelscale" "0.836340"
 "angles" "358.111 294.5 -0.3209"
@@ -44391,7 +44384,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter"
 "classname" "misc_model"
 }
-// entity 442
+// entity 436
 {
 "origin" "-1238.0 1373.0 -803.0"
 "modelscale" "0.778076"
@@ -44399,7 +44392,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 443
+// entity 437
 {
 "origin" "-1266.0 1334.0 -803.0"
 "modelscale" "0.861572"
@@ -44407,7 +44400,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 444
+// entity 438
 {
 "origin" "-1297.0 1355.0 -803.0"
 "modelscale" "0.714337"
@@ -44415,7 +44408,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_04"
 "classname" "misc_model"
 }
-// entity 445
+// entity 439
 {
 "origin" "-1078.0 1466.0 -803.0"
 "modelscale" "1.263470"
@@ -44423,7 +44416,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 446
+// entity 440
 {
 "origin" "-1075.0 1375.0 -803.0"
 "modelscale" "0.945563"
@@ -44431,7 +44424,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 447
+// entity 441
 {
 "origin" "-1103.0 1390.0 -803.0"
 "modelscale" "1.011627"
@@ -44439,7 +44432,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 448
+// entity 442
 {
 "origin" "-1101.0 1411.0 -803.0"
 "modelscale" "1.120538"
@@ -44447,7 +44440,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 449
+// entity 443
 {
 "origin" "-1124.0 1390.0 -803.0"
 "modelscale" "0.915021"
@@ -44455,7 +44448,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 450
+// entity 444
 {
 "origin" "-1119.0 1441.0 -803.0"
 "modelscale" "0.773828"
@@ -44463,7 +44456,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 451
+// entity 445
 {
 "origin" "-1061.0 1416.0 -803.0"
 "modelscale" "1.233661"
@@ -44471,7 +44464,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 452
+// entity 446
 {
 "origin" "-1059.0 1394.0 -803.0"
 "modelscale" "0.875031"
@@ -44479,7 +44472,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 453
+// entity 447
 {
 "origin" "-1082.0 1409.0 -803.0"
 "modelscale" "1.165308"
@@ -44487,7 +44480,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 454
+// entity 448
 {
 "origin" "-1266.0 1277.0 -803.0"
 "modelscale" "1.253033"
@@ -44495,7 +44488,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 455
+// entity 449
 {
 "origin" "-1189.5 1292.1 -803.0"
 "modelscale" "0.807208"
@@ -44503,7 +44496,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 456
+// entity 450
 {
 "origin" "-1192.2 1383.4 -803.0"
 "modelscale" "1.095142"
@@ -44511,7 +44504,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 457
+// entity 451
 {
 "origin" "-1164.1 1368.5 -803.0"
 "modelscale" "0.792834"
@@ -44519,7 +44512,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 458
+// entity 452
 {
 "origin" "-1142.8 1367.6 -803.0"
 "modelscale" "0.721405"
@@ -44527,7 +44520,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 459
+// entity 453
 {
 "origin" "-1147.7 1317.4 -803.0"
 "modelscale" "0.803583"
@@ -44535,7 +44528,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 460
+// entity 454
 {
 "origin" "-1206.3 1342.4 -803.0"
 "modelscale" "1.033746"
@@ -44543,7 +44536,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 461
+// entity 455
 {
 "origin" "-1208.1 1364.5 -803.0"
 "modelscale" "1.155493"
@@ -44551,7 +44544,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 462
+// entity 456
 {
 "origin" "-1184.6 1349.2 -803.0"
 "modelscale" "1.240234"
@@ -44559,7 +44552,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 463
+// entity 457
 {
 "origin" "-1300.3 1416.5 -803.0"
 "modelscale" "0.860931"
@@ -44567,7 +44560,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 464
+// entity 458
 {
 "modelscale" "0.854285"
 "angles" "1.01868 83.1335 1.08856"
@@ -44575,7 +44568,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 465
+// entity 459
 {
 "modelscale" "1.165417"
 "angles" "2.00333 185.449 1.39297"
@@ -44583,7 +44576,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter"
 "classname" "misc_model"
 }
-// entity 466
+// entity 460
 {
 "origin" "-1287.0 1646.0 -803.0"
 "modelscale" "1.168842"
@@ -44591,7 +44584,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 467
+// entity 461
 {
 "origin" "-1266.0 1677.0 -803.0"
 "modelscale" "0.759180"
@@ -44599,7 +44592,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_04"
 "classname" "misc_model"
 }
-// entity 468
+// entity 462
 {
 "origin" "-1155.0 1458.0 -803.0"
 "modelscale" "0.805688"
@@ -44607,7 +44600,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 469
+// entity 463
 {
 "origin" "-1246.0 1455.0 -803.0"
 "modelscale" "1.264056"
@@ -44615,7 +44608,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 470
+// entity 464
 {
 "origin" "-1231.0 1483.0 -803.0"
 "modelscale" "0.939575"
@@ -44623,7 +44616,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 471
+// entity 465
 {
 "origin" "-1210.0 1481.0 -803.0"
 "modelscale" "0.795050"
@@ -44631,7 +44624,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 472
+// entity 466
 {
 "origin" "-1231.0 1504.0 -803.0"
 "modelscale" "0.997491"
@@ -44639,7 +44632,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 473
+// entity 467
 {
 "origin" "-1180.0 1499.0 -803.0"
 "modelscale" "0.797156"
@@ -44647,7 +44640,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 474
+// entity 468
 {
 "origin" "-1205.0 1441.0 -803.0"
 "modelscale" "1.032867"
@@ -44655,7 +44648,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 475
+// entity 469
 {
 "origin" "-1227.0 1439.0 -803.0"
 "modelscale" "0.957062"
@@ -44663,7 +44656,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 476
+// entity 470
 {
 "origin" "-1212.0 1462.0 -803.0"
 "modelscale" "1.174756"
@@ -44671,7 +44664,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 477
+// entity 471
 {
 "origin" "-1344.0 1646.0 -803.0"
 "modelscale" "0.789777"
@@ -44679,7 +44672,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 478
+// entity 472
 {
 "origin" "-1329.5 1569.2 -803.0"
 "modelscale" "1.152161"
@@ -44687,7 +44680,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 479
+// entity 473
 {
 "origin" "-1237.6 1571.8 -803.0"
 "modelscale" "0.700513"
@@ -44695,7 +44688,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 480
+// entity 474
 {
 "origin" "-1253.3 1544.4 -803.0"
 "modelscale" "1.093091"
@@ -44703,7 +44696,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 481
+// entity 475
 {
 "origin" "-1253.4 1523.0 -803.0"
 "modelscale" "0.721240"
@@ -44711,7 +44704,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 482
+// entity 476
 {
 "origin" "-1303.6 1526.3 -803.0"
 "modelscale" "1.198962"
@@ -44719,7 +44712,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 483
+// entity 477
 {
 "origin" "-1278.5 1586.2 -803.0"
 "modelscale" "1.122534"
@@ -44727,7 +44720,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 484
+// entity 478
 {
 "origin" "-1257.3 1588.4 -803.0"
 "modelscale" "0.893671"
@@ -44735,7 +44728,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 485
+// entity 479
 {
 "origin" "-1271.4 1564.1 -803.0"
 "modelscale" "0.700201"
@@ -44743,7 +44736,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 486
+// entity 480
 {
 "origin" "-1205.3 1679.5 -803.0"
 "modelscale" "1.047845"
@@ -44751,14 +44744,14 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 487
+// entity 481
 {
 "angles" "0 41.05 0"
 "origin" "-718.5 1452.1 -788.5"
 "model" "com_barrel_black_rust_h"
 "classname" "misc_model"
 }
-// entity 488
+// entity 482
 {
 "origin" "440.6 1139.8 -800.6"
 "modelscale" "1.120758"
@@ -44766,7 +44759,7 @@ iwmap 4
 "model" "me_trash_line01"
 "classname" "misc_model"
 }
-// entity 489
+// entity 483
 {
 "classname" "misc_model"
 "model" "ch_rubble_woodplank01"
@@ -44774,7 +44767,7 @@ iwmap 4
 "angles" "1.76697 234.624 -1.01441"
 "modelscale" "1.137036"
 }
-// entity 490
+// entity 484
 {
 "classname" "misc_model"
 "model" "ch_rubble_woodplank01"
@@ -44782,7 +44775,7 @@ iwmap 4
 "angles" "1.05347 105.205 0.588684"
 "modelscale" "0.878162"
 }
-// entity 491
+// entity 485
 {
 "modelscale" "1.239557"
 "type" "clutter"
@@ -44791,7 +44784,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 492
+// entity 486
 {
 "modelscale" "0.921411"
 "type" "clutter"
@@ -44800,7 +44793,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 493
+// entity 487
 {
 "modelscale" "0.849707"
 "type" "clutter"
@@ -44809,7 +44802,7 @@ iwmap 4
 "model" "me_plastic_crate9"
 "classname" "dyn_model"
 }
-// entity 494
+// entity 488
 {
 "modelscale" "1.283832"
 "angles" "0.641937 199.138 1.61652"
@@ -44817,7 +44810,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 495
+// entity 489
 {
 "modelscale" "1.231573"
 "angles" "0.126343 74.6191 0.284882"
@@ -44825,7 +44818,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 496
+// entity 490
 {
 "modelscale" "1.165289"
 "angles" "359.836 87.4951 1.97647"
@@ -44833,7 +44826,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 497
+// entity 491
 {
 "modelscale" "0.733087"
 "angles" "357.776 208.103 0.0120544"
@@ -44841,7 +44834,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 498
+// entity 492
 {
 "modelscale" "0.858496"
 "angles" "358.381 319.691 -1.99708"
@@ -44849,7 +44842,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 499
+// entity 493
 {
 "modelscale" "0.722760"
 "angles" "358.786 79.8596 -0.778659"
@@ -44857,7 +44850,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 500
+// entity 494
 {
 "modelscale" "0.823193"
 "angles" "358.91 117.213 -1.97006"
@@ -44865,7 +44858,7 @@ iwmap 4
 "model" "mil_sandbag_desert_single_flat"
 "classname" "misc_model"
 }
-// entity 501
+// entity 495
 {
 "origin" "-1290.0 2448.0 -803.0"
 "modelscale" "0.801440"
@@ -44873,21 +44866,21 @@ iwmap 4
 "model" "com_bomb_objective_d"
 "classname" "misc_model"
 }
-// entity 502
+// entity 496
 {
 "angles" "2.76334 320.078 89.0964"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "-1581.8 2324.9 -768.7"
 "classname" "misc_prefab"
 }
-// entity 503
+// entity 497
 {
 "angles" "2.76334 50.078 89.0964"
 "model" "prefabs/misc_models/com_bottle4.map"
 "origin" "-1542.9 2313.4 -768.7"
 "classname" "misc_prefab"
 }
-// entity 504
+// entity 498
 {
 "classname" "misc_prefab"
 "model" "prefabs/trash/trash_corrugated_metal4x8.map"
@@ -44895,7 +44888,7 @@ iwmap 4
 "modelscale" "0.835461"
 "origin" "-1342.5 2259.7 -803.0"
 }
-// entity 505
+// entity 499
 {
 "classname" "misc_prefab"
 "model" "prefabs/trash/trash_corrugated_metal4x8.map"
@@ -44903,7 +44896,7 @@ iwmap 4
 "modelscale" "1.288940"
 "origin" "-1457.6 2199.7 -803.0"
 }
-// entity 506
+// entity 500
 {
 "origin" "-1369.9 2157.8 -803.0"
 "modelscale" "1.011847"
@@ -44911,7 +44904,7 @@ iwmap 4
 "model" "prefabs/trash/trash_corrugated_metal2x8.map"
 "classname" "misc_prefab"
 }
-// entity 507
+// entity 501
 {
 "origin" "-1408.9 2244.3 -803.0"
 "modelscale" "0.985883"
@@ -44919,7 +44912,7 @@ iwmap 4
 "model" "prefabs/mp_backlot/fence_post_broken.map"
 "classname" "misc_prefab"
 }
-// entity 508
+// entity 502
 {
 "origin" "-1337.3 2172.7 -803.0"
 "modelscale" "1.108636"
@@ -44927,7 +44920,7 @@ iwmap 4
 "model" "prefabs/mp_backlot/fence_post_broken2.map"
 "classname" "misc_prefab"
 }
-// entity 509
+// entity 503
 {
 "classname" "func_group"
 "type" "patchCapped"
@@ -44957,7 +44950,7 @@ iwmap 4
   }
  }
 }
-// entity 510
+// entity 504
 {
 "classname" "func_group"
 "type" "patchCapped"
@@ -44987,668 +44980,668 @@ iwmap 4
   }
  }
 }
-// entity 511
+// entity 505
 {
 "origin" "-1526.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 512
+// entity 506
 {
 "origin" "-1466.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 513
+// entity 507
 {
 "origin" "-1406.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 514
+// entity 508
 {
 "origin" "-1346.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 515
+// entity 509
 {
 "origin" "-1286.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 516
+// entity 510
 {
 "origin" "-1226.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 517
+// entity 511
 {
 "origin" "-1166.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 518
+// entity 512
 {
 "origin" "-1106.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 519
+// entity 513
 {
 "origin" "-1046.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 520
+// entity 514
 {
 "origin" "-986.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 521
+// entity 515
 {
 "origin" "-926.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 522
+// entity 516
 {
 "origin" "-866.0 -202.0 -542.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 523
+// entity 517
 {
 "origin" "-806.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 524
+// entity 518
 {
 "origin" "-746.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 525
+// entity 519
 {
 "origin" "-686.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 526
+// entity 520
 {
 "origin" "-626.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 527
+// entity 521
 {
 "origin" "-566.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 528
+// entity 522
 {
 "origin" "-506.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 529
+// entity 523
 {
 "origin" "-446.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 530
+// entity 524
 {
 "origin" "-386.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 531
+// entity 525
 {
 "origin" "-326.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 532
+// entity 526
 {
 "origin" "-266.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 533
+// entity 527
 {
 "origin" "-206.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 534
+// entity 528
 {
 "origin" "-146.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 535
+// entity 529
 {
 "origin" "-86.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 536
+// entity 530
 {
 "origin" "-26.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 537
+// entity 531
 {
 "origin" "34.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 538
+// entity 532
 {
 "origin" "94.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 539
+// entity 533
 {
 "origin" "154.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 540
+// entity 534
 {
 "origin" "214.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 541
+// entity 535
 {
 "origin" "274.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 542
+// entity 536
 {
 "origin" "334.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 543
+// entity 537
 {
 "origin" "394.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 544
+// entity 538
 {
 "origin" "454.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 545
+// entity 539
 {
 "origin" "514.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 546
+// entity 540
 {
 "origin" "574.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 547
+// entity 541
 {
 "origin" "634.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 548
+// entity 542
 {
 "origin" "694.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 549
+// entity 543
 {
 "origin" "754.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 550
+// entity 544
 {
 "origin" "814.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 551
+// entity 545
 {
 "origin" "874.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 552
+// entity 546
 {
 "origin" "934.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 553
+// entity 547
 {
 "origin" "994.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 554
+// entity 548
 {
 "origin" "1054.0 -202.0 -530.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 555
+// entity 549
 {
 "origin" "1114.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 556
+// entity 550
 {
 "origin" "1174.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 557
+// entity 551
 {
 "origin" "1234.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 558
+// entity 552
 {
 "origin" "1294.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 559
+// entity 553
 {
 "origin" "1354.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 560
+// entity 554
 {
 "origin" "1414.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 561
+// entity 555
 {
 "origin" "1474.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 562
+// entity 556
 {
 "origin" "1534.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 563
+// entity 557
 {
 "origin" "1594.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 564
+// entity 558
 {
 "origin" "1654.0 -202.0 -506.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 565
+// entity 559
 {
 "origin" "1714.0 -202.0 -494.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 566
+// entity 560
 {
 "origin" "1774.0 -202.0 -494.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 567
+// entity 561
 {
 "origin" "1834.0 -202.0 -494.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 568
+// entity 562
 {
 "origin" "1894.0 -202.0 -494.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 569
+// entity 563
 {
 "origin" "1954.0 -202.0 -494.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 570
+// entity 564
 {
 "origin" "2014.0 -202.0 -494.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 571
+// entity 565
 {
 "angles" "0 350.8 0"
 "origin" "2074.1 -202.3 -494.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 572
+// entity 566
 {
 "angles" "0 270 0"
 "origin" "-1506.0 -282.0 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 573
+// entity 567
 {
 "angles" "0 201.4 0"
 "origin" "-1503.6 -342.3 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 574
+// entity 568
 {
 "angles" "0 201.4 0"
 "origin" "-1559.6 -364.3 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 575
+// entity 569
 {
 "angles" "0 201.4 0"
 "origin" "-1616.6 -387.3 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 576
+// entity 570
 {
 "angles" "0 201.4 0"
 "origin" "-1672.6 -409.3 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 577
+// entity 571
 {
 "angles" "0 209.4 0"
 "origin" "-1555.0 -204.2 -592.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 578
+// entity 572
 {
 "angles" "0 209.4 0"
 "origin" "-1607.4 -233.8 -592.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 579
+// entity 573
 {
 "angles" "0 209.4 0"
 "origin" "-1660.7 -264.5 -592.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 580
+// entity 574
 {
 "angles" "0 209.4 0"
 "origin" "-1713.1 -294.1 -592.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 581
+// entity 575
 {
 "angles" "0 270 0"
 "origin" "-1771.0 -338.0 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 582
+// entity 576
 {
 "angles" "0 180 0"
 "origin" "-1769.0 -398.0 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 583
+// entity 577
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -398.0 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 584
+// entity 578
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -458.0 -536.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 585
+// entity 579
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -518.0 -520.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 586
+// entity 580
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -578.0 -520.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 587
+// entity 581
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -638.0 -520.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 588
+// entity 582
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -698.0 -504.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 589
+// entity 583
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -758.0 -504.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 590
+// entity 584
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -818.0 -504.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 591
+// entity 585
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -882.0 -488.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 592
+// entity 586
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -946.0 -488.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 593
+// entity 587
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -1006.0 -488.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 594
+// entity 588
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -1066.0 -472.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 595
+// entity 589
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -1126.0 -472.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 596
+// entity 590
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -1186.0 -472.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 597
+// entity 591
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -1246.0 -456.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 598
+// entity 592
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -1306.0 -456.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 599
+// entity 593
 {
 "angles" "0 270 0"
 "origin" "-1830.0 -1366.0 -456.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 600
+// entity 594
 {
 "angles" "0 360 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-1336.2 -344.2 -848.0"
 "classname" "misc_prefab"
 }
-// entity 601
+// entity 595
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "-1658.0 -562.0 -680.0"
 "classname" "misc_model"
 }
-// entity 602
+// entity 596
 {
 "model" "foliage_bush_big"
 "origin" "-1752.0 -464.0 -552.0"
 "classname" "misc_model"
 }
-// entity 603
+// entity 597
 {
 "model" "foliage_bush_big"
 "origin" "-1480.0 -360.0 -552.0"
 "classname" "misc_model"
 }
-// entity 604
+// entity 598
 {
 "model" "foliage_bush_big"
 "origin" "-1456.0 -248.0 -552.0"
 "classname" "misc_model"
 }
-// entity 605
+// entity 599
 {
 "angles" "0 315 0"
 "model" "foliage_bush_big"
 "origin" "-1420.6 -252.3 -600.0"
 "classname" "misc_model"
 }
-// entity 606
+// entity 600
 {
 "angles" "0 2.50448e-006 0"
 "origin" "-2550.0 -94.0 -596.0"
 "model" "prefabs/misc_models/vehicle_bus_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 607
+// entity 601
 {
 "angles" "0 240 0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2883.3 99.3 -1008.0"
 "classname" "misc_prefab"
 }
-// entity 608
+// entity 602
 {
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "origin" "-2842.0 -46.0 -1008.0"
 "classname" "misc_prefab"
 }
-// entity 609
+// entity 603
 {
 "angles" "0 180 0"
 "model" "foliage_ivy_corner01"
 "origin" "-1983.0 -369.0 -512.0"
 "classname" "misc_model"
 }
-// entity 610
+// entity 604
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "-1112.0 -1344.0 -584.0"
 "classname" "misc_model"
 }
-// entity 611
+// entity 605
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "-1112.0 -1344.0 -584.0"
 "classname" "misc_model"
 }
-// entity 612
+// entity 606
 {
 "origin" "-464.0 -1100.0 -464.0"
 "angles" "0 90 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 613
+// entity 607
 {
 "origin" "624.0 -1004.0 -444.0"
 "angles" "0 90 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 614
+// entity 608
 {
 "origin" "-972.8 -1371.9 -464.0"
 "angles" "0 130 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 615
+// entity 609
 {
 "modelscale" "0.820044"
 "angles" "359.612 272.366 0.623615"
@@ -45656,7 +45649,7 @@ iwmap 4
 "model" "prefabs/mp_destructibles/vehicle_80s_wagon1_silv_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 616
+// entity 610
 {
 "modelscale" "0.820044"
 "angles" "357.363 272.341 -2.52387"
@@ -45664,7 +45657,7 @@ iwmap 4
 "model" "prefabs/mp_destructibles/vehicle_80s_wagon1_silv_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 617
+// entity 611
 {
 "modelscale" "0.820044"
 "angles" "357.363 272.341 -2.52387"
@@ -45672,352 +45665,352 @@ iwmap 4
 "model" "prefabs/mp_destructibles/vehicle_80s_wagon1_silv_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 618
+// entity 612
 {
 "angles" "357.873 269.931 1.861"
 "model" "vehicle_80s_hatch1_brn_destructible_mp"
 "origin" "444.0 -444.0 -555.4"
 "classname" "misc_model"
 }
-// entity 619
+// entity 613
 {
 "angles" "355.854 270.039 -0.534318"
 "model" "vehicle_80s_hatch1_brn_destructible_mp"
 "origin" "1676.0 -448.0 -562.6"
 "classname" "misc_model"
 }
-// entity 620
+// entity 614
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
 "angles" "359.09 1.76039 -4.36758"
 "origin" "-515.9 -458.8 -559.2"
 }
-// entity 621
+// entity 615
 {
 "angles" "355.912 270.001 -0.0166323"
 "origin" "736.0 -443.0 -556.4"
 "model" "prefabs/mp_destructibles/vehicle_80s_hatch2_yel_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 622
+// entity 616
 {
 "classname" "misc_prefab"
 "model" "prefabs/aa_mappa_cod/edifici/polo_aule.map"
 "angles" "0 180 0"
 "origin" "6394.0 1477.0 -804.0"
 }
-// entity 623
+// entity 617
 {
 "angles" "0 337.1 0"
 "origin" "2132.7 -211.4 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 624
+// entity 618
 {
 "angles" "0 337.1 0"
 "origin" "2188.7 -235.4 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 625
+// entity 619
 {
 "angles" "0 337.1 0"
 "origin" "2244.7 -259.4 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 626
+// entity 620
 {
 "angles" "0 337.1 0"
 "origin" "2300.7 -283.4 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 627
+// entity 621
 {
 "angles" "0 337.1 0"
 "origin" "2356.7 -307.4 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 628
+// entity 622
 {
 "angles" "0 337.1 0"
 "origin" "2412.7 -331.4 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 629
+// entity 623
 {
 "angles" "0 337.1 0"
 "origin" "2468.7 -355.4 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 630
+// entity 624
 {
 "angles" "0 202.1 0"
 "origin" "3327.0 -199.1 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 631
+// entity 625
 {
 "angles" "0 202.1 0"
 "origin" "3270.4 -221.7 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 632
+// entity 626
 {
 "angles" "0 202.1 0"
 "origin" "3157.3 -267.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 633
+// entity 627
 {
 "angles" "0 202.1 0"
 "origin" "3100.7 -289.6 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 634
+// entity 628
 {
 "angles" "0 202.1 0"
 "origin" "3044.2 -312.2 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 635
+// entity 629
 {
 "angles" "0 202.1 0"
 "origin" "2987.6 -334.9 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 636
+// entity 630
 {
 "angles" "0 202.1 0"
 "origin" "2931.6 -357.9 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 637
+// entity 631
 {
 "origin" "3326.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 638
+// entity 632
 {
 "origin" "3386.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 639
+// entity 633
 {
 "origin" "3446.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 640
+// entity 634
 {
 "origin" "3506.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 641
+// entity 635
 {
 "origin" "3566.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 642
+// entity 636
 {
 "origin" "3626.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 643
+// entity 637
 {
 "origin" "3686.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 644
+// entity 638
 {
 "origin" "3746.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 645
+// entity 639
 {
 "origin" "3806.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 646
+// entity 640
 {
 "origin" "3866.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 647
+// entity 641
 {
 "origin" "3926.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 648
+// entity 642
 {
 "origin" "3986.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 649
+// entity 643
 {
 "origin" "4046.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 650
+// entity 644
 {
 "origin" "4106.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 651
+// entity 645
 {
 "origin" "4166.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 652
+// entity 646
 {
 "origin" "4226.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 653
+// entity 647
 {
 "origin" "4286.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 654
+// entity 648
 {
 "origin" "4346.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 655
+// entity 649
 {
 "origin" "4406.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 656
+// entity 650
 {
 "origin" "4466.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 657
+// entity 651
 {
 "origin" "4526.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 658
+// entity 652
 {
 "origin" "4586.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 659
+// entity 653
 {
 "origin" "4646.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 660
+// entity 654
 {
 "origin" "4706.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 661
+// entity 655
 {
 "origin" "4766.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 662
+// entity 656
 {
 "origin" "4826.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 663
+// entity 657
 {
 "origin" "4886.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 664
+// entity 658
 {
 "origin" "4946.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 665
+// entity 659
 {
 "origin" "5006.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 666
+// entity 660
 {
 "origin" "5066.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 667
+// entity 661
 {
 "origin" "5126.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 668
+// entity 662
 {
 "origin" "5186.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 669
+// entity 663
 {
 "origin" "5246.0 -202.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 670
+// entity 664
 {
 "origin" "3720.0 -244.0 -572.0"
 "angles" "0 90 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 671
+// entity 665
 {
 "origin" "3260.4 -308.9 -556.0"
 "angles" "0 105 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 672
+// entity 666
 {
 "modelscale" "1.060242"
 "classname" "misc_prefab"
@@ -46025,43 +46018,43 @@ iwmap 4
 "angles" "0.028082 171.911 -0.00399117"
 "origin" "2628.4 -212.7 -598.0"
 }
-// entity 673
+// entity 667
 {
 "classname" "misc_model"
 "origin" "92.0 -1076.0 -580.0"
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 }
-// entity 674
+// entity 668
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "3348.0 3836.0 -948.0"
 "classname" "misc_model"
 }
-// entity 675
+// entity 669
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "3060.0 3900.0 -948.0"
 "classname" "misc_model"
 }
-// entity 676
+// entity 670
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "2812.0 3884.0 -1060.0"
 "classname" "misc_model"
 }
-// entity 677
+// entity 671
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "2684.0 3964.0 -1060.0"
 "classname" "misc_model"
 }
-// entity 678
+// entity 672
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "2460.0 4012.0 -1060.0"
 "classname" "misc_model"
 }
-// entity 679
+// entity 673
 {
 "modelscale" "0.768903"
 "angles" "359.626 64.7314 -1.1638"
@@ -46069,28 +46062,28 @@ iwmap 4
 "model" "prefabs/mp_backlot/cargo_container_backlot.map"
 "classname" "misc_prefab"
 }
-// entity 680
+// entity 674
 {
 "angles" "0 87.1 0"
 "origin" "2818.9 190.5 -594.3"
 "model" "prefabs/mp_backlot/cargo_container_backlot.map"
 "classname" "misc_prefab"
 }
-// entity 681
+// entity 675
 {
 "angles" "0 30 0"
 "model" "com_tower_crane"
 "origin" "6308.9 1725.9 -1648.0"
 "classname" "misc_model"
 }
-// entity 682
+// entity 676
 {
 "angles" "0 202.1 0"
 "origin" "3214.3 -245.0 -526.0"
 "model" "prefabs/aa_mappa_cod/fbk_fence.map"
 "classname" "misc_prefab"
 }
-// entity 683
+// entity 677
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46098,7 +46091,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2511.5 1914.5 -789.5"
 }
-// entity 684
+// entity 678
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46106,7 +46099,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2576.0 1915.5 -797.0"
 }
-// entity 685
+// entity 679
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46114,7 +46107,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2610.5 1883.0 -773.0"
 }
-// entity 686
+// entity 680
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46122,7 +46115,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2610.5 1850.0 -785.0"
 }
-// entity 687
+// entity 681
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46130,7 +46123,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2609.5 1818.0 -797.0"
 }
-// entity 688
+// entity 682
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46138,7 +46131,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2610.0 1850.5 -797.0"
 }
-// entity 689
+// entity 683
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46146,7 +46139,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2579.0 1853.5 -797.5"
 }
-// entity 690
+// entity 684
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46154,7 +46147,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2609.5 1883.0 -797.0"
 }
-// entity 691
+// entity 685
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46162,7 +46155,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2608.5 1916.0 -797.0"
 }
-// entity 692
+// entity 686
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46170,7 +46163,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2541.5 1915.0 -785.0"
 }
-// entity 693
+// entity 687
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46178,7 +46171,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2542.0 1915.5 -797.0"
 }
-// entity 694
+// entity 688
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46186,7 +46179,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2545.0 1885.0 -790.0"
 }
-// entity 695
+// entity 689
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46194,7 +46187,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2576.0 1915.0 -785.0"
 }
-// entity 696
+// entity 690
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46202,7 +46195,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2576.5 1915.0 -773.0"
 }
-// entity 697
+// entity 691
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46210,7 +46203,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2610.5 1915.0 -761.0"
 }
-// entity 698
+// entity 692
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46218,7 +46211,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2610.5 1916.0 -773.0"
 }
-// entity 699
+// entity 693
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46226,7 +46219,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2608.5 1883.5 -785.0"
 }
-// entity 700
+// entity 694
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46234,7 +46227,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2576.0 1883.5 -785.0"
 }
-// entity 701
+// entity 695
 {
 "classname" "misc_model"
 "model" "bc_military_tire04"
@@ -46242,7 +46235,7 @@ iwmap 4
 "modelscale" "0.981250"
 "origin" "2577.0 1884.5 -789.5"
 }
-// entity 702
+// entity 696
 {
 "origin" "2552.0 560.0 -609.5"
 "modelscale" "0.853296"
@@ -46250,7 +46243,7 @@ iwmap 4
 "classname" "misc_model"
 "model" "foliage_bush_big"
 }
-// entity 703
+// entity 697
 {
 "origin" "2567.9 688.2 -632.8"
 "modelscale" "1.060242"
@@ -46258,7 +46251,7 @@ iwmap 4
 "classname" "misc_model"
 "model" "foliage_bush_big"
 }
-// entity 704
+// entity 698
 {
 "origin" "2527.9 815.7 -690.0"
 "modelscale" "1.035797"
@@ -46266,7 +46259,7 @@ iwmap 4
 "classname" "misc_model"
 "model" "foliage_bush_big"
 }
-// entity 705
+// entity 699
 {
 "origin" "2582.8 953.2 -683.6"
 "modelscale" "1.261877"
@@ -46274,7 +46267,7 @@ iwmap 4
 "classname" "misc_model"
 "model" "foliage_bush_big"
 }
-// entity 706
+// entity 700
 {
 "modelscale" "0.757605"
 "angles" "2.21176 40.7703 0.617371"
@@ -46282,7 +46275,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 707
+// entity 701
 {
 "modelscale" "1.182831"
 "angles" "359.156 191.667 1.62384"
@@ -46290,7 +46283,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 708
+// entity 702
 {
 "modelscale" "0.857379"
 "angles" "359.298 220.386 -0.232408"
@@ -46298,7 +46291,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 709
+// entity 703
 {
 "modelscale" "0.930951"
 "angles" "359.27 95.3613 0.396729"
@@ -46306,7 +46299,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 710
+// entity 704
 {
 "modelscale" "1.086517"
 "angles" "357.665 147.008 1.99554"
@@ -46314,7 +46307,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 711
+// entity 705
 {
 "modelscale" "0.884039"
 "angles" "1.42685 271.428 -0.737623"
@@ -46322,7 +46315,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 712
+// entity 706
 {
 "modelscale" "0.758630"
 "angles" "1.45294 25.0818 1.44913"
@@ -46330,7 +46323,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 713
+// entity 707
 {
 "modelscale" "1.229102"
 "angles" "358.192 161.488 2.37213"
@@ -46338,7 +46331,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 714
+// entity 708
 {
 "modelscale" "0.973395"
 "angles" "0.505981 221.265 0.998688"
@@ -46346,7 +46339,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 715
+// entity 709
 {
 "modelscale" "1.060974"
 "angles" "359.225 73.3118 -0.711969"
@@ -46354,7 +46347,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 716
+// entity 710
 {
 "modelscale" "0.727045"
 "angles" "358.59 286.919 -0.984193"
@@ -46362,7 +46355,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 717
+// entity 711
 {
 "modelscale" "0.994745"
 "angles" "359.141 225.341 1.61011"
@@ -46370,7 +46363,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 718
+// entity 712
 {
 "modelscale" "1.101660"
 "angles" "359.788 73.9819 -0.339669"
@@ -46378,7 +46371,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 719
+// entity 713
 {
 "modelscale" "1.261969"
 "angles" "359.269 321.91 0.561981"
@@ -46386,7 +46379,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 720
+// entity 714
 {
 "modelscale" "0.920294"
 "angles" "359.749 229.977 0.958099"
@@ -46394,7 +46387,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 721
+// entity 715
 {
 "modelscale" "1.003571"
 "angles" "1.0881 295.818 1.00647"
@@ -46402,7 +46395,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 722
+// entity 716
 {
 "modelscale" "0.955890"
 "angles" "359.01 355.814 0.200043"
@@ -46410,7 +46403,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 723
+// entity 717
 {
 "modelscale" "0.846338"
 "angles" "358.561 141.647 1.42059"
@@ -46418,7 +46411,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 724
+// entity 718
 {
 "modelscale" "0.806110"
 "angles" "1.16699 142.745 2.13089"
@@ -46426,7 +46419,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 725
+// entity 719
 {
 "modelscale" "0.846832"
 "angles" "359.237 82.6721 0.647736"
@@ -46434,7 +46427,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 726
+// entity 720
 {
 "modelscale" "1.151190"
 "angles" "1.03836 85.8032 -0.888816"
@@ -46442,7 +46435,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 727
+// entity 721
 {
 "modelscale" "0.926630"
 "angles" "0.751648 7.00928 2.10083"
@@ -46450,7 +46443,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 728
+// entity 722
 {
 "modelscale" "1.270081"
 "angles" "1.16318 317.878 -2.42173"
@@ -46458,7 +46451,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 729
+// entity 723
 {
 "modelscale" "0.780585"
 "angles" "359.496 113.829 -0.886986"
@@ -46466,7 +46459,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 730
+// entity 724
 {
 "modelscale" "0.853754"
 "angles" "358.031 250.895 -0.589463"
@@ -46474,7 +46467,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 731
+// entity 725
 {
 "modelscale" "0.936389"
 "angles" "2.23068 280.668 0.468903"
@@ -46482,7 +46475,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 732
+// entity 726
 {
 "modelscale" "0.794867"
 "angles" "1.91055 65.6653 -2.33324"
@@ -46490,7 +46483,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 733
+// entity 727
 {
 "modelscale" "0.948016"
 "angles" "357.914 140.251 2.47589"
@@ -46498,7 +46491,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 734
+// entity 728
 {
 "modelscale" "0.706775"
 "angles" "0.155792 46.2085 -0.886084"
@@ -46506,7 +46499,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 735
+// entity 729
 {
 "modelscale" "1.288446"
 "angles" "0.413971 145.173 -2.16355"
@@ -46514,7 +46507,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 736
+// entity 730
 {
 "modelscale" "1.164960"
 "angles" "0.771179 315.835 2.02133"
@@ -46522,7 +46515,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 737
+// entity 731
 {
 "modelscale" "0.862689"
 "angles" "358.568 71.1914 1.18958"
@@ -46530,7 +46523,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 738
+// entity 732
 {
 "modelscale" "1.092651"
 "angles" "359.59 329.447 1.26556"
@@ -46538,7 +46531,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 739
+// entity 733
 {
 "modelscale" "1.108673"
 "angles" "1.4296 61.4465 0.486298"
@@ -46546,7 +46539,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 740
+// entity 734
 {
 "modelscale" "0.783661"
 "angles" "358.817 343.696 0.210419"
@@ -46554,7 +46547,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 741
+// entity 735
 {
 "modelscale" "0.839124"
 "angles" "2.30118 137.593 -2.48765"
@@ -46562,7 +46555,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 742
+// entity 736
 {
 "modelscale" "0.716040"
 "angles" "1.3472 218.002 -0.647574"
@@ -46570,7 +46563,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 743
+// entity 737
 {
 "modelscale" "0.962939"
 "angles" "357.564 199.061 0.70694"
@@ -46578,7 +46571,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 744
+// entity 738
 {
 "modelscale" "0.794299"
 "angles" "358.619 130.847 1.58249"
@@ -46586,7 +46579,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 745
+// entity 739
 {
 "modelscale" "1.047296"
 "angles" "358.929 121.179 -1.19691"
@@ -46594,7 +46587,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 746
+// entity 740
 {
 "modelscale" "1.262170"
 "angles" "2.41364 327.601 -0.941764"
@@ -46602,7 +46595,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 747
+// entity 741
 {
 "modelscale" "0.710400"
 "angles" "1.3266 185.087 -1.95785"
@@ -46610,7 +46603,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 748
+// entity 742
 {
 "modelscale" "1.173566"
 "angles" "0.784454 97.5366 -2.34895"
@@ -46618,7 +46611,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 749
+// entity 743
 {
 "modelscale" "0.907642"
 "angles" "1.83105 49.1968 0.82016"
@@ -46626,7 +46619,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 750
+// entity 744
 {
 "modelscale" "1.278137"
 "angles" "2.16064 137.131 0.753479"
@@ -46634,7 +46627,7 @@ iwmap 4
 "model" "foliage_grass_short_squareclump"
 "classname" "misc_model"
 }
-// entity 751
+// entity 745
 {
 "origin" "2556.5 1317.1 -753.9"
 "modelscale" "1.219543"
@@ -46642,7 +46635,7 @@ iwmap 4
 "classname" "misc_model"
 "model" "foliage_bush_big"
 }
-// entity 752
+// entity 746
 {
 "model" "foliage_bush_big"
 "classname" "misc_model"
@@ -46650,7 +46643,7 @@ iwmap 4
 "modelscale" "0.924597"
 "origin" "2554.5 2170.9 -732.3"
 }
-// entity 753
+// entity 747
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46658,7 +46651,7 @@ iwmap 4
 "angles" "0.775909 69.9499 0.109253"
 "modelscale" "0.896802"
 }
-// entity 754
+// entity 748
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46666,7 +46659,7 @@ iwmap 4
 "angles" "0.650024 124.387 1.55121"
 "modelscale" "1.177338"
 }
-// entity 755
+// entity 749
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46674,7 +46667,7 @@ iwmap 4
 "angles" "1.97235 206.268 -0.879226"
 "modelscale" "1.215369"
 }
-// entity 756
+// entity 750
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46682,7 +46675,7 @@ iwmap 4
 "angles" "359.637 134.176 1.77979"
 "modelscale" "1.181659"
 }
-// entity 757
+// entity 751
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46690,7 +46683,7 @@ iwmap 4
 "angles" "359.911 169.321 0.779572"
 "modelscale" "1.158423"
 }
-// entity 758
+// entity 752
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46698,7 +46691,7 @@ iwmap 4
 "angles" "0.712891 101.799 -0.222326"
 "modelscale" "1.295990"
 }
-// entity 759
+// entity 753
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46706,7 +46699,7 @@ iwmap 4
 "angles" "358.428 161.642 -0.561076"
 "modelscale" "0.892554"
 }
-// entity 760
+// entity 754
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46714,7 +46707,7 @@ iwmap 4
 "angles" "359.573 165.52 0.423889"
 "modelscale" "1.253088"
 }
-// entity 761
+// entity 755
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46722,7 +46715,7 @@ iwmap 4
 "angles" "358.069 330.71 1.17294"
 "modelscale" "1.283997"
 }
-// entity 762
+// entity 756
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46730,7 +46723,7 @@ iwmap 4
 "angles" "1.40869 167.355 -0.609434"
 "modelscale" "0.879462"
 }
-// entity 763
+// entity 757
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46738,7 +46731,7 @@ iwmap 4
 "angles" "1.50635 320.328 -1.36095"
 "modelscale" "1.055756"
 }
-// entity 764
+// entity 758
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46746,7 +46739,7 @@ iwmap 4
 "angles" "358.504 172.013 -1.05651"
 "modelscale" "0.890045"
 }
-// entity 765
+// entity 759
 {
 "model" "foliage_bush_big"
 "classname" "misc_model"
@@ -46754,7 +46747,7 @@ iwmap 4
 "modelscale" "1.253803"
 "origin" "2545.1 2513.5 -751.4"
 }
-// entity 766
+// entity 760
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46762,7 +46755,7 @@ iwmap 4
 "angles" "358.689 95.614 2.1698"
 "modelscale" "1.194751"
 }
-// entity 767
+// entity 761
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46770,7 +46763,7 @@ iwmap 4
 "angles" "0.00350952 28.6523 0.162659"
 "modelscale" "0.948053"
 }
-// entity 768
+// entity 762
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46778,7 +46771,7 @@ iwmap 4
 "angles" "359.678 218.771 1.26572"
 "modelscale" "0.919379"
 }
-// entity 769
+// entity 763
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46786,7 +46779,7 @@ iwmap 4
 "angles" "358.884 330.623 1.60446"
 "modelscale" "1.119843"
 }
-// entity 770
+// entity 764
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46794,7 +46787,7 @@ iwmap 4
 "angles" "1.11588 131.221 1.15204"
 "modelscale" "0.895703"
 }
-// entity 771
+// entity 765
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46802,7 +46795,7 @@ iwmap 4
 "angles" "1.22269 195.436 -1.15478"
 "modelscale" "0.731018"
 }
-// entity 772
+// entity 766
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46810,7 +46803,7 @@ iwmap 4
 "angles" "358.949 194.93 -0.472885"
 "modelscale" "0.967169"
 }
-// entity 773
+// entity 767
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46818,7 +46811,7 @@ iwmap 4
 "angles" "358.726 159.148 -1.18973"
 "modelscale" "0.982935"
 }
-// entity 774
+// entity 768
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46826,7 +46819,7 @@ iwmap 4
 "angles" "359.912 197.194 -0.547498"
 "modelscale" "0.878821"
 }
-// entity 775
+// entity 769
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46834,7 +46827,7 @@ iwmap 4
 "angles" "359.224 109.303 0.341034"
 "modelscale" "0.809460"
 }
-// entity 776
+// entity 770
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46842,7 +46835,7 @@ iwmap 4
 "angles" "359.551 136.714 1.67709"
 "modelscale" "1.207825"
 }
-// entity 777
+// entity 771
 {
 "classname" "misc_model"
 "model" "foliage_grass_short_squareclump"
@@ -46850,56 +46843,56 @@ iwmap 4
 "angles" "1.89178 318.56 2.45605"
 "modelscale" "0.844928"
 }
-// entity 778
+// entity 772
 {
 "classname" "misc_model"
 "model" "foliage_hedge_wall_group_flip_1"
 "angles" "0 179 0"
 "origin" "6441.7 1140.5 -784.0"
 }
-// entity 779
+// entity 773
 {
 "classname" "misc_model"
 "model" "foliage_hedge_wall_group_flip_1"
 "angles" "0 181 0"
 "origin" "6501.3 554.6 -784.0"
 }
-// entity 780
+// entity 774
 {
 "origin" "1368.0 -1004.0 -416.0"
 "angles" "0 90 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 781
+// entity 775
 {
 "origin" "2016.0 -980.0 -479.6"
 "angles" "0 90 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 782
+// entity 776
 {
 "origin" "2760.0 -1084.0 -537.0"
 "angles" "0 90 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 783
+// entity 777
 {
 "origin" "1784.0 -1116.0 -427.5"
 "angles" "0 90 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 784
+// entity 778
 {
 "origin" "-1909.2 488.7 -679.6"
 "angles" "9.99588 90.3678 1.41765"
 "model" "prefabs/misc_models/vehicle_m1a1_abrams_dmg.map"
 "classname" "misc_prefab"
 }
-// entity 785
+// entity 779
 {
 "modelscale" "1.028217"
 "origin" "-2034.1 -99.3 -592.0"
@@ -46907,7 +46900,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 786
+// entity 780
 {
 "origin" "-1828.2 -116.4 -592.0"
 "modelscale" "0.775275"
@@ -46915,7 +46908,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 787
+// entity 781
 {
 "origin" "-1914.1 -154.8 -597.4"
 "modelscale" "0.889478"
@@ -46923,7 +46916,7 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 788
+// entity 782
 {
 "modelscale" "1.028217"
 "origin" "-2070.1 -275.3 -592.5"
@@ -46931,7 +46924,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 789
+// entity 783
 {
 "origin" "-1864.2 -292.4 -593.8"
 "modelscale" "0.775275"
@@ -46939,7 +46932,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 790
+// entity 784
 {
 "origin" "-1950.1 -330.8 -587.6"
 "modelscale" "0.889478"
@@ -46947,62 +46940,62 @@ iwmap 4
 "model" "prefabs/trash/trash_milkcarton.map"
 "classname" "misc_prefab"
 }
-// entity 791
+// entity 785
 {
 "origin" "-1393.7 -361.5 -566.0"
 "angles" "0 112 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 792
+// entity 786
 {
 "origin" "-1271.5 -545.6 -565.3"
 "angles" "0 316 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 793
+// entity 787
 {
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "-1076.0 -344.0 -680.0"
 "classname" "misc_model"
 }
-// entity 794
+// entity 788
 {
 "origin" "-2475.9 -226.0 -512.0"
 "angles" "0 90 0"
 "model" "foliage_hedge_wall_group_flip_1"
 "classname" "misc_model"
 }
-// entity 795
+// entity 789
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "-1010.8 297.0 -591.0"
 "classname" "misc_prefab"
 }
-// entity 796
+// entity 790
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "-1461.8 313.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 797
+// entity 791
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "1610.2 289.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 798
+// entity 792
 {
 "angles" "0 310.8 0"
 "model" "prefabs/misc_models/foliage_tree_grey_oak_sm_a.map"
 "origin" "2301.2 297.0 -575.0"
 "classname" "misc_prefab"
 }
-// entity 799
+// entity 793
 {
 "modelscale" "1.060242"
 "origin" "-2076.2 -335.0 -510.1"
@@ -47010,79 +47003,79 @@ iwmap 4
 "model" "foliage_hedge_wall_3"
 "classname" "misc_model"
 }
-// entity 800
+// entity 794
 {
 "model" "foliage_bush_big"
 "origin" "-2072.0 -288.0 -520.0"
 "classname" "misc_model"
 }
-// entity 801
+// entity 795
 {
 "model" "foliage_bush_big"
 "origin" "-2048.0 -328.0 -520.0"
 "classname" "misc_model"
 }
-// entity 802
+// entity 796
 {
 "model" "foliage_bush_big"
 "origin" "-2040.0 -368.0 -520.0"
 "classname" "misc_model"
 }
-// entity 803
+// entity 797
 {
 "angles" "0 299 0"
 "model" "foliage_tree_grey_oak_xl_a_shadow"
 "origin" "-2091.5 -1108.9 -384.0"
 "classname" "misc_model"
 }
-// entity 804
+// entity 798
 {
 "origin" "-2439.0 338.0 -1626.0"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 805
+// entity 799
 {
 "origin" "-2204.2 -52.0 -578.0"
 "angles" "8.33113e-006 342 90"
 "model" "prefabs/misc_models/com_barrel_green_rust.map"
 "classname" "misc_prefab"
 }
-// entity 806
+// entity 800
 {
 "origin" "-2219.6 -111.4 -578.0"
 "angles" "8.33113e-006 308 90"
 "model" "prefabs/misc_models/com_barrel_green_rust.map"
 "classname" "misc_prefab"
 }
-// entity 807
+// entity 801
 {
 "origin" "-2195.8 -110.0 -589.1"
 "angles" "343.5 0 0"
 "model" "com_barrel_blue_rust"
 "classname" "misc_model"
 }
-// entity 808
+// entity 802
 {
 "origin" "-2240.0 -60.0 -592.0"
 "model" "com_barrel_biohazard_rust"
 "classname" "misc_model"
 }
-// entity 809
+// entity 803
 {
 "origin" "-1696.9 -369.8 -596.0"
 "angles" "0 114.5 0"
 "model" "me_dumpster_close"
 "classname" "misc_model"
 }
-// entity 810
+// entity 804
 {
 "origin" "-1594.9 -317.8 -596.0"
 "angles" "0 114.5 0"
 "model" "me_dumpster_close"
 "classname" "misc_model"
 }
-// entity 811
+// entity 805
 {
 "origin" "-1851.7 -360.1 -583.6"
 "modelscale" "0.853296"
@@ -47090,21 +47083,21 @@ iwmap 4
 "model" "mil_razorwire_mid"
 "classname" "misc_model"
 }
-// entity 812
+// entity 806
 {
 "classname" "misc_model"
 "model" "com_barrel_blue_rust"
 "angles" "343.5 72 2.79192e-005"
 "origin" "2318.4 -244.6 -577.1"
 }
-// entity 813
+// entity 807
 {
 "classname" "misc_prefab"
 "model" "prefabs/misc_models/com_barrel_green_rust.map"
 "angles" "8.33113e-006 66 90"
 "origin" "2258.5 -234.6 -566.0"
 }
-// entity 814
+// entity 808
 {
 "modelscale" "0.961292"
 "origin" "2344.2 -45.1 -594.2"
@@ -47112,7 +47105,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 815
+// entity 809
 {
 "modelscale" "0.938660"
 "origin" "2349.1 -53.5 -593.6"
@@ -47120,7 +47113,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64a.map"
 "classname" "misc_prefab"
 }
-// entity 816
+// entity 810
 {
 "modelscale" "0.828448"
 "origin" "2350.1 -177.1 -582.1"
@@ -47128,7 +47121,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 817
+// entity 811
 {
 "modelscale" "0.961292"
 "origin" "2232.3 -109.9 -592.0"
@@ -47136,7 +47129,7 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64.map"
 "classname" "misc_prefab"
 }
-// entity 818
+// entity 812
 {
 "modelscale" "0.938660"
 "origin" "2241.8 -107.8 -592.0"
@@ -47144,14 +47137,14 @@ iwmap 4
 "model" "prefabs/trash/trash_128x64a.map"
 "classname" "misc_prefab"
 }
-// entity 819
+// entity 813
 {
 "classname" "misc_prefab"
 "model" "prefabs/mp_backlot/cargo_container_backlot.map"
 "origin" "1911.9 33.7 -592.0"
 "angles" "0 57.1 0"
 }
-// entity 820
+// entity 814
 {
 "modelscale" "0.820044"
 "angles" "357.363 272.341 -2.52387"
@@ -47159,7 +47152,7 @@ iwmap 4
 "model" "prefabs/mp_destructibles/vehicle_80s_wagon1_silv_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 821
+// entity 815
 {
 "modelscale" "0.820044"
 "angles" "357.363 272.341 -2.52387"
@@ -47167,49 +47160,49 @@ iwmap 4
 "model" "prefabs/mp_destructibles/vehicle_80s_wagon1_silv_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 822
+// entity 816
 {
 "angles" "357.873 269.931 1.861"
 "model" "vehicle_80s_hatch1_brn_destructible_mp"
 "origin" "28.0 -448.0 -555.4"
 "classname" "misc_model"
 }
-// entity 823
+// entity 817
 {
 "angles" "357.873 269.931 1.861"
 "model" "vehicle_80s_hatch1_brn_destructible_mp"
 "origin" "956.0 -440.0 -555.4"
 "classname" "misc_model"
 }
-// entity 824
+// entity 818
 {
 "origin" "2408.6 1967.6 -803.0"
 "angles" "0 169 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 825
+// entity 819
 {
 "origin" "2309.5 1972.8 -803.0"
 "angles" "0 184.002 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 826
+// entity 820
 {
 "origin" "2137.0 1993.6 -803.0"
 "angles" "0 201 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 827
+// entity 821
 {
 "origin" "2211.5 1967.6 -803.0"
 "angles" "0 177.004 0"
 "model" "prefabs/misc_models/com_concrete_barrier_lg.map"
 "classname" "misc_prefab"
 }
-// entity 828
+// entity 822
 {
 "modelscale" "0.727704"
 "origin" "2231.5 -207.3 -582.2"
@@ -47217,7 +47210,7 @@ iwmap 4
 "model" "prefabs/misc_models/com_trashbag2_green.map"
 "classname" "misc_prefab"
 }
-// entity 829
+// entity 823
 {
 "modelscale" "0.848114"
 "origin" "2297.8 -213.4 -582.1"
@@ -47225,7 +47218,7 @@ iwmap 4
 "model" "prefabs/misc_models/com_trashbag2_green.map"
 "classname" "misc_prefab"
 }
-// entity 830
+// entity 824
 {
 "modelscale" "0.727704"
 "origin" "-1616.4 -271.1 -597.0"
@@ -47233,7 +47226,7 @@ iwmap 4
 "model" "prefabs/misc_models/com_trashbag2_green.map"
 "classname" "misc_prefab"
 }
-// entity 831
+// entity 825
 {
 "modelscale" "0.848114"
 "origin" "-1558.6 -238.1 -598.8"
@@ -47241,125 +47234,120 @@ iwmap 4
 "model" "prefabs/misc_models/com_trashbag2_green.map"
 "classname" "misc_prefab"
 }
-// entity 832
+// entity 826
 {
 "classname" "misc_prefab"
 "origin" "-2692.2 3500.7 -1128.0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "angles" "0 73 0"
 }
-// entity 833
+// entity 827
 {
 "classname" "misc_prefab"
 "origin" "-2508.2 3596.7 -1128.0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "angles" "0 73 0"
 }
-// entity 834
+// entity 828
 {
 "classname" "misc_prefab"
 "origin" "-2308.2 3604.7 -1296.0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "angles" "0 73 0"
 }
-// entity 835
+// entity 829
 {
 "classname" "misc_prefab"
 "origin" "-2272.2 3332.7 -1128.0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "angles" "0 73 0"
 }
-// entity 836
+// entity 830
 {
 "classname" "misc_prefab"
 "origin" "-2476.2 3400.7 -1008.0"
 "model" "prefabs/misc_models/foliage_red_pine_xxl.map"
 "angles" "0 73 0"
 }
-// entity 837
+// entity 831
 {
 "origin" "-300.1 93.6 -592.4"
 "angles" "0 10 0"
 "model" "prefabs/misc_models/vehicle_tanker_truck.map"
 "classname" "misc_prefab"
 }
-// entity 838
+// entity 832
 {
 "origin" "2266.4 2315.4 -808.0"
 "angles" "0 40 0"
 "model" "prefabs/misc_models/vehicle_tanker_truck_civ.map"
 "classname" "misc_prefab"
 }
-// entity 839
+// entity 833
 {
 "origin" "3494.7 -61.0 -596.0"
 "angles" "9.79201e-006 270 0.000116564"
 "model" "prefabs/misc_models/vehicle_tanker_truck_civ.map"
 "classname" "misc_prefab"
 }
-// entity 840
+// entity 834
 {
 "angles" "0 20 0"
 "origin" "1923.0 1279.7 -803.0"
 "model" "prefabs/mp_destructibles/vehicle_80s_hatch2_yel_destructible.map"
 "classname" "misc_prefab"
 }
-// entity 841
+// entity 835
 {
 "origin" "8.0 1320.0 -504.0"
 "classname" "reflection_probe"
 }
-// entity 842
+// entity 836
 {
 "origin" "8.0 1128.0 -504.0"
 "classname" "reflection_probe"
 }
-// entity 843
+// entity 837
 {
 "origin" "8.0 872.0 -504.0"
 "classname" "reflection_probe"
 }
-// entity 844
+// entity 838
 {
 "origin" "8.0 616.0 -504.0"
 "classname" "reflection_probe"
 }
-// entity 845
-{
-"origin" "8.0 616.0 -248.0"
-"classname" "reflection_probe"
-}
-// entity 846
+// entity 839
 {
 "origin" "8.0 1000.0 -248.0"
 "classname" "reflection_probe"
 }
-// entity 847
+// entity 840
 {
 "origin" "8.0 1320.0 -248.0"
 "classname" "reflection_probe"
 }
-// entity 848
+// entity 841
 {
 "origin" "-888.0 744.0 -504.0"
 "classname" "reflection_probe"
 }
-// entity 849
+// entity 842
 {
 "origin" "-376.0 744.0 -504.0"
 "classname" "reflection_probe"
 }
-// entity 850
+// entity 843
 {
 "origin" "392.0 744.0 -504.0"
 "classname" "reflection_probe"
 }
-// entity 851
+// entity 844
 {
 "origin" "1032.0 744.0 -504.0"
 "classname" "reflection_probe"
 }
-// entity 852
+// entity 845
 {
 "modelscale" "0.794867"
 "angles" "359.995 65.6162 1.46683"
@@ -47367,7 +47355,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 853
+// entity 846
 {
 "origin" "2616.0 27.5 -595.5"
 "modelscale" "0.853754"
@@ -47375,7 +47363,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 854
+// entity 847
 {
 "origin" "2649.7 45.0 -595.3"
 "modelscale" "0.907642"
@@ -47383,7 +47371,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 855
+// entity 848
 {
 "origin" "2645.9 -9.2 -596.1"
 "modelscale" "0.706775"
@@ -47391,7 +47379,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 856
+// entity 849
 {
 "origin" "2637.7 41.5 -595.1"
 "modelscale" "0.862689"
@@ -47399,7 +47387,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 857
+// entity 850
 {
 "origin" "2649.6 -2.5 -596.0"
 "modelscale" "0.948016"
@@ -47407,7 +47395,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 858
+// entity 851
 {
 "modelscale" "0.705292"
 "angles" "34.9143 90.2576 88.7942"
@@ -47415,7 +47403,7 @@ iwmap 4
 "origin" "4836.5 553.5 -799.0"
 "classname" "misc_prefab"
 }
-// entity 859
+// entity 852
 {
 "type" "clutter"
 "origin" "4825.1 607.0 -803.0"
@@ -47424,7 +47412,7 @@ iwmap 4
 "model" "me_plastic_crate10"
 "classname" "dyn_model"
 }
-// entity 860
+// entity 853
 {
 "origin" "4894.9 531.3 -803.0"
 "modelscale" "1.138959"
@@ -47432,7 +47420,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 861
+// entity 854
 {
 "modelscale" "0.803693"
 "origin" "4908.2 517.5 -803.0"
@@ -47440,7 +47428,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 862
+// entity 855
 {
 "modelscale" "0.780585"
 "angles" "1.61216 113.926 2.6231"
@@ -47448,7 +47436,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 863
+// entity 856
 {
 "origin" "2636.8 -54.2 -593.1"
 "modelscale" "0.936389"
@@ -47456,7 +47444,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 864
+// entity 857
 {
 "origin" "2639.8 -34.5 -594.6"
 "modelscale" "1.278137"
@@ -47464,7 +47452,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 865
+// entity 858
 {
 "origin" "2661.2 -72.9 -592.1"
 "modelscale" "0.926630"
@@ -47472,7 +47460,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 866
+// entity 859
 {
 "origin" "2657.1 -33.9 -594.7"
 "modelscale" "1.270081"
@@ -47480,7 +47468,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 867
+// entity 860
 {
 "origin" "2643.9 -68.9 -592.1"
 "modelscale" "0.846832"
@@ -47488,7 +47476,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 868
+// entity 861
 {
 "modelscale" "1.151190"
 "angles" "14.9608 86.1156 1.29791"
@@ -47496,7 +47484,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 869
+// entity 862
 {
 "origin" "2800.0 352.6 -607.5"
 "modelscale" "0.806110"
@@ -47504,7 +47492,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 870
+// entity 863
 {
 "origin" "2795.7 367.3 -609.6"
 "modelscale" "0.846338"
@@ -47512,7 +47500,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 871
+// entity 864
 {
 "origin" "2853.7 342.7 -607.8"
 "modelscale" "0.955890"
@@ -47520,7 +47508,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 872
+// entity 865
 {
 "origin" "2861.1 372.8 -614.8"
 "modelscale" "1.003571"
@@ -47528,7 +47516,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 873
+// entity 866
 {
 "origin" "2838.0 325.9 -605.5"
 "modelscale" "0.920294"
@@ -47536,7 +47524,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 874
+// entity 867
 {
 "modelscale" "1.261969"
 "angles" "357.423 322.14 -7.09206"
@@ -47544,7 +47532,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 875
+// entity 868
 {
 "origin" "2815.4 304.2 -600.6"
 "modelscale" "1.101660"
@@ -47552,7 +47540,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 876
+// entity 869
 {
 "origin" "2802.5 285.4 -598.4"
 "modelscale" "0.994745"
@@ -47560,7 +47548,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 877
+// entity 870
 {
 "origin" "2859.2 295.4 -601.1"
 "modelscale" "1.060974"
@@ -47568,7 +47556,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 878
+// entity 871
 {
 "origin" "2872.5 309.1 -603.2"
 "modelscale" "0.727045"
@@ -47576,7 +47564,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 879
+// entity 872
 {
 "origin" "2847.3 263.6 -600.2"
 "modelscale" "0.973395"
@@ -47584,7 +47572,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 880
+// entity 873
 {
 "modelscale" "1.229102"
 "angles" "3.57348 162.114 6.64167"
@@ -47592,7 +47580,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 881
+// entity 874
 {
 "origin" "2830.1 470.6 -634.2"
 "modelscale" "0.758630"
@@ -47600,7 +47588,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 882
+// entity 875
 {
 "origin" "2829.6 429.6 -629.1"
 "modelscale" "0.884039"
@@ -47608,7 +47596,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 883
+// entity 876
 {
 "origin" "2851.0 447.9 -631.5"
 "modelscale" "1.086517"
@@ -47616,7 +47604,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 884
+// entity 877
 {
 "origin" "2874.2 471.9 -632.2"
 "modelscale" "0.930951"
@@ -47624,7 +47612,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 885
+// entity 878
 {
 "origin" "2841.4 400.3 -622.3"
 "modelscale" "0.857379"
@@ -47632,7 +47620,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 886
+// entity 879
 {
 "modelscale" "0.982935"
 "angles" "353.251 158.96 1.96561"
@@ -47640,7 +47628,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 887
+// entity 880
 {
 "origin" "2862.0 32.3 -599.8"
 "modelscale" "0.878821"
@@ -47648,7 +47636,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 888
+// entity 881
 {
 "origin" "2860.3 16.9 -599.8"
 "modelscale" "0.809460"
@@ -47656,7 +47644,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 889
+// entity 882
 {
 "origin" "2870.3 40.9 -599.4"
 "modelscale" "1.207825"
@@ -47664,7 +47652,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 890
+// entity 883
 {
 "origin" "2932.2 34.6 -594.5"
 "modelscale" "0.844928"
@@ -47672,7 +47660,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 891
+// entity 884
 {
 "origin" "2865.2 -9.2 -598.6"
 "modelscale" "0.768903"
@@ -47680,7 +47668,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 892
+// entity 885
 {
 "modelscale" "1.119843"
 "angles" "0.834195 330.489 -3.92889"
@@ -47688,7 +47676,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 893
+// entity 886
 {
 "origin" "2777.1 -29.8 -596.1"
 "modelscale" "0.895703"
@@ -47696,7 +47684,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 894
+// entity 887
 {
 "origin" "2775.0 -80.7 -592.9"
 "modelscale" "0.731018"
@@ -47704,7 +47692,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 895
+// entity 888
 {
 "origin" "2797.9 -50.1 -594.3"
 "modelscale" "0.919379"
@@ -47712,7 +47700,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 896
+// entity 889
 {
 "origin" "2832.8 -51.1 -593.9"
 "modelscale" "0.967169"
@@ -47720,7 +47708,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 897
+// entity 890
 {
 "origin" "2791.2 -71.9 -592.9"
 "modelscale" "0.948053"
@@ -47728,7 +47716,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 898
+// entity 891
 {
 "modelscale" "0.867084"
 "angles" "0.0328866 93.2492 -0.25937"
@@ -47736,7 +47724,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 899
+// entity 892
 {
 "origin" "3042.1 169.7 -592.4"
 "modelscale" "1.294836"
@@ -47744,7 +47732,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_02"
 "classname" "misc_model"
 }
-// entity 900
+// entity 893
 {
 "origin" "3032.5 146.0 -592.0"
 "modelscale" "0.915076"
@@ -47752,7 +47740,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 901
+// entity 894
 {
 "origin" "3090.6 165.2 -592.9"
 "modelscale" "0.791919"
@@ -47760,7 +47748,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 902
+// entity 895
 {
 "origin" "3079.8 153.8 -592.2"
 "modelscale" "1.282459"
@@ -47768,7 +47756,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 903
+// entity 896
 {
 "origin" "3031.9 124.8 -592.0"
 "modelscale" "0.770404"
@@ -47776,7 +47764,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 904
+// entity 897
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -47785,7 +47773,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 905
+// entity 898
 {
 "origin" "3162.0 98.9 -593.3"
 "modelscale" "0.950012"
@@ -47793,7 +47781,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 906
+// entity 899
 {
 "origin" "2989.2 -66.5 -592.3"
 "modelscale" "1.104150"
@@ -47801,7 +47789,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox04.map"
 "classname" "misc_prefab"
 }
-// entity 907
+// entity 900
 {
 "origin" "3104.8 -7.9 -596.9"
 "modelscale" "1.240363"
@@ -47809,7 +47797,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 908
+// entity 901
 {
 "modelscale" "1.004083"
 "origin" "3085.2 -23.3 -596.6"
@@ -47817,7 +47805,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 909
+// entity 902
 {
 "origin" "3348.2 12.7 -592.2"
 "modelscale" "1.282459"
@@ -47825,7 +47813,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 910
+// entity 903
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -47834,7 +47822,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 911
+// entity 904
 {
 "origin" "3433.6 62.5 -593.3"
 "modelscale" "0.950012"
@@ -47842,7 +47830,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 912
+// entity 905
 {
 "origin" "3504.5 -35.7 -596.9"
 "modelscale" "1.240363"
@@ -47850,7 +47838,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 913
+// entity 906
 {
 "modelscale" "1.004083"
 "origin" "3509.7 -60.1 -596.6"
@@ -47858,7 +47846,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 914
+// entity 907
 {
 "origin" "3288.8 -37.2 -592.2"
 "modelscale" "1.282459"
@@ -47866,7 +47854,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 915
+// entity 908
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -47875,7 +47863,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 916
+// entity 909
 {
 "origin" "3267.9 59.4 -593.3"
 "modelscale" "0.950012"
@@ -47883,7 +47871,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 917
+// entity 910
 {
 "origin" "3383.2 96.5 -596.9"
 "modelscale" "1.240363"
@@ -47891,7 +47879,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 918
+// entity 911
 {
 "modelscale" "1.004083"
 "origin" "3408.0 93.9 -596.6"
@@ -47899,7 +47887,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 919
+// entity 912
 {
 "origin" "3682.4 75.9 -592.2"
 "modelscale" "1.282459"
@@ -47907,7 +47895,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 920
+// entity 913
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -47916,7 +47904,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 921
+// entity 914
 {
 "origin" "3781.0 69.3 -593.3"
 "modelscale" "0.950012"
@@ -47924,7 +47912,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 922
+// entity 915
 {
 "origin" "3784.9 -51.7 -596.9"
 "modelscale" "1.240363"
@@ -47932,7 +47920,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 923
+// entity 916
 {
 "modelscale" "1.004083"
 "origin" "3775.6 -74.9 -596.6"
@@ -47940,7 +47928,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 924
+// entity 917
 {
 "origin" "3656.7 25.8 -592.2"
 "modelscale" "1.282459"
@@ -47948,7 +47936,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 925
+// entity 918
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -47957,7 +47945,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 926
+// entity 919
 {
 "origin" "3738.4 81.3 -593.3"
 "modelscale" "0.950012"
@@ -47965,7 +47953,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 927
+// entity 920
 {
 "origin" "3816.0 -11.6 -596.9"
 "modelscale" "1.240363"
@@ -47973,7 +47961,7 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
-// entity 928
+// entity 921
 {
 "modelscale" "1.004083"
 "origin" "3823.0 -35.6 -596.6"
@@ -47981,7 +47969,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 929
+// entity 922
 {
 "origin" "3700.5 42.8 -592.2"
 "modelscale" "1.282459"
@@ -47989,7 +47977,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 930
+// entity 923
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -47998,7 +47986,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 931
+// entity 924
 {
 "origin" "3724.7 -53.0 -593.3"
 "modelscale" "0.950012"
@@ -48006,7 +47994,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 932
+// entity 925
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -48015,7 +48003,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 933
+// entity 926
 {
 "origin" "3723.0 -8.8 -593.3"
 "modelscale" "0.950012"
@@ -48023,7 +48011,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 934
+// entity 927
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -48032,7 +48020,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 935
+// entity 928
 {
 "origin" "2234.0 138.9 -593.3"
 "modelscale" "0.950012"
@@ -48040,7 +48028,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 936
+// entity 929
 {
 "modelscale" "1.004083"
 "origin" "2157.2 16.7 -596.6"
@@ -48048,7 +48036,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 937
+// entity 930
 {
 "origin" "2360.8 2.8 -592.2"
 "modelscale" "1.282459"
@@ -48056,7 +48044,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 938
+// entity 931
 {
 "origin" "2339.9 99.4 -593.3"
 "modelscale" "0.950012"
@@ -48064,7 +48052,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 939
+// entity 932
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -48073,7 +48061,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 940
+// entity 933
 {
 "origin" "2251.9 -72.8 -593.3"
 "modelscale" "0.950012"
@@ -48081,7 +48069,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 941
+// entity 934
 {
 "modelscale" "1.004083"
 "origin" "2296.9 64.4 -596.6"
@@ -48089,7 +48077,7 @@ iwmap 4
 "model" "prefabs/bog/rubble/cinderblock_clutter.map"
 "classname" "misc_prefab"
 }
-// entity 942
+// entity 935
 {
 "origin" "2096.0 28.6 -592.2"
 "modelscale" "1.282459"
@@ -48097,7 +48085,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 943
+// entity 936
 {
 "origin" "2139.6 -60.1 -593.3"
 "modelscale" "0.950012"
@@ -48105,7 +48093,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 944
+// entity 937
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -48114,7 +48102,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 945
+// entity 938
 {
 "origin" "2072.0 -35.1 -592.0"
 "modelscale" "0.950012"
@@ -48122,7 +48110,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 946
+// entity 939
 {
 "origin" "2177.9 -74.6 -592.3"
 "modelscale" "0.950012"
@@ -48130,7 +48118,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 947
+// entity 940
 {
 "origin" "-110.3 51.0 -595.3"
 "modelscale" "0.907642"
@@ -48138,7 +48126,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 948
+// entity 941
 {
 "modelscale" "0.982935"
 "angles" "353.251 158.96 1.96561"
@@ -48146,7 +48134,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 949
+// entity 942
 {
 "origin" "37.9 -44.1 -594.3"
 "modelscale" "0.919379"
@@ -48154,7 +48142,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 950
+// entity 943
 {
 "origin" "72.8 -45.1 -593.9"
 "modelscale" "0.967169"
@@ -48162,7 +48150,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 951
+// entity 944
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -48171,7 +48159,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 952
+// entity 945
 {
 "origin" "402.0 104.9 -593.3"
 "modelscale" "0.950012"
@@ -48179,7 +48167,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 953
+// entity 946
 {
 "origin" "588.2 18.7 -592.2"
 "modelscale" "1.282459"
@@ -48187,7 +48175,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 954
+// entity 947
 {
 "origin" "507.9 65.4 -593.3"
 "modelscale" "0.950012"
@@ -48195,7 +48183,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 955
+// entity 948
 {
 "origin" "1672.6 9.7 -595.3"
 "modelscale" "0.907642"
@@ -48203,7 +48191,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 956
+// entity 949
 {
 "modelscale" "0.982935"
 "angles" "353.251 346.96 1.96561"
@@ -48211,7 +48199,7 @@ iwmap 4
 "model" "bog_b_block_01"
 "classname" "misc_model"
 }
-// entity 957
+// entity 950
 {
 "origin" "1512.6 83.2 -594.3"
 "modelscale" "0.919379"
@@ -48219,7 +48207,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 958
+// entity 951
 {
 "origin" "1477.9 79.4 -593.9"
 "modelscale" "0.967169"
@@ -48227,7 +48215,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 959
+// entity 952
 {
 "modelscale" "0.785107"
 "type" "clutter"
@@ -48236,7 +48224,7 @@ iwmap 4
 "model" "me_plastic_crate1"
 "classname" "dyn_model"
 }
-// entity 960
+// entity 953
 {
 "origin" "1172.8 -115.0 -593.3"
 "modelscale" "0.950012"
@@ -48244,7 +48232,7 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 961
+// entity 954
 {
 "origin" "976.4 -55.6 -592.2"
 "modelscale" "1.282459"
@@ -48252,7 +48240,7 @@ iwmap 4
 "model" "bog_b_cinderblock_clutter_03"
 "classname" "misc_model"
 }
-// entity 962
+// entity 955
 {
 "origin" "1062.4 -90.6 -593.3"
 "modelscale" "0.950012"
@@ -48260,110 +48248,50 @@ iwmap 4
 "model" "prefabs/trash/trash_cardboardbox03.map"
 "classname" "misc_prefab"
 }
-// entity 963
+// entity 956
 {
 "angles" "0 357.1 0"
 "origin" "4002.5 21.1 -594.3"
 "model" "prefabs/mp_backlot/cargo_container_backlot.map"
 "classname" "misc_prefab"
 }
-// entity 964
+// entity 957
 {
 "angles" "0 270 0"
 "classname" "reflection_probe"
 "origin" "2268.0 1676.0 -312.0"
 }
-// entity 965
+// entity 958
 {
 "angles" "0 270 0"
 "classname" "reflection_probe"
 "origin" "2268.0 2060.0 -312.0"
 }
-// entity 966
+// entity 959
 {
 "angles" "0 270 0"
 "classname" "reflection_probe"
 "origin" "2268.0 1676.0 -568.0"
 }
-// entity 967
+// entity 960
 {
 "angles" "0 270 0"
 "classname" "reflection_probe"
 "origin" "2268.0 2060.0 -568.0"
 }
-// entity 968
+// entity 961
 {
 "angles" "0 270 0"
 "classname" "reflection_probe"
-"origin" "3484.0 588.0 -312.0"
+"origin" "3484.0 764.0 -456.0"
 }
-// entity 969
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "3484.0 972.0 -312.0"
-}
-// entity 970
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "3484.0 588.0 -568.0"
-}
-// entity 971
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "3484.0 972.0 -568.0"
-}
-// entity 972
+// entity 962
 {
 "angles" "0 270 0"
 "classname" "reflection_probe"
 "origin" "3132.0 1612.0 -312.0"
 }
-// entity 973
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "3132.0 1996.0 -312.0"
-}
-// entity 974
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "3132.0 1612.0 -568.0"
-}
-// entity 975
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "3132.0 1996.0 -568.0"
-}
-// entity 976
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "-1220.0 1868.0 -312.0"
-}
-// entity 977
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "-1220.0 2252.0 -312.0"
-}
-// entity 978
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "-1220.0 1868.0 -568.0"
-}
-// entity 979
-{
-"angles" "0 270 0"
-"classname" "reflection_probe"
-"origin" "-1220.0 2252.0 -568.0"
-}
-// entity 980
+// entity 963
 {
 "origin" "-2284.0 -160.0 -780.0"
 "def" "light_point_linear"
@@ -48372,19 +48300,19 @@ iwmap 4
 "intensity" "1"
 "classname" "light"
 }
-// entity 981
+// entity 964
 {
 "origin" "-915.0 946.0 -412.5"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "classname" "misc_prefab"
 }
-// entity 982
+// entity 965
 {
 "classname" "misc_prefab"
 "model" "prefabs/interactable_objects/prop_barrel_benzin.map"
 "origin" "-107.0 775.0 -703.5"
 }
-// entity 983
+// entity 966
 {
 "classname" "misc_prefab"
 "model" "prefabs/trash/trash_128x64a.map"
