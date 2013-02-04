@@ -20,6 +20,10 @@ vehicle_fire = LoadFX("fire/tank_fire_engine");
 gas_fire = LoadFX("fire/gas_pump_fire");
 fire_large = LoadFX("fire/firelp_large_pm");
 
+//Elicottero disi
+PlayLoopedFX( vehicle_fire, 2, (-1112, 1550, -324) );
+PlayLoopedFX( vehicle_fire, 3, (-1080, 1514, -412) );
+
 //Hammer
 PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1845) );
 PlayLoopedFX( vehicle_fire, 3, (-1126, 515, -1845) );
