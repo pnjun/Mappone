@@ -21,8 +21,8 @@ gas_fire = LoadFX("fire/gas_pump_fire");
 fire_large = LoadFX("fire/firelp_large_pm");
 
 //Elicottero disi
-PlayLoopedFX( vehicle_fire, 2, (-1112, 1550, -324) );
-PlayLoopedFX( vehicle_fire, 3, (-1080, 1514, -412) );
+PlayLoopedFX( vehicle_fire, 2, (-54, 2049, -1664) );
+PlayLoopedFX( vehicle_fire, 3, (-130, 2075, -1662) );
 
 //Hammer
 PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1845) );
@@ -44,8 +44,12 @@ PlayLoopedFX( fire_large, 3, (3586, 2410, -2030) );
 
 //*********Dust*************
 slow_dust_paper = LoadFX("dust/dust_wind_slow_yel_loop");
+dust_room = LoadFX("dust/room_dust_100");
 slow_dust = LoadFX("dust/dust_wind_slow_yel");
 ground_gust= LoadFX("dust/dust_ground_gust");
+
+//Polvere inside
+PlayLoopedFX( dust_room, 3, (2178, 801, -1981) );
 
 //Polvere cantiere
 PlayLoopedFX( slow_dust_paper, 1, (3392, 2048, -2048) );
