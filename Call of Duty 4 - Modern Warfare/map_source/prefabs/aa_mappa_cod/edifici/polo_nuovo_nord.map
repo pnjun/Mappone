@@ -3320,3 +3320,77 @@ iwmap 4
 "model" "prefabs/aa_mappa_cod/vetri_polo_piano_terra.map"
 "classname" "misc_prefab"
 }
+// entity 42
+{
+"origin" "1886.0 3.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo_piano_terra.map"
+"classname" "misc_prefab"
+}
+// entity 43
+{
+"angles" "0 90 0"
+"origin" "2182.0 21.0 368.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo.map"
+"classname" "misc_prefab"
+}
+// entity 44
+{
+"angles" "0 90 0"
+"origin" "2182.0 21.0 200.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo.map"
+"classname" "misc_prefab"
+}
+// entity 45
+{
+"origin" "1574.0 3.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo_piano_terra.map"
+"classname" "misc_prefab"
+}
+// entity 46
+{
+"angles" "0 90 0"
+"origin" "1870.0 21.0 368.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo.map"
+"classname" "misc_prefab"
+}
+// entity 47
+{
+"angles" "0 90 0"
+"origin" "1870.0 21.0 200.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo.map"
+"classname" "misc_prefab"
+}
+// entity 48
+{
+"origin" "1262.0 3.0 0.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo_piano_terra.map"
+"classname" "misc_prefab"
+}
+// entity 49
+{
+"angles" "0 90 0"
+"origin" "1558.0 21.0 368.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo.map"
+"classname" "misc_prefab"
+}
+// entity 50
+{
+"angles" "0 90 0"
+"origin" "1558.0 21.0 200.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo.map"
+"classname" "misc_prefab"
+}
+// entity 51
+{
+"angles" "0 90 0"
+"origin" "1246.0 21.0 368.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo.map"
+"classname" "misc_prefab"
+}
+// entity 52
+{
+"angles" "0 90 0"
+"origin" "1246.0 21.0 200.0"
+"model" "prefabs/aa_mappa_cod/vetri_polo.map"
+"classname" "misc_prefab"
+}
