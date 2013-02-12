@@ -37,6 +37,7 @@ xmodel,body_mp_arab_regular_assault
 xmodel,head_mp_arab_regular_suren
 xmodel,body_mp_arab_regular_support
 xmodel,head_mp_arab_regular_asad
+xmodel,weapon_saw_mg_setup
 
 material,compass_map_mp_unitn
 
@@ -47,6 +48,7 @@ fx,props/barrel_ignite
 fx,props/barrel_fire_top
 
 material,loadscreen_mp_unitn
+
 
 
 
