@@ -48575,10 +48575,3 @@ iwmap 4
 "modelscale" "0.853296"
 "origin" "-1785.9 3296.2 -874.0"
 }
-// entity 977
-{
-"origin" "-315.3 1219.1 -629.0"
-"angles" "0 36.2 0"
-"model" "prefabs/misc_models/vehicle_ch46e_damaged_rear_piece.map"
-"classname" "misc_prefab"
-}
