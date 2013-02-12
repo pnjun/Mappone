@@ -22,7 +22,7 @@ fire_large = LoadFX("fire/firelp_large_pm");
 
 //Elicottero disi
 PlayLoopedFX( vehicle_fire, 2, (-54, 2049, -1664) );
-PlayLoopedFX( vehicle_fire, 3, (-130, 2075, -1662) );
+PlayLoopedFX( vehicle_fire, 3, (-130, 2075, -1659) );
 
 //Hammer
 PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1845) );
