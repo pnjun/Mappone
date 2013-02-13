@@ -137,27 +137,27 @@ iwmap 4
 }
 // entity 8
 {
-"origin" "1462.0 1762.0 -1992.0"
+"origin" "1570.0 1659.0 -2004.0"
 "classname" "info_player_start"
 }
 // entity 9
 {
-"origin" "1382.0 1835.0 -2004.0"
+"origin" "1490.0 1659.0 -2004.0"
 "classname" "mp_dm_spawn"
 }
 // entity 10
 {
-"origin" "1299.0 1823.0 -2004.0"
+"origin" "1411.0 1658.0 -2004.0"
 "classname" "mp_tdm_spawn_allies_start"
 }
 // entity 11
 {
-"origin" "1335.0 1743.0 -2004.0"
+"origin" "1451.0 1659.0 -2004.0"
 "classname" "mp_tdm_spawn_axis_start"
 }
 // entity 12
 {
-"origin" "1447.0 1837.0 -2004.0"
+"origin" "1530.0 1659.0 -2004.0"
 "classname" "mp_tdm_spawn"
 }
 // entity 13

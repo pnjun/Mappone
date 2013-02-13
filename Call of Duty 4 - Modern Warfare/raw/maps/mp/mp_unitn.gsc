@@ -15,14 +15,26 @@ game["axis_soldiertype"] = "desert";
 
 
 
-//********Fuoco*************
+//********Fuoco/Fumo*************
 vehicle_fire = LoadFX("fire/tank_fire_engine");
 gas_fire = LoadFX("fire/gas_pump_fire");
 fire_large = LoadFX("fire/firelp_large_pm");
+crash_smoke = LoadFx("smoke/thin_light_smoke_M");
+fire_smoke_large = LoadFx("smoke/smoke_large");
+
+//Esterno
+PlayLoopedFX( fire_smoke_large, 2, (4148, 840, -1900) );
 
 //Elicottero disi
 PlayLoopedFX( vehicle_fire, 2, (-54, 2049, -1664) );
 PlayLoopedFX( vehicle_fire, 3, (-130, 2075, -1659) );
+PlayLoopedFX( vehicle_fire, 3, (-132, 1832, -2035) );
+PlayLoopedFX( crash_smoke, 3, (-130, 2075, -1659) );
+
+//Elicottero piazzale
+PlayLoopedFX( vehicle_fire, 3, (-1632, 1884, -2035) );
+PlayLoopedFX( vehicle_fire, 3, (-1356, 1832, -2035) );
+PlayLoopedFX( vehicle_fire, 3, (-1792, 1804, -2035) );
 
 //Hammer
 PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1845) );
