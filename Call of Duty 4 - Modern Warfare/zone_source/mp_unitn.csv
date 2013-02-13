@@ -11,6 +11,8 @@ sound,voiceovers,mp_unitn,!all_mp
 sound,multiplayer,mp_unitn,!all_mp
 
 
+fx,smoke/smoke_large
+fx,smoke/thin_light_smoke_M
 fx,fire/tank_fire_engine
 fx,fire/gas_pump_fire
 fx,fire/firelp_large_pm
@@ -49,26 +51,3 @@ fx,props/barrel_ignite
 fx,props/barrel_fire_top
 
 material,loadscreen_mp_unitn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

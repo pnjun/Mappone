@@ -32,9 +32,9 @@ PlayLoopedFX( vehicle_fire, 3, (-132, 1832, -2035) );
 PlayLoopedFX( crash_smoke, 3, (-130, 2075, -1659) );
 
 //Elicottero piazzale
-PlayLoopedFX( vehicle_fire, 3, (-1632, 1884, -2035) );
-PlayLoopedFX( vehicle_fire, 3, (-1356, 1832, -2035) );
-PlayLoopedFX( vehicle_fire, 3, (-1792, 1804, -2035) );
+PlayLoopedFX( vehicle_fire, 3, (-1632, 1884,-2033) );
+PlayLoopedFX( vehicle_fire, 3, (-1356, 1832, -2033) );
+PlayLoopedFX( vehicle_fire, 3, (-1792, 1804, -2033) );
 
 //Hammer
 PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1845) );
