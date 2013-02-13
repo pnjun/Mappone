@@ -6149,6 +6149,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_burned
    lightmap_gray
    smoothing smoothing_hard
@@ -6197,6 +6198,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_burned
    lightmap_gray
    smoothing smoothing_hard
@@ -6215,6 +6217,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_burned
    lightmap_gray
    smoothing smoothing_hard
@@ -6233,6 +6236,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_burned
    lightmap_gray
    smoothing smoothing_hard
@@ -6249,6 +6253,7 @@ iwmap 4
  }
 // brush 621
 {
+  contents detail;
  ( 2822 4 368 ) ( 2816 4 368 ) ( 2816 -6 368 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2816 -6 536 ) ( 2816 4 536 ) ( 2822 4 536 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2835 -320 536 ) ( 2841 -320 536 ) ( 2841 -320 368 ) office_whitewall_01 128 128 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -6260,6 +6265,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_darkstain_01
    lightmap_gray
    smoothing smoothing_hard
@@ -6278,6 +6284,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_darkstain_01
    lightmap_gray
    smoothing smoothing_hard
@@ -6296,6 +6303,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_burned
    lightmap_gray
    smoothing smoothing_hard
@@ -6314,6 +6322,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_burned
    lightmap_gray
    smoothing smoothing_hard
@@ -6332,6 +6341,7 @@ iwmap 4
  {
   mesh
   {
+  contents detail;
    me_decal_burned
    lightmap_gray
    smoothing smoothing_hard

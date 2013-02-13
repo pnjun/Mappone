@@ -6,6 +6,7 @@ iwmap 4
 "classname" "worldspawn"
 // brush 0
 {
+  contents detail;
  ( 6 37 44 ) ( 0 37 44 ) ( 0 30 44 ) uni_glass_seal 50 6 270 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 30 45 ) ( 0 37 45 ) ( 6 37 45 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 30 45 ) ( 6 30 45 ) ( 6 30 44 ) uni_glass_seal 1 6 216 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
@@ -15,6 +16,7 @@ iwmap 4
 }
 // brush 1
 {
+  contents detail;
  ( 6 94 45 ) ( 0 94 45 ) ( 0 30 45 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 31 113 ) ( 3 95 113 ) ( 9 95 113 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 30 81 ) ( 6 30 81 ) ( 6 30 41 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -24,6 +26,7 @@ iwmap 4
 }
 // brush 2
 {
+  contents detail;
  ( 6 31 44 ) ( 0 31 44 ) ( 0 30 44 ) uni_glass_seal 6 -1 1590 -257 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 29 122 ) ( 0 30 122 ) ( 6 30 122 ) uni_glass_seal 6 -1 1590 -257 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 29 122 ) ( 6 29 122 ) ( 6 29 118 ) uni_glass_seal 6 -78 1590 -268 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -33,6 +36,7 @@ iwmap 4
 }
 // brush 3
 {
+  contents detail;
  ( 10 4 0 ) ( 8 4 0 ) ( 8 0 0 ) office_whitewall_01 128 128 -1583 337 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1 0 122 ) ( 1 4 122 ) ( 3 4 122 ) office_whitewall_01 128 128 -1583 337 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 6 0 170 ) ( 8 0 170 ) ( 8 0 -5 ) office_whitewall_01 128 128 -1583 -16 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -42,6 +46,7 @@ iwmap 4
 }
 // brush 4
 {
+  contents detail;
  ( 6 80 113 ) ( 0 80 113 ) ( 0 30 113 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 30 114 ) ( 0 80 114 ) ( 6 80 114 ) uni_glass_seal 50 6 270 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 30 114 ) ( 6 30 114 ) ( 6 30 113 ) uni_glass_seal 1 6 216 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
@@ -51,6 +56,7 @@ iwmap 4
 }
 // brush 5
 {
+  contents detail;
  ( 5 241 114 ) ( 1 241 114 ) ( 1 239 114 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 238 122 ) ( 3 240 122 ) ( 7 240 122 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 30 200 ) ( 6 30 200 ) ( 6 30 78 ) uni_metal_light 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -60,6 +66,7 @@ iwmap 4
 }
 // brush 6
 {
+  contents detail;
  ( 6 82 44 ) ( 0 82 44 ) ( 0 81 44 ) uni_glass_seal 6 -1 1590 -206 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 80 122 ) ( 0 81 122 ) ( 6 81 122 ) uni_glass_seal 6 -1 1590 -206 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 80 122 ) ( 6 80 122 ) ( 6 80 118 ) uni_metal_light 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -69,6 +76,7 @@ iwmap 4
 }
 // brush 7
 {
+  contents detail;
  ( 6 131 113 ) ( 0 131 113 ) ( 0 81 113 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 81 114 ) ( 0 131 114 ) ( 6 131 114 ) uni_glass_seal 50 6 269 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 81 114 ) ( 6 81 114 ) ( 6 81 113 ) uni_glass_seal 1 6 216 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
@@ -78,6 +86,7 @@ iwmap 4
 }
 // brush 8
 {
+  contents detail;
  ( 6 145 45 ) ( 0 145 45 ) ( 0 81 45 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 82 113 ) ( 3 146 113 ) ( 9 146 113 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 81 81 ) ( 6 81 81 ) ( 6 81 41 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -87,6 +96,7 @@ iwmap 4
 }
 // brush 9
 {
+  contents detail;
  ( 6 133 44 ) ( 0 133 44 ) ( 0 132 44 ) uni_glass_seal 6 -1 1590 -155 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 131 122 ) ( 0 132 122 ) ( 6 132 122 ) uni_glass_seal 6 -1 1590 -155 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 131 122 ) ( 6 131 122 ) ( 6 131 118 ) uni_metal_light 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -96,6 +106,7 @@ iwmap 4
 }
 // brush 10
 {
+  contents detail;
  ( 6 196 45 ) ( 0 196 45 ) ( 0 132 45 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 133 113 ) ( 3 197 113 ) ( 9 197 113 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 132 81 ) ( 6 132 81 ) ( 6 132 41 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -105,6 +116,7 @@ iwmap 4
 }
 // brush 11
 {
+  contents detail;
  ( 6 184 44 ) ( 0 184 44 ) ( 0 183 44 ) uni_glass_seal 6 -1 1590 -104 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 182 122 ) ( 0 183 122 ) ( 6 183 122 ) uni_glass_seal 6 -1 1590 -104 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 182 122 ) ( 6 182 122 ) ( 6 182 118 ) uni_metal_light 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -114,6 +126,7 @@ iwmap 4
 }
 // brush 12
 {
+  contents detail;
  ( 6 247 45 ) ( 0 247 45 ) ( 0 183 45 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 184 113 ) ( 3 248 113 ) ( 9 248 113 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 183 81 ) ( 6 183 81 ) ( 6 183 41 ) clip_nosight_for_bridge_on_jeepride_fire_clip 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -123,6 +136,7 @@ iwmap 4
 }
 // brush 13
 {
+  contents detail;
  ( 6 235 44 ) ( 0 235 44 ) ( 0 234 44 ) uni_glass_seal 6 -1 1590 -53 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 233 122 ) ( 0 234 122 ) ( 6 234 122 ) uni_glass_seal 6 -1 1590 -53 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 233 122 ) ( 6 233 122 ) ( 6 233 118 ) uni_metal_light 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -132,6 +146,7 @@ iwmap 4
 }
 // brush 14
 {
+  contents detail;
  ( 5 336 44 ) ( 1 336 44 ) ( 1 334 44 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 334 114 ) ( 3 336 114 ) ( 7 336 114 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 234 195 ) ( 6 234 195 ) ( 6 234 73 ) uni_metal_light 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -141,6 +156,7 @@ iwmap 4
 }
 // brush 15
 {
+  contents detail;
  ( 10 244 0 ) ( 8 244 0 ) ( 8 240 0 ) office_whitewall_01 128 128 -1583 97 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1 240 122 ) ( 1 244 122 ) ( 3 244 122 ) office_whitewall_01 128 128 -1583 97 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 6 240 170 ) ( 8 240 170 ) ( 8 240 -5 ) office_whitewall_01 128 128 -1583 -16 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -150,6 +166,7 @@ iwmap 4
 }
 // brush 16
 {
+  contents detail;
  ( 6 233 44 ) ( 0 233 44 ) ( 0 183 44 ) uni_glass_seal 50 6 267 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 183 45 ) ( 0 233 45 ) ( 6 233 45 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 183 45 ) ( 6 183 45 ) ( 6 183 44 ) uni_glass_seal 1 6 216 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
@@ -159,6 +176,7 @@ iwmap 4
 }
 // brush 17
 {
+  contents detail;
  ( 6 182 44 ) ( 0 182 44 ) ( 0 132 44 ) uni_glass_seal 50 6 268 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 132 45 ) ( 0 182 45 ) ( 6 182 45 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 132 45 ) ( 6 132 45 ) ( 6 132 44 ) uni_glass_seal 1 6 216 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
@@ -168,6 +186,7 @@ iwmap 4
 }
 // brush 18
 {
+  contents detail;
  ( 6 131 44 ) ( 0 131 44 ) ( 0 81 44 ) uni_glass_seal 50 6 269 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 81 45 ) ( 0 131 45 ) ( 6 131 45 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 81 45 ) ( 6 81 45 ) ( 6 81 44 ) uni_glass_seal 1 6 216 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
@@ -177,6 +196,7 @@ iwmap 4
 }
 // brush 19
 {
+  contents detail;
  ( 6 182 113 ) ( 0 182 113 ) ( 0 132 113 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 132 114 ) ( 0 182 114 ) ( 6 182 114 ) uni_glass_seal 50 6 268 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 132 114 ) ( 6 132 114 ) ( 6 132 113 ) uni_glass_seal 1 6 216 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
@@ -186,6 +206,7 @@ iwmap 4
 }
 // brush 20
 {
+  contents detail;
  ( 6 233 113 ) ( 0 233 113 ) ( 0 183 113 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 183 114 ) ( 0 233 114 ) ( 6 233 114 ) uni_glass_seal 50 6 267 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 183 114 ) ( 6 183 114 ) ( 6 183 113 ) uni_glass_seal 1 6 216 1590 -90 0 lightmap_gray 16384 16384 0 0 0 0
@@ -195,6 +216,7 @@ iwmap 4
 }
 // brush 21
 {
+  contents detail;
  ( 5 240 0 ) ( 1 240 0 ) ( 1 238 0 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 3 237 44 ) ( 3 239 44 ) ( 7 239 44 ) uni_metal_light 64 64 -1589 257 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 29 122 ) ( 6 29 122 ) ( 6 29 0 ) uni_metal_light 64 64 -1589 216 0 0 lightmap_gray 16384 16384 0 0 0 0

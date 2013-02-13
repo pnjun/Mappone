@@ -1120,7 +1120,6 @@ iwmap 4
 }
 // brush 115
 {
-  contents detail;
  ( 308 28 192 ) ( 93 28 192 ) ( 93 -2 192 ) uni_ceiling_tile 24 24 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 95 -2 211 ) ( 95 28 211 ) ( 310 28 211 ) uni_concrete_tile 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 93 1 220 ) ( 308 1 220 ) ( 308 1 194 ) uni_concrete_tile 256 256 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -2576,7 +2575,6 @@ iwmap 4
 }
 // brush 263
 {
-  contents detail;
  ( 554 28 192 ) ( 339 28 192 ) ( 339 -2 192 ) uni_ceiling_tile 24 24 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 340 -2 216 ) ( 340 28 216 ) ( 555 28 216 ) uni_piast_mensa 11.52 11.52 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 339 1 220 ) ( 554 1 220 ) ( 554 1 194 ) me_office_ceiling_tiles 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -3353,13 +3351,12 @@ iwmap 4
 }
 // brush 301
 {
-  contents detail;
  ( -113 250 0 ) ( -625 250 0 ) ( -625 -150 0 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -633 -75 16 ) ( -633 325 16 ) ( -121 325 16 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -634 -58 33 ) ( -122 -58 33 ) ( -122 -58 17 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 1590 -194 32 ) ( 1590 206 32 ) ( 1590 206 16 ) caulk 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( -131 542 32 ) ( -643 542 32 ) ( -643 542 16 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 224 320 94.5 ) ( 224 352 94.5 ) ( 224 352 126.5 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 320 94.5 ) ( 0 352 94.5 ) ( 0 352 126.5 ) uni_piast_mensa 8 8 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 302
  {

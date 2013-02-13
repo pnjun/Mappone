@@ -6,6 +6,7 @@ iwmap 4
 "classname" "worldspawn"
 // brush 0
 {
+  contents detail;
  ( 0 17 0 ) ( 8 17 0 ) ( 8 70 0 ) uni_metal_dark 64 64 -3080 71 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 8 70 4 ) ( 8 17 4 ) ( 0 17 4 ) uni_metal_dark 64 64 -3080 71 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 4 31 10 ) ( -4 31 10 ) ( -4 31 1 ) uni_metal_dark 64 -64 -3080 39 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -15,6 +16,7 @@ iwmap 4
 }
 // brush 1
 {
+  contents detail;
  ( 0 -24 140 ) ( 8 -24 140 ) ( 8 29 140 ) uni_metal_dark 64 64 -3080 71 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 8 70 144 ) ( 8 17 144 ) ( 0 17 144 ) uni_metal_dark 64 64 -3080 71 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 4 31 149 ) ( -4 31 149 ) ( -4 31 140 ) uni_metal_dark 64 -64 -3080 179 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -24,6 +26,7 @@ iwmap 4
 }
 // brush 2
 {
+  contents detail;
  ( 0 17 100 ) ( 8 17 100 ) ( 8 70 100 ) uni_metal_dark 64 64 -3080 71 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 8 29 104 ) ( 8 -24 104 ) ( 0 -24 104 ) uni_metal_dark 64 64 -3080 71 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 4 29 109 ) ( -4 29 109 ) ( -4 29 100 ) uni_metal_dark 64 -64 -3080 139 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -33,6 +36,7 @@ iwmap 4
 }
 // brush 3
 {
+  contents detail;
  ( 0 31 4 ) ( 8 31 4 ) ( 8 35 4 ) uni_metal_dark 64 64 -3080 101 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 8 34 140 ) ( 8 30 140 ) ( 0 30 140 ) uni_metal_dark 64 64 -3080 101 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 8 31 8 ) ( 0 31 8 ) ( 0 31 -4 ) uni_metal_dark 64 -64 -3080 0 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -42,6 +46,7 @@ iwmap 4
 }
 // brush 4
 {
+  contents detail;
  ( 0 -2 4 ) ( 8 -2 4 ) ( 8 2 4 ) uni_metal_dark 64 64 -3080 68 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 8 1 140 ) ( 8 -3 140 ) ( 0 -3 140 ) uni_metal_dark 64 64 -3080 68 -180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 8 2 8 ) ( 0 2 8 ) ( 0 2 -4 ) uni_metal_dark 64 -64 -3080 0 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -51,6 +56,7 @@ iwmap 4
 }
 // brush 5
 {
+  contents detail;
  ( 2 32 4 ) ( 2 2 4 ) ( 3 2 4 ) uni_metal_black 64 64 -3072 35 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 2 100 ) ( 2 32 100 ) ( 3 32 100 ) uni_metal_black 64 64 -3072 35 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 29 100 ) ( 2 29 4 ) ( 3 29 4 ) uni_metal_black 64 -64 -3072 0 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -60,6 +66,7 @@ iwmap 4
 }
 // brush 6
 {
+  contents detail;
  ( 2 29 104 ) ( 2 -1 104 ) ( 3 -1 104 ) uni_metal_black 64 64 -3072 35 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 2 140 ) ( 2 32 140 ) ( 3 32 140 ) uni_metal_black 64 64 -3072 35 180 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 29 200 ) ( 2 29 104 ) ( 3 29 104 ) uni_metal_black 64 -64 -3072 100 180 0 lightmap_gray 16384 16384 0 0 0 0
@@ -69,6 +76,7 @@ iwmap 4
 }
 // brush 7
 {
+  contents detail;
  ( 19 0 0 ) ( 19 8 0 ) ( 15 8 0 ) uni_metal_al 8 64 -7 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 14.5 0 50 ) ( 14.5 8 50 ) ( 18 8 50 ) uni_metal_al 8 64 -7 0 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 18 2 52 ) ( 14 2 52 ) ( 14 2 0 ) uni_metal_al 8 64 -7 0 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -82,6 +90,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_al
    lightmap_gray
    9 3 16 8
@@ -136,6 +145,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_al
    lightmap_gray
    9 3 16 8
@@ -190,6 +200,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_al
    lightmap_gray
    9 3 16 8
@@ -244,6 +255,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_al
    lightmap_gray
    9 3 16 8
@@ -298,6 +310,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_al
    lightmap_gray
    9 3 16 8
@@ -352,6 +365,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_al
    lightmap_gray
    9 3 16 8
@@ -406,6 +420,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_al
    lightmap_gray
    9 3 16 8
@@ -460,6 +475,7 @@ iwmap 4
  {
   curve
   {
+  contents detail;
    uni_metal_al
    lightmap_gray
    9 3 16 8
@@ -512,6 +528,7 @@ iwmap 4
  }
 // brush 16
 {
+  contents detail;
  ( 19 29 0 ) ( 19 37 0 ) ( 15 37 0 ) uni_metal_al 8 64 -7 -29 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 14.5 29 50 ) ( 14.5 37 50 ) ( 18 37 50 ) uni_metal_al 8 64 -7 -29 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 18 31 52 ) ( 14 31 52 ) ( 14 31 0 ) uni_metal_al 8 64 -7 0 0 0 lightmap_gray 16384 16384 0 0 0 0
