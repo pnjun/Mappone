@@ -5427,6 +5427,33 @@
 		"stencilFunc2" "Always"
 		"stencil" "Disable"
 	}
+	"uni_itc_bug" ( "xmodel.gdf" )
+	{
+		"type" "rigid"
+		"filename" "uni_modelli\\Bug\\bug.XMODEL_EXPORT"
+		"highLodDist" "0"
+		"forceMediumLodRigid" "0"
+		"mediumLod" ""
+		"mediumLodDist" "0"
+		"forceLowLodRigid" "0"
+		"lowLod" ""
+		"lowLodDist" "0"
+		"forceLowestLodRigid" "0"
+		"lowestLod" ""
+		"lowestLodDist" "0"
+		"groundLit" "0"
+		"noRadialNormals" "0"
+		"radialOriginX" "0"
+		"radialOriginY" "0"
+		"radialOriginZ" "0"
+		"allowHidingAllParts" "0"
+		"collisionLOD" "None"
+		"hitBoxModel" ""
+		"skinOverride" ""
+		"boneControllers" ""
+		"boneStabilizers" ""
+		"physicsPreset" ""
+	}
 	"uni_jesus" ( "material.gdf" )
 	{
 		"template" "material.template"
