@@ -23,7 +23,7 @@ crash_smoke = LoadFx("smoke/thin_light_smoke_M");
 fire_smoke_large = LoadFx("smoke/smoke_large");
 
 //Esterno
-PlayLoopedFX( fire_smoke_large, 2, (4148, 840, -1900) );
+PlayLoopedFX( fire_smoke_large, 3, (4148, 840, -1900) );
 
 //Elicottero disi
 PlayLoopedFX( vehicle_fire, 2, (-54, 2049, -1664) );
@@ -37,11 +37,11 @@ PlayLoopedFX( vehicle_fire, 3, (-1356, 1832, -2033) );
 PlayLoopedFX( vehicle_fire, 3, (-1792, 1804, -2033) );
 
 //Hammer
-PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1845) );
-PlayLoopedFX( vehicle_fire, 3, (-1126, 515, -1845) );
+PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1842) );
+PlayLoopedFX( vehicle_fire, 3, (-1126, 515, -1842) );
 
 //Tank valoni
-PlayLoopedFX( vehicle_fire, 2, (-924, 960, -1845) );
+PlayLoopedFX( vehicle_fire, 2, (-924, 960, -1841) );
 
 //Bidoni cucina
 PlayLoopedFX( vehicle_fire, 2, (688, 1562, -2040) );
