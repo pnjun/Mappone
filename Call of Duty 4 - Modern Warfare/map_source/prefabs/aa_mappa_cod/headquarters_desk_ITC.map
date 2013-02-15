@@ -1,0 +1,78 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+}
+// entity 1
+{
+"spawnflags" "4"
+"targetname" "auto1"
+"script_gameobjectname" "hq"
+"origin" "0.0 0.0 0.0"
+"angles" "0 2.50448e-006 0"
+"model" "com_plasticcase_beige_big"
+"classname" "script_model"
+}
+// entity 2
+{
+"spawnflags" "4"
+"target" "auto1"
+"script_gameobjectname" "hq"
+"targetname" "hq_hardpoint"
+"origin" "14.9 3.0 30.0"
+"angles" "0 249.5 0"
+"model" "com_laptop_2_open"
+"classname" "script_model"
+}
+// entity 3
+{
+"spawnflags" "4"
+"targetname" "auto1"
+"script_gameobjectname" "hq"
+"classname" "script_model"
+"model" "com_cellphone_on"
+"angles" "1.00179e-005 79.1 -89.9997"
+"origin" "23.9 -10.7 30.0"
+}
+// entity 4
+{
+"targetname" "auto1"
+"script_gameobjectname" "hq"
+"classname" "script_brushmodel"
+// brush 0
+{
+ ( 28 15 0 ) ( -27 15 0 ) ( -27 -15 0 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -26 -15 32 ) ( -26 15 32 ) ( 29 15 32 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -28 -15 34 ) ( 27 -15 34 ) ( 27 -15 26 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 27 -15 34 ) ( 27 15 34 ) ( 27 15 26 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 27 15 34 ) ( -28 15 34 ) ( -28 15 26 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -28 15 34 ) ( -28 -15 34 ) ( -28 -15 26 ) clip 64 64 0 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 5
+{
+"targetname" "auto1"
+"script_gameobjectname" "hq"
+"classname" "script_brushmodel"
+// brush 0
+{
+ ( 39.368156 4.5911536 32 ) ( -11.978398 24.302145 32 ) ( -13.770281 19.634279 32 ) clip 64 64 8.1079216 -12.39471 -21 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -13.770281 19.634279 45 ) ( -11.978398 24.302145 45 ) ( 39.368156 4.5911536 45 ) clip 64 64 8.1079216 -12.39471 -21 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -13.770281 19.634279 45 ) ( 37.576248 -0.076714173 45 ) ( 37.576248 -0.076714173 31 ) clip 59.75 64 12.369906 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 24.506208 4.9406328 44 ) ( 26.298119 9.6084986 44 ) ( 26.298119 9.6084986 30 ) clip 59.75 64 4.0069499 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 39.368156 4.5911536 45 ) ( -11.978398 24.302145 45 ) ( -11.978398 24.302145 31 ) clip 59.75 64 14.161411 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 9.4937897 16.059374 45 ) ( 7.7018805 11.391501 45 ) ( 7.7018805 11.391501 31 ) clip 59.751034 64 10.457444 0 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 6
+{
+"targetname" "auto1"
+"spawnflags" "4"
+"script_gameobjectname" "hq"
+"origin" "-14.9 -2.6 30.0"
+"angles" "0 6.89999 0"
+"model" "uni_itc_bug"
+"classname" "script_model"
+}
