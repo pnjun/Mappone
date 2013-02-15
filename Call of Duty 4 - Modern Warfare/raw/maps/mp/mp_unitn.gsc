@@ -3,16 +3,15 @@ main()
 //MINIMAP
 maps\mp\_compass::setupMiniMap("compass_map_mp_unitn");
 setdvar("compassmaxrange","2000");
-
 maps\mp\_explosive_barrels::main();
 
-game["allies"] = "marines";
-game["axis"] = "opfor";
+ambientPlay("ambient100");
+game["allies"] = "sas";
+game["axis"] = "russian";
 game["attackers"] = "axis";
 game["defenders"] = "allies";
-game["allies_soldiertype"] = "desert";
-game["axis_soldiertype"] = "desert";
-
+game["allies_soldiertype"] = "woodland";
+game["axis_soldiertype"] = "woodland";
 
 
 //********Fuoco/Fumo*************
@@ -99,5 +98,25 @@ PlayLoopedFX( slow_dust_paper, 4, (3760,560, -1824) );
 PlayLoopedFX( slow_dust, 5, (4320, 560, -1824) );
 
 
+//***Easter Egg***
+ladder = getent("easter_ladder", "targetname");
+ladder hide();
+ladder notsolid();
 
+thread easter_egg();
+}
+
+easter_egg()
+{
+	ladder = getent("easter_ladder", "targetname");
+	trigger = getent("easter_trigger", "targetname");
+	while(1)
+	{
+		trigger waittill ("trigger");
+		ladder show();
+		ladder solid();
+		wait(10);
+		ladder hide();
+		ladder notsolid();
+	}
 }
