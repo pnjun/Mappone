@@ -71,8 +71,8 @@ iwmap 4
 "targetname" "auto1"
 "spawnflags" "4"
 "script_gameobjectname" "hq"
-"origin" "-14.9 -2.6 30.0"
-"angles" "0 6.89999 0"
+"origin" "-18.8 -3.4 30.0"
+"angles" "0 11.9 0"
 "model" "uni_itc_bug"
 "classname" "script_model"
 }
