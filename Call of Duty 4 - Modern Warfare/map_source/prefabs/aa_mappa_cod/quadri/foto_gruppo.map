@@ -7,7 +7,7 @@ iwmap 4
 // brush 0
 {
  ( 2 1 1 ) ( 0 1 1 ) ( 0 0 0 ) uni_wood_floor 64 128 0 30 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 1 61 ) ( 2 1 61 ) ( 2 0 62 ) uni_wood_floor 64 128 0 30 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 -1 48 ) ( 2 -1 48 ) ( 2 -2 49 ) uni_wood_floor 64 128 0 30 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 0 20 ) ( 1 0 20 ) ( 1 0 -1 ) uni_wood_floor 64 128 0 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 0 22 ) ( 2 2 22 ) ( 2 2 1 ) uni_wood_floor 64 128 -30 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 1 31 ) ( 2 1 31 ) ( 2 1 51 ) uni_wood_floor 64 128 0 -1 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -15,38 +15,38 @@ iwmap 4
 }
 // brush 1
 {
- ( 2 72 0 ) ( 0 72 0 ) ( 0 40 0 ) uni_wood_floor 64 128 1 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 52 0 ) ( 0 52 0 ) ( 0 20 0 ) uni_wood_floor 64 128 1 0 90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 2 1 ) ( 0 23 1 ) ( 1 23 1 ) uni_wood_floor 64 128 1 0 90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 0 0 ) ( 0 0 0 ) ( 0 1 1 ) uni_wood_floor 64 128 -21 0 90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 2 1 1 ) ( 2 22 1 ) ( 2 22 0 ) uni_wood_floor 64 128 -20 1 90 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 82 0 ) ( 2 82 0 ) ( 2 81 1 ) uni_wood_floor 64 128 -20 0 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 62 0 ) ( 2 62 0 ) ( 2 61 1 ) uni_wood_floor 64 128 -20 0 90 0 lightmap_gray 16384 16384 0 0 0 0
  ( 0 22 1 ) ( 0 1 1 ) ( 0 1 0 ) uni_wood_floor 64 128 -20 1 90 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 2
 {
- ( 2 39 1 ) ( 0 39 1 ) ( 0 1 1 ) grossi_gruppo -2 80 0 79 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 41 61 ) ( 0 79 61 ) ( 2 79 61 ) grossi_gruppo -2 80 0 79 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 1 26 ) ( 2 1 26 ) ( 2 1 1 ) grossi_gruppo -2 60 0 59 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2 1 26 ) ( 2 39 26 ) ( 2 39 1 ) grossi_gruppo -80 60 -79 59 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2 81 56 ) ( 0 81 56 ) ( 0 81 31 ) grossi_gruppo -2 60 0 59 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 39 26 ) ( 0 1 26 ) ( 0 1 1 ) grossi_gruppo -80 60 -79 59 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 39 1 ) ( 0 39 1 ) ( 0 1 1 ) grossi_gruppo -2 60 0 59 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 41 46 ) ( 0 79 46 ) ( 2 79 46 ) grossi_gruppo -2 60 0 59 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 1 26 ) ( 2 1 26 ) ( 2 1 1 ) grossi_gruppo -2 45 0 44 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 1 26 ) ( 2 39 26 ) ( 2 39 1 ) grossi_gruppo -60 45 -59 44 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 2 61 56 ) ( 0 61 56 ) ( 0 61 31 ) grossi_gruppo -2 45 0 44 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 39 26 ) ( 0 1 26 ) ( 0 1 1 ) grossi_gruppo -60 45 -59 44 0 0 lightmap_gray 16384 16384 0 0 0 0
 }
 // brush 3
 {
- ( 1 22 61 ) ( 0 22 61 ) ( 0 1 61 ) uni_wood_floor 64 128 51 0 90 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 82 62 ) ( 2 82 62 ) ( 2 50 62 ) uni_wood_floor 64 128 51 0 90 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 0 62 ) ( 2 0 62 ) ( 2 1 61 ) uni_wood_floor 64 128 50 0 90 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2 81 62 ) ( 2 81 61 ) ( 2 51 61 ) uni_wood_floor 64 128 41 51 90 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2 82 62 ) ( 0 82 62 ) ( 0 81 61 ) uni_wood_floor 64 128 51 0 90 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 72 62 ) ( 0 51 62 ) ( 0 51 61 ) uni_wood_floor 64 128 41 51 90 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 1 2 46 ) ( 0 2 46 ) ( 0 -19 46 ) uni_wood_floor 64 128 31 0 90 0 lightmap_gray 16384 16384 0 20 0 0
+ ( 0 82 47 ) ( 2 82 47 ) ( 2 50 47 ) uni_wood_floor 64 128 31 0 90 0 lightmap_gray 16384 16384 0 20 0 0
+ ( 0 0 47 ) ( 2 0 47 ) ( 2 1 46 ) uni_wood_floor 64 128 30 0 90 0 lightmap_gray 16384 16384 0 20 0 0
+ ( 2 61 47 ) ( 2 61 46 ) ( 2 31 46 ) uni_wood_floor 64 128 26 31 90 0 lightmap_gray 16384 16384 -20 15 0 0
+ ( 2 62 47 ) ( 0 62 47 ) ( 0 61 46 ) uni_wood_floor 64 128 31 0 90 0 lightmap_gray 16384 16384 0 20 0 0
+ ( 0 52 47 ) ( 0 31 47 ) ( 0 31 46 ) uni_wood_floor 64 128 26 31 90 0 lightmap_gray 16384 16384 -20 15 0 0
 }
 // brush 4
 {
- ( 0 81 1 ) ( 2 81 1 ) ( 2 82 0 ) uni_wood_floor 64 128 0 -51 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2 81 61 ) ( 0 81 61 ) ( 0 82 62 ) uni_wood_floor 64 128 0 -51 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 81 61 ) ( 2 81 61 ) ( 2 81 41 ) uni_wood_floor 64 128 0 -41 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 2 81 62 ) ( 2 83 62 ) ( 2 83 41 ) uni_wood_floor 64 128 51 -41 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 1 82 31 ) ( 0 82 31 ) ( 0 82 10 ) uni_wood_floor 64 128 0 -41 0 0 lightmap_gray 16384 16384 0 0 0 0
- ( 0 83 62 ) ( 0 81 62 ) ( 0 81 41 ) uni_wood_floor 64 128 51 -41 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( 0 61 1 ) ( 2 61 1 ) ( 2 62 0 ) uni_wood_floor 64 128 0 -31 0 0 lightmap_gray 16384 16384 0 20 0 0
+ ( 2 61 46 ) ( 0 61 46 ) ( 0 62 47 ) uni_wood_floor 64 128 0 -31 0 0 lightmap_gray 16384 16384 0 20 0 0
+ ( 0 61 -39 ) ( 2 61 -39 ) ( 2 61 -59 ) uni_wood_floor 64 128 0 -26 0 0 lightmap_gray 16384 16384 0 15 0 0
+ ( 2 61 47 ) ( 2 63 47 ) ( 2 63 26 ) uni_wood_floor 64 128 31 -26 0 0 lightmap_gray 16384 16384 -20 15 0 0
+ ( 1 62 116 ) ( 0 62 116 ) ( 0 62 95 ) uni_wood_floor 64 128 0 -26 0 0 lightmap_gray 16384 16384 0 15 0 0
+ ( 0 63 47 ) ( 0 61 47 ) ( 0 61 26 ) uni_wood_floor 64 128 31 -26 0 0 lightmap_gray 16384 16384 -20 15 0 0
 }
 }
