@@ -5177,7 +5177,7 @@
 		"radialNormals" "0"
 		"nonColliding" "0"
 		"nonSolid" "0"
-		"transparent" "0"
+		"transparent" "1"
 		"detail" "0"
 		"structural" "0"
 		"portal" "0"
