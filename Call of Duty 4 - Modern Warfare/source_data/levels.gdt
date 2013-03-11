@@ -5146,8 +5146,13 @@
 		"locale_Industrial" "1"
 		"locale_Poland" "1"
 		"locale_Modern_America" "1"
+<<<<<<< HEAD
 		"usage" "sign"
 		"surfaceType" "<none>"
+=======
+		"usage" "exterior wall"
+		"surfaceType" "paper"
+>>>>>>> 60465686fd3ff9689d209dd9833c4ddbeff4c3c1
 		"missileClip" "0"
 		"bulletClip" "0"
 		"playerClip" "0"
