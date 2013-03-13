@@ -6,8 +6,8 @@ setdvar("compassmaxrange","2000");
 maps\mp\_explosive_barrels::main();
 
 ambientPlay("ambient100");
-game["allies"] = "sas";
-game["axis"] = "russian";
+//game["allies"] = "sas";
+//game["axis"] = "russian";
 game["attackers"] = "axis";
 game["defenders"] = "allies";
 game["allies_soldiertype"] = "woodland";
@@ -96,6 +96,15 @@ PlayLoopedFX( slow_dust, 5, (2352, 560, -1824) );
 PlayLoopedFX( slow_dust, 6, (3200, 560, -1824) );
 PlayLoopedFX( slow_dust_paper, 4, (3760,560, -1824) );
 PlayLoopedFX( slow_dust, 5, (4320, 560, -1824) );
+
+
+//***Perk e armi*******
+setDvar( "attach_allow_assault_gl", 0 );
+setDvar( "class_assault_primary_attachment", "none" );
+setDvar( "perk_allow_specialty_armorvest", 0 );
+setDvar( "perk_allow_specialty_pistoldeath", 0 );
+setDvar( "perk_allow_specialty_grenadepulldeath", 0 );
+setDvar( "perk_allow_specialty_claymore_mp", 0 );
 
 
 //***Easter Egg***
