@@ -142,13 +142,13 @@ iwmap 4
 }
 // entity 9
 {
-"origin" "-1264.0 208.0 -752.0"
+"origin" "-1776.0 96.0 -752.0"
 "model" "prefabs/minimap_corner.map"
 "classname" "misc_prefab"
 }
 // entity 10
 {
-"origin" "3792.0 2640.0 -752.0"
+"origin" "3984.0 2880.0 -752.0"
 "model" "prefabs/minimap_corner.map"
 "classname" "misc_prefab"
 }
