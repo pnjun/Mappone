@@ -52884,7 +52884,7 @@ iwmap 4
 {
 "classname" "trigger_use_touch"
 "targetname" "radiotrigger"
-"hintstring" "Press [Use] to capture the BUG!"
+"hintstring" "Press [USE] to capture the BUG!"
 // brush 0
 {
  ( -1455 897 -605 ) ( -1679 897 -605 ) ( -1679 658 -605 ) trigger 64 64 -252 97 0 0 lightmap_gray 16384 16384 0 0 0 0
@@ -52899,7 +52899,7 @@ iwmap 4
 {
 "classname" "trigger_use_touch"
 "targetname" "radiotrigger"
-"hintstring" "Press [Use] to capture the BUG!"
+"hintstring" "Press [USE] to capture the BUG!"
 // brush 0
 {
  ( 832 1690 -807 ) ( 832 1466 -807 ) ( 1071 1466 -807 ) trigger 64 64 2893 1826 90 0 lightmap_gray 16384 16384 0 0 0 0
