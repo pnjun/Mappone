@@ -13,6 +13,8 @@ sound,multiplayer,mp_unitn,!all_mp
 
 fx,smoke/smoke_large
 fx,smoke/thin_light_smoke_M
+fx,smoke/thin_black_smoke_M
+fx,fire/firelp_med_pm
 fx,fire/tank_fire_engine
 fx,fire/gas_pump_fire
 fx,fire/firelp_large_pm
@@ -20,6 +22,8 @@ fx,dust/dust_wind_slow_yel_loop
 fx,dust/dust_wind_slow_yel
 fx,dust/dust_ground_gust
 fx,dust/room_dust_100
+fx,explosions/aerial_explosion
+
 
 include,mptypes_woodland
 xmodel,viewmodel_base_viewhands
@@ -51,6 +55,7 @@ fx,props/barrel_ignite
 fx,props/barrel_fire_top
 
 material,loadscreen_mp_unitn
+
 
 
 

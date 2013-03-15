@@ -14,12 +14,42 @@ game["allies_soldiertype"] = "woodland";
 game["axis_soldiertype"] = "woodland";
 
 
+//***Perk e armi*******
+setDvar( "attach_allow_assault_gl", 0 );
+setDvar( "class_assault_primary_attachment", "none" );
+setDvar( "class_heavygunner_perk2", "specialty_explosivedamage" );
+setDvar( "perk_allow_specialty_armorvest", 0 );
+setDvar( "perk_allow_specialty_pistoldeath", 0 );
+setDvar( "perk_allow_specialty_grenadepulldeath", 0 );
+
+
+//KOTH
+if ( getdvar("g_gametype") != "koth" )
+{
+	trigs = getentarray("radiotrigger", "targetname");
+	for ( i = 0; i < trigs.size; i++ )
+	{
+		trigs[i] delete();
+	}
+}
+
+
+//***Easter Egg***
+ladder = getent("easter_ladder", "targetname");
+ladder hide();
+ladder notsolid();
+
+thread easter_egg();
+
+
 //********Fuoco/Fumo*************
 vehicle_fire = LoadFX("fire/tank_fire_engine");
 gas_fire = LoadFX("fire/gas_pump_fire");
 fire_large = LoadFX("fire/firelp_large_pm");
+fire_med = LoadFX("fire/firelp_med_pm");
 crash_smoke = LoadFx("smoke/thin_light_smoke_M");
 fire_smoke_large = LoadFx("smoke/smoke_large");
+smoke_med = LoadFx("smoke/thin_black_smoke_M");
 
 //Esterno
 PlayLoopedFX( fire_smoke_large, 3, (4148, 840, -1900) );
@@ -35,9 +65,13 @@ PlayLoopedFX( vehicle_fire, 3, (-1632, 1884,-2033) );
 PlayLoopedFX( vehicle_fire, 3, (-1356, 1832, -2033) );
 PlayLoopedFX( vehicle_fire, 3, (-1792, 1804, -2033) );
 
-//Hammer
+//Hammer valoni
 PlayLoopedFX( vehicle_fire, 2, (-1156, 504, -1842) );
 PlayLoopedFX( vehicle_fire, 3, (-1126, 515, -1842) );
+
+//Hammer strada
+PlayLoopedFX( fire_med, 2, (1553, 859, -1842) );
+PlayLoopedFX( smoke_med, 1, (1553, 830, -1750) );
 
 //Tank valoni
 PlayLoopedFX( vehicle_fire, 2, (-924, 960, -1841) );
@@ -97,31 +131,18 @@ PlayLoopedFX( slow_dust, 6, (3200, 560, -1824) );
 PlayLoopedFX( slow_dust_paper, 4, (3760,560, -1824) );
 PlayLoopedFX( slow_dust, 5, (4320, 560, -1824) );
 
-
-//***Perk e armi*******
-setDvar( "attach_allow_assault_gl", 0 );
-setDvar( "class_assault_primary_attachment", "none" );
-setDvar( "perk_allow_specialty_armorvest", 0 );
-setDvar( "perk_allow_specialty_pistoldeath", 0 );
-setDvar( "perk_allow_specialty_grenadepulldeath", 0 );
-setDvar( "perk_allow_specialty_claymore_mp", 0 );
-
-
-//***Easter Egg***
-ladder = getent("easter_ladder", "targetname");
-ladder hide();
-ladder notsolid();
-
-thread easter_egg();
 }
 
 easter_egg()
 {
 	ladder = getent("easter_ladder", "targetname");
 	trigger = getent("easter_trigger", "targetname");
+
+	effect = LoadFx("explosions/aerial_explosion");
 	while(1)
 	{
 		trigger waittill ("trigger");
+		playfx(effect, (4048,1552,-2240));
 		ladder show();
 		ladder solid();
 		wait(10);
