@@ -9923,3 +9923,10 @@ iwmap 4
 "model" "prefabs/aa_mappa_cod/vetrata_1x _completamente_rotta.map"
 "classname" "misc_prefab"
 }
+// entity 664
+{
+"origin" "633.0 452.0 62.5"
+"angles" "0 180 0"
+"model" "prefabs/aa_mappa_cod/quadri/ict_days.map"
+"classname" "misc_prefab"
+}
