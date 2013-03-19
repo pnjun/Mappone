@@ -10013,7 +10013,7 @@
 		"colorMap" "texture_uni\\uni_vetro_cubi.tga"
 		"detailMap" ""
 		"normalMap" ""
-		"specColorMap" "texture_uni\\aa_default_generic_low_SPEC.tga"
+		"specColorMap" "texture_uni\\aa_default_generic_high_SPEC.tga"
 		"cosinePowerMap" ""
 		"specColorStrength" "100"
 		"cosinePowerStrength" "100"
