@@ -9947,26 +9947,19 @@ iwmap 4
 }
 // entity 663
 {
-"origin" "633.0 452.0 62.5"
-"angles" "0 180 0"
-"model" "prefabs/aa_mappa_cod/quadri/ict_days.map"
-"classname" "misc_prefab"
-}
-// entity 664
-{
 "angles" "0 300 0"
 "origin" "1578.7 234.2 405.0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "classname" "misc_prefab"
 }
-// entity 665
+// entity 664
 {
 "angles" "0 300 0"
 "origin" "1578.3 232.8 453.0"
 "model" "prefabs/misc_models/ch_crate48x64.map"
 "classname" "misc_prefab"
 }
-// entity 666
+// entity 665
 {
 "modelscale" "0.961292"
 "angles" "358.317 9.63501 -0.280765"
@@ -9974,7 +9967,7 @@ iwmap 4
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 667
+// entity 666
 {
 "modelscale" "0.961292"
 "angles" "358.317 69.635 -0.280765"
@@ -9982,7 +9975,7 @@ iwmap 4
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 668
+// entity 667
 {
 "modelscale" "0.961292"
 "angles" "358.317 127.635 -0.280763"
@@ -9990,7 +9983,7 @@ iwmap 4
 "model" "com_debris_paper"
 "classname" "misc_model"
 }
-// entity 669
+// entity 668
 {
 "origin" "1506.0 106.0 405.0"
 "modelscale" "0.975812"
@@ -9998,7 +9991,7 @@ iwmap 4
 "model" "prefabs/bog/general/trash_tire_01.map"
 "classname" "misc_prefab"
 }
-// entity 670
+// entity 669
 {
 "modelscale" "0.932361"
 "classname" "dyn_model"
@@ -10007,7 +10000,7 @@ iwmap 4
 "type" "clutter"
 "origin" "1447.3 123.2 405.0"
 }
-// entity 671
+// entity 670
 {
 "origin" "1458.2 132.8 405.0"
 "modelscale" "0.749274"
