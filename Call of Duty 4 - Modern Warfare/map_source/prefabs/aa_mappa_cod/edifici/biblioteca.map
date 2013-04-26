@@ -10008,3 +10008,10 @@ iwmap 4
 "model" "prefabs/trash/trash_pot03.map"
 "classname" "misc_prefab"
 }
+// entity 671
+{
+"angles" "0 180 0"
+"origin" "632.0 452.0 70.0"
+"model" "prefabs/aa_mappa_cod/quadri/foto_biblio.map"
+"classname" "misc_prefab"
+}
